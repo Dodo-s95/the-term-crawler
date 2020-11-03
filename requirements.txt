@@ -1,1 +1,3 @@
 pdfminer-six==20201018
+beautifulsoup4==4.9.3
+requests==2.24.0
