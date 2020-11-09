@@ -3,7 +3,8 @@ Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
@@ -12,20 +13,21 @@ Vol O
 ) O
 Is O
 it O
-Time I
+Time B
 to O
 Consider O
 a O
 Different O
 Way O
 of O
-Swimming I
-Backstroke I
+Swimming B
+Backstroke B
 ? O
-<eos> O
-Ernest I
+"
+" 
+Ernest B
 W. O
-Maglischo I
+Maglischo B
 1970 O
 Lazy B
 Meadow I
@@ -38,10 +40,11 @@ USA O
 ewmaglischo@cox.net O
 Abstract O
 . O
-<eos> O
+"
+" 
 For O
 several O
-years I
+years B
 many O
 of O
 the O
@@ -52,15 +55,15 @@ backstroke I
 swimmers I
 , O
 both O
-male I
+male B
 and O
-female I
+female B
 , O
 have O
 been O
 performing O
 this O
-stroke I
+stroke B
 in O
 a O
 unique B
@@ -68,20 +71,21 @@ style I
 which O
 may O
 be O
-superior I
+superior B
 to O
 the O
 traditional O
 way O
 that O
-backstroke I
+backstroke B
 has O
 been O
 taught O
 . O
-<eos> O
+"
+" 
 This O
-paper I
+paper B
 will O
 describe O
 the O
@@ -98,18 +102,20 @@ swum O
 and O
 its O
 possible O
-benefits I
+benefits B
 . O
-<eos> O
-Introduction I
+"
+" 
+Introduction B
 . O
-<eos> O
+"
+" 
 The O
 backstroke B
 arm I
 stroke I
 has O
-traditionally I
+traditionally B
 been O
 taught O
 with O
@@ -118,10 +124,10 @@ propulsive B
 phases I
 , O
 a O
-pull I
+pull B
 and O
 a O
-push I
+push B
 , O
 or O
 , O
@@ -133,19 +139,20 @@ call O
 them O
 , O
 an O
-upsweep I
+upsweep B
 and O
-downsweep I
+downsweep B
 . O
-<eos> O
+"
+" 
 The O
-graph I
+graph B
 in O
-figure I
+figure B
 1 O
 demonstrates O
 the O
-location I
+location B
 of O
 those O
 propulsive B
@@ -164,9 +171,10 @@ periods I
 between O
 them O
 . O
-<eos> O
+"
+" 
 The O
-graph I
+graph B
 is O
 for O
 Kristina B
@@ -184,20 +192,21 @@ the O
 backstroke B
 events I
 . O
-<eos> O
+"
+" 
 It O
 was O
 constructed O
 from O
-data I
+data B
 collected O
 in O
-competition I
+competition B
 at O
 the O
 1991 O
 World O
-Swimming I
+Swimming B
 Championships O
 where O
 she O
@@ -209,11 +218,13 @@ both O
 backstroke B
 races I
 . O
-<eos> O
-Figure I
+"
+" 
+Figure B
 1 O
 . O
-<eos> O
+"
+" 
 A O
 forward B
 velocity I
@@ -238,15 +249,16 @@ m O
 and O
 200 O
 m O
-backstrokes I
+backstrokes B
 . O
-<eos> O
+"
+" 
 This O
-graph I
+graph B
 was O
 drawn O
 from O
-data I
+data B
 collected O
 at O
 the O
@@ -254,11 +266,12 @@ the O
 World O
 Championships O
 . O
-<eos> O
+"
+" 
 It O
-shows I
+shows B
 her O
-velocity I
+velocity B
 during O
 the O
 left B
@@ -266,23 +279,25 @@ underwater I
 arm I
 stroke I
 . O
-<eos> O
+"
+" 
 It O
 also O
 identifies O
 the O
-location I
+location B
 of O
 two O
 propulsive B
 phases I
 , O
 the O
-pull I
+pull B
 and O
-push I
+push B
 . O
-<eos> O
+"
+" 
 Modified O
 from O
 : O
@@ -290,29 +305,33 @@ J. O
 Cappaert O
 and O
 B.S. O
-Rushall I
+Rushall B
 . O
-<eos> O
+"
+" 
 ( O
 1994 O
 ) O
 . O
-<eos> O
+"
+" 
 Biomechanical O
 Analyses O
 of O
 Champion O
 Swimmers O
 . O
-<eos> O
+"
+" 
 San B
 Diego I
 : O
 Sports O
-Science I
+Science B
 Associates O
 . O
-<eos> O
+"
+" 
 P. O
 2.3 O
 Swimming B
@@ -320,14 +339,16 @@ Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
 ( O
 2014 O
 ) O
-<eos> O
+"
+" 
 The O
 forward B
 velocity I
@@ -339,26 +360,27 @@ mass I
 was O
 calculated O
 and O
-plotted I
+plotted B
 for O
 her O
 left B
 arm I
 stroke I
 . O
-<eos> O
+"
+" 
 The O
 first O
 propulsive B
 phase I
 , O
 the O
-pull I
+pull B
 , O
 occurs O
 as O
 she O
-flexes I
+flexes B
 her O
 arm O
 and O
@@ -368,10 +390,10 @@ arm O
 up O
 toward O
 her O
-body I
+body B
 during O
 the O
-middle I
+middle B
 of O
 her O
 underwater B
@@ -383,25 +405,26 @@ the O
 second O
 , O
 the O
-push I
+push B
 , O
 takes O
-place I
+place B
 as O
 she O
 extends O
 her O
 arm O
-back I
+back B
 , O
 down O
 and O
 in O
 toward O
 her O
-thigh I
+thigh B
 . O
-<eos> O
+"
+" 
 Let O
 describe O
 the O
@@ -416,9 +439,10 @@ in O
 greater B
 detail I
 . O
-<eos> O
+"
+" 
 The O
-graph I
+graph B
 begins O
 when O
 her O
@@ -426,17 +450,18 @@ left B
 arm I
 enters O
 the O
-water I
+water B
 . O
-<eos> O
+"
+" 
 At O
 that O
-time I
+time B
 , O
 she O
 has O
 just O
-completed I
+completed B
 the O
 underwater B
 arm I
@@ -446,7 +471,8 @@ her O
 right O
 arm O
 . O
-<eos> O
+"
+" 
 Consequently O
 , O
 the O
@@ -455,14 +481,15 @@ peak I
 observed O
 at O
 the O
-time I
+time B
 her O
 left B
 arm I
 enters O
 the O
-water I
-<eos> O
+water B
+"
+" 
 is O
 the O
 result B
@@ -474,7 +501,8 @@ right O
 arm B
 stroke I
 . O
-<eos> O
+"
+" 
 Her O
 forward B
 velocity I
@@ -483,9 +511,9 @@ after O
 her O
 right O
 arm O
-releases I
+releases B
 the O
-water I
+water B
 and O
 it O
 will O
@@ -503,7 +531,8 @@ her O
 left B
 arm I
 . O
-<eos> O
+"
+" 
 That O
 occurs O
 at O
@@ -511,17 +540,19 @@ about O
 0.2 O
 secs O
 . O
-<eos> O
+"
+" 
 on O
 the O
-graph I
+graph B
 . O
-<eos> O
+"
+" 
 The O
-catch I
-marks I
+catch B
+marks B
 the O
-beginning I
+beginning B
 of O
 the O
 two O
@@ -529,14 +560,15 @@ propulsive B
 sweeps I
 that O
 take O
-place I
+place B
 during O
 her O
 underwater B
 arm I
 stroke I
 . O
-<eos> O
+"
+" 
 In O
 the O
 first O
@@ -544,14 +576,15 @@ of O
 these O
 , O
 she O
-sweeps I
+sweeps B
 her O
 arm O
 up O
 and O
-back I
+back B
 . O
-<eos> O
+"
+" 
 This O
 phase O
 of O
@@ -566,7 +599,7 @@ most O
 as O
 the O
 “ O
-pull I
+pull B
 ” O
 , O
 although O
@@ -580,12 +613,13 @@ to O
 call O
 it O
 the O
-upsweep I
+upsweep B
 . O
-<eos> O
+"
+" 
 After O
 a O
-slight I
+slight B
 transition B
 period I
 between O
@@ -594,10 +628,11 @@ and O
 0.6 O
 secs O
 . O
-<eos> O
+"
+" 
 on O
 the O
-graph I
+graph B
 during O
 which O
 she O
@@ -613,28 +648,31 @@ by O
 extending O
 her O
 arm O
-back I
+back B
 and O
 down O
 . O
-<eos> O
-Photos I
+"
+" 
+Photos B
 of O
 her O
-upsweep I
+upsweep B
 and O
-downsweep I
+downsweep B
 are O
-shown I
+shown B
 in O
-figure I
+figure B
 2 O
 . O
-<eos> O
-Figure I
+"
+" 
+Figure B
 2 O
 . O
-<eos> O
+"
+" 
 Kristina B
 Egerszegi I
 ’s O
@@ -642,47 +680,49 @@ left B
 arm I
 stroke I
 . O
-<eos> O
+"
+" 
 The O
-photo I
+photo B
 on O
 the O
-left I
-shows I
+left B
+shows B
 her O
 left B
 arm I
 when O
 it O
 is O
-midway I
+midway B
 through O
 the O
-pull I
+pull B
 or O
-upsweep I
+upsweep B
 , O
 and O
 the O
-photo I
+photo B
 on O
 the O
 right O
-shows I
+shows B
 her O
 left B
 arm I
-starting I
+starting B
 the O
-push I
+push B
 or O
-downsweep I
+downsweep B
 . O
-<eos> O
+"
+" 
 In O
 the O
 next O
-section I
+section B
 , O
 I O
 will O
@@ -707,17 +747,18 @@ underwater B
 arm I
 strokes I
 . O
-<eos> O
+"
+" 
 The O
 third O
 propulsive B
 sweep I
 actually O
 takes O
-place I
+place B
 after O
 the O
-downsweep I
+downsweep B
 , O
 during O
 a O
@@ -725,11 +766,11 @@ stroke B
 phase I
 that O
 has O
-generally I
+generally B
 been O
 considered O
 the O
-beginning I
+beginning B
 of O
 a O
 backstroker O
@@ -737,7 +778,8 @@ backstroker O
 arm B
 recovery I
 . O
-<eos> O
+"
+" 
 2 O
 J. O
 Swimming B
@@ -745,18 +787,21 @@ Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
 ( O
 2014 O
 ) O
-<eos> O
+"
+" 
 The O
 three-peak O
-backstroke I
-<eos> O
+backstroke B
+"
+" 
 A O
 center B
 of I
@@ -766,16 +811,17 @@ graph I
 for O
 a O
 three-peak O
-backstroke I
+backstroke B
 is O
-shown I
+shown B
 in O
-figure I
+figure B
 3 O
 . O
-<eos> O
+"
+" 
 The O
-swimmer I
+swimmer B
 is O
 Martin B
 Zubero I
@@ -793,11 +839,12 @@ in O
 the O
 200 O
 m O
-backstroke I
+backstroke B
 . O
-<eos> O
+"
+" 
 The O
-graph I
+graph B
 begins O
 when O
 his O
@@ -805,14 +852,15 @@ right O
 arm O
 enters O
 the O
-water I
+water B
 . O
-<eos> O
+"
+" 
 His O
-velocity I
+velocity B
 at O
 that O
-point I
+point B
 comes O
 from O
 the O
@@ -825,20 +873,21 @@ left B
 arm I
 stroke I
 . O
-<eos> O
+"
+" 
 When O
 his O
 left B
 arm I
-releases I
+releases B
 the O
-water I
+water B
 , O
 his O
-velocity I
+velocity B
 drops O
 to O
-approximately I
+approximately B
 1 O
 m O
 / O
@@ -849,17 +898,19 @@ following O
 0.17 O
 secs O
 . O
-<eos> O
+"
+" 
 as O
 he O
-positions I
+positions B
 his O
 right O
 arm B
 Figure I
 3 O
 . O
-<eos> O
+"
+" 
 A O
 center B
 of I
@@ -871,28 +922,32 @@ for O
 Martin B
 Zubero I
 ’s O
-<eos> O
+"
+" 
 right O
 arm B
 stroke I
 . O
-<eos> O
+"
+" 
 . O
-<eos> O
+"
+" 
 This O
-graph I
+graph B
 was O
 drawn O
 from O
-data I
+data B
 collected O
 at O
 the O
 1992 O
-Olympic I
+Olympic B
 Games O
 . O
-<eos> O
+"
+" 
 Modified O
 from O
 : O
@@ -900,41 +955,46 @@ J. O
 Cappaert O
 and O
 B.S. O
-Rushall I
+Rushall B
 . O
-<eos> O
+"
+" 
 ( O
 1994 O
 ) O
 . O
-<eos> O
+"
+" 
 Biomechanical O
 Analyses O
 of O
 Champion O
 Swimmers O
 . O
-<eos> O
+"
+" 
 San B
 Diego I
 : O
 Sports O
-Science I
+Science B
 Associates O
 . O
-<eos> O
+"
+" 
 P. O
 2.6 O
 for O
 its O
-catch I
+catch B
 at O
-point I
+point B
 # O
 1 O
 . O
-<eos> O
-Point I
+"
+" 
+Point B
 # O
 2 O
 indicates O
@@ -950,16 +1010,17 @@ sweep I
 of O
 his O
 right O
-hand I
+hand B
 , O
 the O
-upsweep I
+upsweep B
 . O
-<eos> O
+"
+" 
 From O
 there O
 he O
-transitions I
+transitions B
 into O
 the O
 next O
@@ -967,24 +1028,25 @@ propulsive B
 sweep I
 , O
 a O
-downsweep I
+downsweep B
 , O
 at O
-point I
+point B
 # O
 3 O
 . O
-<eos> O
+"
+" 
 His O
 peak B
 velocity I
 during O
 the O
-downsweep I
+downsweep B
 , O
 occurs O
 at O
-point I
+point B
 # O
 4 O
 , O
@@ -995,18 +1057,19 @@ his O
 arm O
 down O
 and O
-back I
+back B
 . O
-<eos> O
+"
+" 
 The O
-downsweep I
+downsweep B
 is O
 followed O
 by O
 another O
-transition I
+transition B
 at O
-point I
+point B
 # O
 5 O
 , O
@@ -1016,22 +1079,23 @@ a O
 third O
 , O
 and O
-final I
+final B
 , O
 propulsive B
 sweep I
 takes O
-place I
+place B
 , O
 at O
-point I
+point B
 # O
 6 O
 . O
-<eos> O
+"
+" 
 I O
 have O
-termed I
+termed B
 this O
 final B
 propulsive I
@@ -1055,28 +1119,30 @@ it O
 as O
 an O
 inward O
-scull I
+scull B
 . O
-<eos> O
+"
+" 
 The O
 graphs O
 ends O
 when O
 his O
 right O
-hand I
+hand B
 leaves O
 the O
-water I
+water B
 . O
-<eos> O
+"
+" 
 His O
 forward B
 velocity I
 decelerates O
 at O
 this O
-time I
+time B
 because O
 he O
 is O
@@ -1084,15 +1150,16 @@ recovering O
 his O
 arm O
 . O
-<eos> O
+"
+" 
 The O
-photos I
+photos B
 in O
-figure I
+figure B
 4 O
 demonstrate O
 how O
-Zubero I
+Zubero B
 performs O
 the O
 final B
@@ -1102,14 +1169,15 @@ his O
 right O
 arm O
 . O
-<eos> O
+"
+" 
 The O
 yellow B
 arrows I
 extend O
 to O
 the O
-point I
+point B
 on O
 his O
 forward B
@@ -1118,20 +1186,21 @@ graph I
 represented O
 by O
 each O
-photograph I
+photograph B
 . O
-<eos> O
+"
+" 
 He O
 has O
-completed I
+completed B
 the O
-downsweep I
+downsweep B
 in O
 the O
-photo I
+photo B
 on O
 the O
-left I
+left B
 and O
 is O
 about O
@@ -1141,8 +1210,9 @@ the O
 final B
 upsweep I
 . O
-<eos> O
-Notice I
+"
+" 
+Notice B
 , O
 in O
 the O
@@ -1153,32 +1223,34 @@ that O
 he O
 changed O
 the O
-direction I
+direction B
 his O
-palm I
+palm B
 was O
-facing I
+facing B
 from O
 down O
 to O
-back I
-<eos> O
+back B
+"
+" 
 so O
 he O
 could O
-immediately I
+immediately B
 begin O
-pushing I
+pushing B
 up O
 and O
-back I
+back B
 3 O
 Swimming B
 Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
@@ -1195,61 +1267,62 @@ his O
 extended B
 arm I
 and O
-hand I
+hand B
 , O
 as O
 he O
 is O
-shown I
+shown B
 doing O
 in O
 the O
 middle B
 photo I
 . O
-<eos> O
+"
+" 
 The O
 final B
 upsweep I
 ends O
 as O
 his O
-hand I
-approaches I
+hand B
+approaches B
 his O
-thigh I
+thigh B
 , O
 at O
 which O
-time I
+time B
 , O
 he O
-releases I
-pressure I
+releases B
+pressure B
 on O
 the O
-water I
+water B
 , O
-turns I
+turns B
 his O
-palm I
+palm B
 in O
 toward O
 his O
-thigh I
+thigh B
 and O
 recovers O
 his O
-hand I
+hand B
 and O
 arm O
 out O
 of O
 the O
-water I
+water B
 ( O
 see O
-photo I
+photo B
 on O
 extreme B
 right I
@@ -1258,10 +1331,11 @@ figure I
 4 O
 ) O
 . O
-<eos> O
-Catch I
+"
+" 
+Catch B
 Pull/ O
-Upsweep I
+Upsweep B
 Push/ O
 Downsweep B
 Final I
@@ -1269,7 +1343,8 @@ Upsweep I
 Figure I
 4 O
 . O
-<eos> O
+"
+" 
 Martin B
 Zubero I
 ’s O
@@ -1280,7 +1355,8 @@ his O
 right O
 arm O
 . O
-<eos> O
+"
+" 
 I O
 first O
 learned O
@@ -1294,26 +1370,26 @@ a O
 final B
 upsweep I
 for O
-propulsion I
+propulsion B
 when O
 a O
-group I
+group B
 I O
 was O
-working I
+working B
 with O
 , O
 filmed O
 and O
 analyzed O
 the O
-stroke I
+stroke B
 of O
 Jesse B
 Vassallo I
 , O
 a O
-member I
+member B
 of O
 the O
 1984 O
@@ -1325,9 +1401,10 @@ in O
 the O
 200 O
 m O
-backstroke I
+backstroke B
 . O
-<eos> O
+"
+" 
 I O
 was O
 surprised O
@@ -1348,17 +1425,18 @@ underwater B
 arm I
 stroke I
 . O
-<eos> O
-Initially I
+"
+" 
+Initially B
 , O
 I O
-thought I
+thought O
 this O
 was O
 a O
 huge O
-stroke I
-error I
+stroke B
+error B
 and O
 marveled O
 that O
@@ -1372,11 +1450,12 @@ the O
 Olympic B
 team I
 in O
-spite I
+spite B
 of O
 it O
 . O
-<eos> O
+"
+" 
 That O
 all O
 changed O
@@ -1384,25 +1463,27 @@ when O
 we O
 developed O
 a O
-propulsion I
-graph I
+propulsion B
+graph B
 for O
 him O
 . O
-<eos> O
+"
+" 
 That O
-graph I
+graph B
 is O
-shown I
+shown B
 in O
-figure I
+figure B
 5 O
 . O
-<eos> O
+"
+" 
 The O
 unit O
 of O
-measurement I
+measurement B
 is O
 propulsive B
 force I
@@ -1418,13 +1499,14 @@ the O
 way O
 we O
 were O
-measuring I
-propulsion I
+measuring B
+propulsion B
 at O
 that O
-time I
+time B
 . O
-<eos> O
+"
+" 
 You O
 can O
 assume O
@@ -1432,7 +1514,7 @@ assume O
 however O
 , O
 that O
-increases I
+increases B
 of O
 propulsive B
 force I
@@ -1442,34 +1524,37 @@ greater B
 forward I
 velocity I
 . O
-<eos> O
+"
+" 
 The O
-graph I
+graph B
 begins O
 at O
-point I
+point B
 # O
 1 O
 where O
 his O
 right O
-hand I
+hand B
 enters O
 the O
-water I
+water B
 . O
-<eos> O
+"
+" 
 He O
 makes O
 his O
-catch I
+catch B
 at O
-point I
+point B
 # O
 2 O
 . O
-<eos> O
-Notice I
+"
+" 
+Notice B
 that O
 his O
 propulsive B
@@ -1478,12 +1563,12 @@ was O
 negative O
 between O
 the O
-time I
+time B
 his O
-hand I
+hand B
 entered O
 the O
-water I
+water B
 and O
 it O
 reached O
@@ -1491,7 +1576,8 @@ the O
 catch B
 position I
 . O
-<eos> O
+"
+" 
 The O
 negative O
 propulsive B
@@ -1502,17 +1588,17 @@ he O
 was O
 actually O
 losing O
-speed I
+speed B
 during O
 the O
 interval O
 between O
 the O
-time I
+time B
 he O
 initiated O
 the O
-recovery I
+recovery B
 with O
 his O
 left B
@@ -1520,7 +1606,7 @@ arm I
 and O
 made O
 the O
-catch I
+catch B
 with O
 4 O
 J. O
@@ -1529,30 +1615,33 @@ Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
 ( O
 2014 O
 ) O
-<eos> O
+"
+" 
 his O
 right O
 arm O
 . O
-<eos> O
+"
+" 
 The O
-catch I
+catch B
 with O
 his O
 right O
-hand I
+hand B
 occurred O
 after O
 it O
 had O
-traveled I
+traveled B
 down O
 and O
 out O
@@ -1565,21 +1654,22 @@ time I
 and O
 was O
 in O
-position I
+position B
 to O
 accelerate O
 his O
-body I
-forward I
+body B
+forward B
 . O
-<eos> O
+"
+" 
 His O
-upsweep I
+upsweep B
 was O
 very O
-short I
+short B
 and O
-quick I
+quick B
 with O
 very O
 little O
@@ -1588,9 +1678,9 @@ motion I
 ( O
 see O
 the O
-area I
+area B
 between O
-points I
+points B
 # O
 2 O
 and O
@@ -1605,18 +1695,19 @@ propulsive B
 force I
 graph I
 in O
-figure I
+figure B
 5 O
 ) O
 . O
-<eos> O
+"
+" 
 Nevertheless O
 he O
 was O
 still O
 able O
 to O
-increase I
+increase B
 propulsive B
 force I
 , O
@@ -1628,12 +1719,13 @@ velocity I
 with O
 it O
 . O
-<eos> O
+"
+" 
 His O
-downsweep I
+downsweep B
 , O
 between O
-points I
+points B
 # O
 3 O
 and O
@@ -1641,15 +1733,15 @@ and O
 4 O
 on O
 the O
-graph I
+graph B
 in O
-figure I
+figure B
 5 O
 , O
 was O
 also O
 very O
-short I
+short B
 because O
 his O
 arm O
@@ -1661,39 +1753,40 @@ it O
 began O
 and O
 was O
-completely I
+completely B
 extended O
-shortly I
+shortly B
 thereafter O
 . O
-<eos> O
+"
+" 
 As O
 I O
 mentioned O
-earlier I
+earlier B
 , O
 from O
 the O
-surface I
+surface B
 he O
 appeared O
 to O
 be O
-stroking I
+stroking B
 with O
 a O
 straight B
 arm I
 at O
 all O
-times I
+times B
 , O
 although O
-videos I
-showed I
+videos B
+showed B
 a O
-slight I
-flexion I
+slight B
+flexion B
 and O
 extension O
 of O
@@ -1701,12 +1794,13 @@ his O
 arm O
 during O
 the O
-upsweep I
+upsweep B
 and O
-downsweep I
+downsweep B
 respectively O
 . O
-<eos> O
+"
+" 
 He O
 exerted O
 less O
@@ -1714,14 +1808,14 @@ propulsive B
 force I
 during O
 the O
-downsweep I
+downsweep B
 than O
 he O
 had O
 during O
 the O
 previous O
-upsweep I
+upsweep B
 , O
 therefore O
 , O
@@ -1729,7 +1823,7 @@ his O
 forward B
 velocity I
 probably O
-decreased I
+decreased B
 during O
 that O
 portion O
@@ -1739,77 +1833,81 @@ underwater B
 arm I
 stroke I
 . O
-<eos> O
+"
+" 
 While O
-completing I
+completing B
 the O
-downsweep I
+downsweep B
 he O
-positioned I
+positioned B
 his O
 extended B
 arm I
 so O
 it O
-faced I
-back I
+faced B
+back B
 , O
-similar I
+similar B
 to O
-Zubero I
+Zubero B
 ’s O
-<eos> O
+"
+" 
 right O
 arm O
 , O
 in O
-photo I
+photo B
 # O
 1 O
 of O
-figure I
+figure B
 4 O
 . O
-<eos> O
+"
+" 
 From O
 there O
 , O
 he O
 executed O
 a O
-long I
+long B
 and O
 very O
-powerful I
+powerful B
 final B
 upsweep I
 , O
-pushing I
-back I
+pushing B
+back B
 , O
 up O
 and O
 in O
 against O
 the O
-water I
+water B
 with O
 the O
-underside I
+underside B
 of O
 his O
 upper B
 arm I
 , O
-forearm I
+forearm B
 and O
 the O
-palm I
+palm B
 of O
 his O
-hand I
+hand B
 . O
-<eos> O
+"
+" 
 That O
 phase O
 of O
@@ -1821,9 +1919,9 @@ is O
 designated O
 by O
 the O
-dark I
+dark B
 blue O
-area I
+area B
 on O
 his O
 propulsive B
@@ -1839,7 +1937,7 @@ is O
 by O
 far O
 the O
-longest I
+longest B
 and O
 most O
 propulsive B
@@ -1850,36 +1948,42 @@ that O
 . O
 2 O
 . O
-<eos> O
+"
+" 
 3 O
 . O
-<eos> O
+"
+" 
 4 O
 . O
-<eos> O
+"
+" 
 5 O
 . O
-<eos> O
+"
+" 
 6 O
 . O
-<eos> O
-Entry I
-Catch I
-Pull I
+"
+" 
+Entry B
+Catch B
+Pull B
 / O
-upsweep I
-Push I
+upsweep B
+Push B
 / O
-downsweep I
+downsweep B
 Final B
 upsweep I
-Exit I
+Exit B
 from O
-water I
-Figure I
+water B
+Figure B
 5 O
 . O
-<eos> O
+"
+" 
 A O
 propulsive B
 force I
@@ -1890,41 +1994,46 @@ Vassallo I
 , O
 1984 O
 U.S. O
-Olympian I
+Olympian B
 in O
 the O
 200 O
 m O
-backstroke I
+backstroke B
 . O
-<eos> O
+"
+" 
 5 O
-<eos> O
+"
+" 
 Swimming B
 Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
 ( O
 2014 O
-<eos> O
+"
+" 
 ) O
 arm B
 stroke I
 . O
-<eos> O
+"
+" 
 So O
 , O
 although O
-Vassallo I
+Vassallo B
 executed O
 only O
 two O
-sweeps I
+sweeps B
 that O
 were O
 propulsive O
@@ -1935,25 +2044,26 @@ stroke I
 consisted O
 of O
 three O
-sweeps I
+sweeps B
 , O
 one O
 of O
 which O
 , O
 the O
-downsweep I
+downsweep B
 , O
 presumably O
-resulted I
+resulted B
 in O
 a O
-loss I
+loss B
 of O
 forward B
 velocity I
 . O
-<eos> O
+"
+" 
 The O
 second O
 propulsive B
@@ -1962,17 +2072,17 @@ sweep I
 and O
 his O
 third O
-sweep I
+sweep B
 overall O
 , O
 was O
 achieved O
 with O
 a O
-long I
+long B
 , O
 upward O
-movement I
+movement B
 of O
 his O
 extended B
@@ -1980,25 +2090,26 @@ arm I
 that O
 was O
 done O
-similar I
+similar B
 to O
 the O
 way O
 in O
 which O
-Zubero I
+Zubero B
 executed O
 his O
 final B
 upsweep I
 ( O
 see O
-figure I
+figure B
 4 O
 ) O
 . O
-<eos> O
-Vassallo I
+"
+" 
+Vassallo B
 ’s O
 propulsive B
 force I
@@ -2013,7 +2124,7 @@ backstroke B
 swimmers I
 should O
 be O
-capable I
+capable B
 of O
 achieving O
 three O
@@ -2026,7 +2137,7 @@ arm I
 stroke I
 ; O
 a O
-notion I
+notion B
 , O
 that O
 was O
@@ -2038,32 +2149,33 @@ of I
 mass I
 forward B
 velocity I
-analyses I
+analyses B
 of O
 Martin B
 Zubero I
 and O
 Jeff O
-Rouse I
+Rouse B
 ( O
 Cappaert O
 & O
-Rushall I
+Rushall B
 , O
 1994 O
 ) O
 . O
-<eos> O
+"
+" 
 I O
 included O
 the O
-graph I
+graph B
 in O
-figure I
+figure B
 5 O
 , O
 as O
-evidence I
+evidence B
 that O
 the O
 final B
@@ -2073,12 +2185,13 @@ be O
 very O
 propulsive O
 . O
-<eos> O
+"
+" 
 This O
 may O
 be O
 because O
-swimmers I
+swimmers B
 are O
 able O
 to O
@@ -2088,15 +2201,15 @@ large B
 paddle I
 with O
 their O
-hand I
+hand B
 and O
 arm O
 to O
-push I
-back I
+push B
+back B
 against O
 the O
-water I
+water B
 It O
 may O
 also O
@@ -2111,7 +2224,7 @@ greater B
 velocity I
 with O
 their O
-hand I
+hand B
 , O
 and O
 thus O
@@ -2126,22 +2239,23 @@ is O
 extended O
 instead O
 of O
-flexed I
+flexed B
 . O
-<eos> O
+"
+" 
 This O
 is O
 very O
 likely O
 because O
 the O
-hand I
+hand B
 would O
 be O
 further O
 from O
 the O
-shoulder I
+shoulder B
 , O
 which O
 is O
@@ -2153,26 +2267,28 @@ for O
 the O
 arm O
 . O
-<eos> O
+"
+" 
 Let O
 me O
 describe O
 some O
 other O
-aspects I
+aspects B
 of O
 the O
 three-peak O
-backstroke I
+backstroke B
 that O
 differ O
 from O
 the O
 traditional O
 two-peak O
-stroke I
+stroke B
 . O
-<eos> O
+"
+" 
 This O
 will O
 be O
@@ -2186,41 +2302,44 @@ of I
 Martin I
 Zubero I
 ’s O
-<eos> O
+"
+" 
 stroke B
 pattern I
 illustrated O
 in O
-figure I
+figure B
 6 O
 . O
-<eos> O
+"
+" 
 The O
 first O
-item I
+item B
 I O
 want O
 to O
 discuss O
 is O
 the O
-depth I
+depth B
 of O
 the O
-swimmer I
+swimmer B
 ’s O
 arm O
 when O
 he O
 makes O
 the O
-catch I
+catch B
 . O
-<eos> O
+"
+" 
 Not O
 so O
 very O
-long I
+long B
 ago O
 , O
 conventional B
@@ -2229,62 +2348,64 @@ was O
 that O
 backstrokers O
 should O
-sweep I
+sweep B
 their O
-hand I
+hand B
 down O
-fairly I
-deep I
+fairly B
+deep B
 in O
 the O
-water I
+water B
 before O
 making O
 the O
-catch I
+catch B
 . O
-<eos> O
-Swimmers I
+"
+" 
+Swimmers B
 were O
-generally I
+generally B
 taught O
 to O
-turn I
+turn B
 their O
-palms I
+palms B
 down O
 toward O
 the O
-bottom I
+bottom B
 of O
 the O
-pool I
+pool B
 during O
 this O
-motion I
+motion B
 ( O
 see O
-photo I
+photo B
 on O
 the O
-left I
+left B
 in O
-figure I
+figure B
 7 O
 ) O
 . O
-<eos> O
+"
+" 
 This O
 type B
 of I
 catch I
 was O
 in O
-vogue I
+vogue B
 when O
 we O
-thought I
-sculling I
+thought O
+sculling B
 was O
 the O
 preferred B
@@ -2292,9 +2413,10 @@ method I
 of I
 propulsion I
 . O
-<eos> O
+"
+" 
 The O
-belief I
+belief B
 was,(1 O
 ) O
 that O
@@ -2305,7 +2427,7 @@ would O
 allow O
 for O
 a O
-longer I
+longer B
 and O
 more O
 propulsive B
@@ -2322,13 +2444,13 @@ backstrokers O
 to O
 roll O
 from O
-side I
+side B
 to O
-side I
+side B
 and O
 thus O
 , O
-travel I
+travel B
 through O
 the O
 water B
@@ -2336,40 +2458,47 @@ with I
 less I
 drag I
 . O
-<eos> O
+"
+" 
 Neither O
 of O
 these O
-observations I
+observations B
 have O
 proved O
 to O
 be O
 1 O
 . O
-<eos> O
+"
+" 
 .Catch O
 2 O
 . O
-<eos> O
+"
+" 
 Pull/ O
 /Upsweep O
-<eos> O
+"
+" 
 3 O
 . O
-<eos> O
-Push I
+"
+" 
+Push B
 / O
-Downsweep I
+Downsweep B
 4 O
 . O
-<eos> O
-Final I
+"
+" 
+Final B
 /upsweep O
 5 O
 . O
-<eos> O
-Recovery I
+"
+" 
+Recovery B
 6 O
 J. O
 Swimming B
@@ -2377,17 +2506,19 @@ Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
 ( O
 2014 O
 ) O
-Figure I
+Figure B
 6 O
 . O
-<eos> O
+"
+" 
 Front B
 and I
 side B
@@ -2399,62 +2530,71 @@ for O
 Martin B
 Zubero I
 ’s O
-<eos> O
+"
+" 
 right O
 arm B
 stroke I
 . O
-<eos> O
+"
+" 
 These O
 stroke B
 patterns I
 were O
 modified O
 from O
-data I
+data B
 collected O
 at O
 the O
-Olympic I
+Olympic B
 Games O
 . O
-<eos> O
+"
+" 
 From O
 : O
 J. O
 Cappaert O
 and O
 B.S. O
-Rushall I
+Rushall B
 . O
-<eos> O
+"
+" 
 ( O
 1994 O
 ) O
 . O
-<eos> O
+"
+" 
 Biomechanical O
 Analyses O
 of O
 Champion O
 Swimmers O
 . O
-<eos> O
+"
+" 
 San B
 Diego I
 : O
-<eos> O
+"
+" 
 Sports O
-Science I
+Science B
 Associates O
 p. O
 2.8 O
-<eos> O
-accurate I
+"
+" 
+accurate B
 over O
-time I
+time B
 . O
-<eos> O
+"
+" 
 Most O
 modern-day O
 backstrokers O
@@ -2470,23 +2610,23 @@ are O
 now O
 making O
 their O
-catch I
+catch B
 much O
 nearer O
 the O
-surface I
+surface B
 of O
 the O
-water I
+water B
 , O
 and O
 they O
 are O
-rolling I
+rolling O
 from O
-side I
+side B
 to O
-side I
+side B
 much O
 less O
 , O
@@ -2494,49 +2634,50 @@ only O
 20 O
 to O
 30 O
-degrees I
+degrees B
 to O
 each O
-side I
+side B
 ( O
-Mark I
+Mark B
 , O
 2013 O
 ) O
 . O
-<eos> O
+"
+" 
 As O
 a O
-consequence I
+consequence B
 , O
 they O
 are O
 “ O
-catching I
+catching B
 ” O
-earlier I
+earlier B
 and O
 can O
-start I
-pushing I
-back I
+start B
+pushing B
+back B
 against O
 the O
-resistance I
+resistance B
 of O
 the O
-water I
+water B
 very O
-quickly I
+quickly B
 after O
 their O
-hand I
+hand B
 enters O
 the O
-water I
+water B
 ( O
 see O
-points I
+points B
 # O
 1 O
 and O
@@ -2551,43 +2692,45 @@ view I
 stroke I
 patterns I
 in O
-figure I
+figure B
 6 O
 ) O
 . O
-<eos> O
+"
+" 
 The O
-photographs I
+photographs B
 in O
-figure I
+figure B
 7 O
-show I
+show B
 the O
-difference I
+difference B
 between O
 the O
 “ O
-deep I
+deep B
 ” O
-catch I
+catch B
 and O
 the O
 modern-day O
 “ O
-shallow I
+shallow B
 ” O
-catch I
+catch B
 . O
-<eos> O
+"
+" 
 The O
 first O
 two O
-photos I
+photos B
 illustrate O
 the O
-difference I
+difference B
 in O
-depth I
+depth B
 between O
 the O
 deep B
@@ -2595,15 +2738,16 @@ and I
 shallow I
 catches I
 . O
-<eos> O
+"
+" 
 The O
-swimmer I
+swimmer B
 in O
 the O
-photo I
+photo B
 on O
 the O
-left I
+left B
 is O
 using O
 a O
@@ -2611,40 +2755,41 @@ deep B
 catch I
 and O
 the O
-swimmer I
+swimmer B
 in O
 the O
 middle B
 photo I
 is O
-catching I
+catching B
 much O
-earlier I
+earlier B
 with O
 his O
-hand I
+hand B
 and O
 arm O
-closer I
+closer B
 to O
 the O
-surface I
+surface B
 , O
 and O
 out O
 to O
 the O
-side I
+side B
 more O
 . O
-<eos> O
+"
+" 
 The O
 final B
 photograph I
 on O
 the O
 right O
-shows I
+shows B
 an O
 excellent B
 top B
@@ -2668,43 +2813,45 @@ m O
 and O
 200 O
 m O
-backstrokes I
+backstrokes B
 , O
 just O
 after O
 making O
 her O
-catch I
+catch B
 . O
-<eos> O
-Notice I
+"
+" 
+Notice B
 that O
 her O
 arm O
 has O
-moved I
+moved B
 out O
 to O
 the O
-side I
+side B
 considerably O
 after O
-entry I
+entry B
 and O
 that O
 it O
 is O
 flexed O
 and O
-close I
+close B
 to O
 the O
-surface I
+surface B
 of O
 the O
-water I
+water B
 . O
-<eos> O
+"
+" 
 As O
 mentioned O
 , O
@@ -2713,23 +2860,23 @@ elite B
 backstroke I
 swimmers I
 no O
-longer I
-sweep I
+longer B
+sweep B
 their O
 extended B
 arm I
 down O
-deep I
+deep B
 into O
 the O
-water I
+water B
 to O
 make O
 the O
-catch I
+catch B
 as O
 the O
-swimmer I
+swimmer B
 in O
 the O
 left B
@@ -2741,58 +2888,60 @@ figure I
 is O
 doing O
 . O
-<eos> O
+"
+" 
 Instead O
 , O
 they O
 make O
 the O
-catch I
+catch B
 very O
-quickly I
+quickly B
 after O
 their O
-hand I
+hand B
 enters O
 the O
-water I
+water B
 by O
-flexing I
+flexing B
 their O
-hand I
+hand B
 at O
 the O
-wrist I
+wrist B
 and O
 their O
 arm O
 at O
 the O
-elbow I
+elbow B
 . O
-<eos> O
+"
+" 
 At O
 the O
-catch I
+catch B
 , O
 their O
-hand I
+hand B
 and O
 arm O
 should O
 be O
-facing I
-back I
+facing B
+back B
 , O
 with O
-fingertips I
-pointing I
+fingertips B
+pointing B
 to O
 the O
-side I
+side B
 like O
 the O
-swimmers I
+swimmers B
 in O
 the O
 middle B
@@ -2801,7 +2950,7 @@ right I
 hand I
 photos I
 in O
-figure I
+figure B
 7 O
 , O
 and O
@@ -2811,22 +2960,23 @@ arm O
 should O
 also O
 be O
-flexed I
+flexed B
 at O
 the O
-elbow I
+elbow B
 . O
-<eos> O
-Additionally I
+"
+" 
+Additionally B
 , O
 the O
-swimmer I
+swimmer B
 should O
 not O
 roll O
 to O
 the O
-side I
+side B
 any O
 more O
 than O
@@ -2835,23 +2985,25 @@ to O
 facilitate O
 this O
 “ O
-shallow I
+shallow B
 ” O
-catch I
+catch B
 . O
-<eos> O
-Figure I
+"
+" 
+Figure B
 7 O
 . O
-<eos> O
+"
+" 
 The O
-photo I
+photo B
 on O
 the O
-left I
-shows I
+left B
+shows B
 a O
-swimmer I
+swimmer B
 who O
 is O
 using O
@@ -2859,24 +3011,26 @@ a O
 deep B
 catch I
 . O
-<eos> O
+"
+" 
 The O
 middle B
 photo I
-shows I
+shows B
 Martin B
 Zubero I
 making O
 a O
-catch I
+catch B
 with O
 his O
 left B
 arm I
 . O
-<eos> O
+"
+" 
 The O
-photo I
+photo B
 on O
 the O
 right O
@@ -2892,28 +3046,32 @@ just O
 after O
 making O
 the O
-catch I
+catch B
 with O
 her O
 right O
 arm O
 . O
-<eos> O
+"
+" 
 7 O
-<eos> O
+"
+" 
 Swimming B
 Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
 ( O
 2014 O
 ) O
-<eos> O
+"
+" 
 Many O
 backstroke B
 swimmers I
@@ -2922,21 +3080,22 @@ to O
 apply O
 propulsive B
 force I
-immediately I
+immediately B
 after O
 their O
-hand I
+hand B
 enters O
 the O
-water I
+water B
 . O
-<eos> O
+"
+" 
 However O
 , O
 forward B
 velocity I
 graphs O
-show I
+show B
 that O
 elite B
 backstroke I
@@ -2949,30 +3108,32 @@ is O
 in O
 a O
 backward-facing O
-position I
+position B
 before O
 doing O
 so O
 ( O
 see O
-<eos> O
+"
+" 
 middle B
 and I
 right I
 hand I
 photos I
 in O
-figure I
+figure B
 7 O
 ) O
 . O
-<eos> O
+"
+" 
 The O
 propulsive B
 force I
 graph I
 in O
-figure I
+figure B
 1 O
 indicates O
 that O
@@ -2983,21 +3144,21 @@ not O
 begin O
 to O
 apply O
-force I
-immediately I
+force B
+immediately B
 after O
 her O
-hand I
+hand B
 entered O
 the O
-water I
+water B
 , O
 and O
 the O
-velocity I
+velocity B
 graphs O
 in O
-figures I
+figures B
 3 O
 and O
 4 O
@@ -3006,22 +3167,23 @@ that O
 Martin B
 Zubero I
 ’s O
-body I
+body B
 did O
 not O
 begin O
 to O
 accelerate O
-forward I
+forward B
 until O
 after O
 his O
 arm O
 was O
-flexed I
+flexed B
 . O
-<eos> O
-Likewise I
+"
+" 
+Likewise B
 , O
 the O
 propulsive B
@@ -3030,10 +3192,10 @@ graph I
 for O
 Jesse B
 Vassallo I
-show I
+show B
 that O
 the O
-force I
+force B
 he O
 applied O
 did O
@@ -3042,16 +3204,17 @@ become O
 propulsive O
 until O
 some O
-time I
+time B
 after O
 his O
 right O
 arm O
 entered O
 the O
-water I
+water B
 . O
-<eos> O
+"
+" 
 This O
 suggests O
 that O
@@ -3059,35 +3222,35 @@ backstroke B
 swimmers I
 take O
 the O
-time I
+time B
 to O
-flex I
+flex B
 their O
 arm O
 and O
-position I
+position B
 it O
 so O
 they O
 can O
-push I
-back I
+push B
+back B
 against O
 the O
-resistance I
+resistance B
 of O
 the O
-water I
+water B
 with O
 the O
-palm I
+palm B
 of O
 their O
-hand I
+hand B
 , O
 and O
 the O
-undersides I
+undersides B
 of O
 their O
 forearm B
@@ -3098,28 +3261,29 @@ when O
 they O
 make O
 the O
-catch I
+catch B
 and O
 execute O
 the O
-upsweep I
+upsweep B
 that O
 follows O
 . O
-<eos> O
+"
+" 
 This O
-method I
+method B
 of O
 making O
 the O
-catch I
+catch B
 is O
 demonstrated O
 in O
 the O
-photos I
+photos B
 and O
-accompanying B
+accompanying O
 forward B
 velocity B
 graph B
@@ -3127,36 +3291,38 @@ of I
 Martin I
 Zubero I
 in O
-figure I
+figure B
 8 O
 . O
-<eos> O
+"
+" 
 The O
 two O
-photos I
-show I
+photos B
+show B
 him O
 , O
 at O
 the O
-time I
+time B
 his O
 left B
 arm I
 enters O
 the O
-water I
+water B
 and O
 at O
 the O
-point I
+point B
 where O
 he O
 makes O
 his O
-catch I
+catch B
 . O
-<eos> O
+"
+" 
 It O
 usually O
 takes O
@@ -3165,18 +3331,18 @@ to O
 0.2 O
 seconds O
 after O
-entry I
+entry B
 , O
 for O
-swimmer I
+swimmer B
 ’s O
 to O
-position I
+position B
 their O
 arms O
 for O
 the O
-catch I
+catch B
 , O
 or O
 , O
@@ -3197,20 +3363,21 @@ underwater B
 arm I
 stroke I
 . O
-<eos> O
+"
+" 
 A O
 shallow B
 catch I
 , O
 as O
-shown I
+shown B
 in O
 the O
 right O
 hand B
 photo I
 in O
-figure I
+figure B
 8 O
 , O
 should O
@@ -3222,20 +3389,20 @@ backstrokers O
 whether O
 they O
 are O
-swimming I
+swimming B
 with O
 a O
 two-peak O
 or O
 three- O
-peak I
+peak B
 propulsive O
-stroke I
+stroke B
 because O
 it O
 reduces O
 the O
-time I
+time B
 they O
 will O
 decelerate O
@@ -3251,21 +3418,23 @@ one O
 arm O
 and O
 the O
-point I
+point B
 where O
 they O
 initiate O
-propulsion I
+propulsion B
 with O
 the O
 other O
 . O
-<eos> O
-Catch I
-Pull I
+"
+" 
+Catch B
+Pull B
 / O
-upsweep I
-<eos> O
+upsweep B
+"
+" 
 Push/ O
 Dwnsw O
 sweep B
@@ -3274,7 +3443,8 @@ Upsweep I
 Figure I
 8 O
 . O
-<eos> O
+"
+" 
 The O
 backstroke B
 catch I
@@ -3286,35 +3456,41 @@ left B
 arm I
 stroke I
 . O
-<eos> O
+"
+" 
 8 O
-<eos> O
+"
+" 
 J. O
 Swimming B
 Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
 ( O
 2014 O
 ) O
-<eos> O
+"
+" 
 The O
-Upsweep I
+Upsweep B
 . O
-<eos> O
+"
+" 
 The O
-upsweep I
+upsweep B
 begins O
 at O
 the O
-catch I
+catch B
 . O
-<eos> O
+"
+" 
 It O
 is O
 the O
@@ -3326,75 +3502,78 @@ the O
 arm B
 stroke I
 . O
-<eos> O
+"
+" 
 As O
 mentioned O
-earlier I
+earlier B
 , O
 it O
 is O
 more O
-commonly I
+commonly B
 referred O
 as O
 the O
 “ O
-pull I
+pull B
 ” O
 . O
-<eos> O
+"
+" 
 At O
 one O
-time I
+time B
 it O
 was O
 taught O
 as O
 a O
-long I
+long B
 upward O
 and O
 inward O
-sweep I
+sweep B
 of O
 the O
-hand I
+hand B
 and O
 arm O
 , O
 which O
-started I
+started B
 with O
 the O
-swimmer I
+swimmer B
 ’s O
 arm O
-fully I
+fully B
 extended O
 and O
 ended O
 with O
 the O
 arm O
-flexed I
+flexed B
 nearly O
 900 O
 when O
 it O
-approached I
+approached B
 the O
-surface I
+surface B
 of O
 the O
-water I
+water B
 near O
 the O
 ribs O
 . O
-<eos> O
+"
+" 
 Many O
 of O
-today I
+today B
 ’s O
 world-class O
 backstrokers O
@@ -3405,27 +3584,29 @@ much O
 shorter B
 upsweep I
 . O
-<eos> O
+"
+" 
 With O
 an O
-emphasis I
+emphasis B
 on O
-pushing I
-back I
+pushing B
+back B
 against O
 the O
-water I
+water B
 with O
 their O
-hand I
+hand B
 instead O
 of O
-sculling I
+sculling B
 up O
 with O
 it O
 . O
-<eos> O
+"
+" 
 Following O
 the O
 shallow B
@@ -3434,14 +3615,14 @@ catch I
 they O
 direct O
 their O
-hand I
-back I
+hand B
+back B
 against O
 the O
-water I
+water B
 ( O
 see O
-point I
+point B
 # O
 2 O
 in O
@@ -3451,39 +3632,41 @@ view I
 stroke I
 pattern I
 in O
-figure I
+figure B
 8) O
 . O
-<eos> O
+"
+" 
 They O
 also O
 do O
 not O
-flex I
+flex B
 their O
-elbow I
+elbow B
 to O
 any O
 great B
 extent I
 during O
 this O
-motion I
+motion B
 . O
-<eos> O
+"
+" 
 Instead O
 , O
 they O
-flex I
+flex B
 their O
 arm O
 at O
 the O
-elbow I
+elbow B
 while O
 making O
 the O
-catch I
+catch B
 , O
 ( O
 see O
@@ -3493,35 +3676,37 @@ photo I
 of I
 Zubero I
 in O
-figure I
+figure B
 8) O
-<eos> O
+"
+" 
 and O
 it O
 does O
 not O
-flex I
+flex B
 very O
 much O
 more O
 during O
 the O
-upsweep I
+upsweep B
 . O
-<eos> O
+"
+" 
 The O
-upsweep I
+upsweep B
 in O
-backstroke I
+backstroke B
 is O
 an O
 example O
 of O
 the O
 same O
-shoulder I
+shoulder B
 adducting O
-movement I
+movement B
 I O
 described O
 in O
@@ -3530,7 +3715,7 @@ earlier B
 paper I
 for O
 the O
-breaststroke I
+breaststroke B
 , O
 butterfly B
 and I
@@ -3539,22 +3724,23 @@ crawl I
 arm I
 strokes I
 . O
-<eos> O
+"
+" 
 Backstroke B
 swimmers I
 direct O
 their O
 arm O
 almost O
-horizontally I
-back I
+horizontally B
+back B
 against O
 the O
-water I
+water B
 with O
 the O
-hand I
-traveling I
+hand B
+traveling B
 up O
 only O
 a O
@@ -3571,13 +3757,14 @@ the O
 shoulder B
 joint I
 . O
-<eos> O
+"
+" 
 This O
 is O
 probably O
 because O
-stroking I
-back I
+stroking B
+back B
 more O
 enables O
 backstroke B
@@ -3588,7 +3775,7 @@ propulsive B
 force I
 against O
 the O
-water I
+water B
 with O
 both O
 their O
@@ -3601,32 +3788,35 @@ as O
 well O
 as O
 the O
-palm I
+palm B
 of O
 their O
-hand I
+hand B
 during O
 the O
-upsweep I
+upsweep B
 . O
-<eos> O
+"
+" 
 The O
-photos I
+photos B
 in O
-figure I
+figure B
 9 O
-show I
+show B
 the O
 upsweep B
 of I
 Martin I
 Zubero I
 ’s O
-<eos> O
+"
+" 
 left B
 arm I
 . O
-<eos> O
+"
+" 
 There O
 is O
 one O
@@ -3635,13 +3825,13 @@ difference I
 between O
 the O
 shoulder-adducting O
-upsweep I
+upsweep B
 in O
-backstroke I
+backstroke B
 and O
 the O
 corresponding O
-sweeps I
+sweeps B
 in O
 the O
 other O
@@ -3649,41 +3839,43 @@ three O
 competitive B
 strokes I
 . O
-<eos> O
+"
+" 
 Viewed O
 from O
-overhead I
+overhead B
 , O
 the O
-direction I
+direction B
 of O
 the O
-upsweep I
+upsweep B
 is O
 almost O
-directly I
-backward I
+directly B
+backward B
 with O
-minimal I
+minimal B
 out O
 and O
 in O
-motion I
+motion B
 . O
-<eos> O
+"
+" 
 Most O
 modern-day O
 backstrokers O
 make O
 the O
-catch I
+catch B
 with O
 their O
 arm O
 out O
 to O
 the O
-side I
+side B
 more O
 and O
 they O
@@ -3694,11 +3886,12 @@ inward O
 portion O
 of O
 the O
-shoulder I
+shoulder B
 adducting O
-movement I
+movement B
 . O
-<eos> O
+"
+" 
 Because O
 of O
 this O
@@ -3710,24 +3903,25 @@ bring O
 their O
 arm O
 in O
-close I
+close B
 to O
 their O
-side I
+side B
 before O
 they O
-transition I
+transition B
 to O
 the O
-downsweep I
+downsweep B
 . O
-<eos> O
+"
+" 
 Although O
 the O
-upsweep I
+upsweep B
 will O
 be O
-shorter I
+shorter B
 when O
 done O
 this O
@@ -3749,32 +3943,33 @@ retained O
 the O
 most O
 propulsive O
-part I
+part B
 of O
 the O
-movement I
+movement B
 . O
-<eos> O
+"
+" 
 The O
 right O
 hand B
 photo I
 in O
-figure I
+figure B
 9 O
-shows I
-Zubero I
+shows B
+Zubero B
 near O
 the O
-point I
+point B
 in O
 his O
-upsweep I
+upsweep B
 where O
 he O
 begins O
 to O
-transition I
+transition B
 to O
 the O
 next O
@@ -3782,29 +3977,33 @@ propulsive B
 phase I
 , O
 the O
-push I
+push B
 or O
-downsweep I
+downsweep B
 . O
-<eos> O
+"
+" 
 9 O
-<eos> O
+"
+" 
 Swimming B
 Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
 ( O
 2014 O
 ) O
-<eos> O
-Catch I
+"
+" 
+Catch B
 Pull/ O
-Upsweep I
+Upsweep B
 Push/ O
 Downsweep B
 Final I
@@ -3812,9 +4011,10 @@ Upsweep I
 Figure I
 9 O
 . O
-<eos> O
+"
+" 
 The O
-upsweep I
+upsweep B
 for O
 Martin B
 Zubero I
@@ -3823,27 +4023,29 @@ left B
 arm I
 stroke I
 . O
-<eos> O
+"
+" 
 The O
-Downsweep I
+Downsweep B
 . O
-<eos> O
+"
+" 
 Photos O
 of O
 Martin B
 Zubero I
 ’s O
-push I
+push B
 or O
-downsweep I
+downsweep B
 with O
 his O
 left B
 arm I
 are O
-shown I
+shown B
 in O
-figure I
+figure B
 10 O
 , O
 together O
@@ -3854,32 +4056,33 @@ graph I
 that O
 demonstrates O
 its O
-effect I
+effect B
 on O
 his O
 forward B
 propulsion I
 . O
-<eos> O
+"
+" 
 As O
 he O
-completes I
+completes B
 the O
-upsweep I
+upsweep B
 , O
 he O
-turns I
+turns B
 his O
-palm I
+palm B
 so O
 it O
-faces I
-back I
+faces B
+back B
 and O
-pushes I
+pushes B
 against O
 the O
-water I
+water B
 by O
 extending O
 his O
@@ -3891,63 +4094,65 @@ and I
 downward I
 direction I
 . O
-<eos> O
+"
+" 
 The O
 front B
 view I
 stroke I
 pattern I
 in O
-figure I
+figure B
 6 O
-shows I
+shows B
 that O
 he O
-sweeps I
+sweeps B
 his O
-hand I
+hand B
 almost O
-directly I
-back I
+directly B
+back B
 for O
 most O
 of O
 the O
-distance I
+distance B
 , O
 not O
-back I
+back B
 and O
 in O
 as O
 is O
-traditionally I
+traditionally B
 taught O
 . O
-<eos> O
+"
+" 
 The O
-downsweep I
+downsweep B
 ends O
 when O
 his O
 arm O
 is O
-completely I
+completely B
 extended O
 below O
 his O
-body I
+body B
 and O
 away O
 from O
 his O
-side I
+side B
 ( O
 see O
 stroke B
 pattern I
 in O
-figure I
+figure B
 6 O
 and O
 the O
@@ -3955,15 +4160,16 @@ right O
 hand B
 photo I
 in O
-figure I
+figure B
 10 O
 ) O
 . O
-<eos> O
+"
+" 
 Extending O
 the O
 arm O
-back I
+back B
 and O
 down O
 should O
@@ -3973,11 +4179,11 @@ swimmers I
 to O
 use O
 their O
-forearm I
+forearm B
 to O
-push I
-water I
-back I
+push B
+water B
+back B
 for O
 a O
 longer B
@@ -3986,84 +4192,87 @@ of I
 time I
 during O
 the O
-downsweep I
+downsweep B
 , O
 whereas O
 , O
-pushing I
+pushing B
 the O
 arm O
 in O
 toward O
 the O
-side I
+side B
 at O
 this O
-time I
+time B
 , O
 as O
 is O
-traditionally I
+traditionally B
 taught O
 , O
 would O
 eliminate O
 the O
-forearm I
+forearm B
 as O
 a O
 propulsive B
 surface I
 almost O
-immediately I
+immediately B
 . O
-<eos> O
-Swimmers I
+"
+" 
+Swimmers B
 would O
 be O
-pushing I
-water I
+pushing B
+water B
 in O
 toward O
 their O
 leg O
 . O
-<eos> O
+"
+" 
 Perhaps O
 even O
 more O
-importantly I
+importantly B
 , O
 it O
 enables O
 them O
 to O
-finish I
+finish B
 the O
-downsweep I
+downsweep B
 with O
 their O
-hand I
+hand B
 and O
 arm O
 below O
 their O
-body I
+body B
 and O
 away O
 from O
 their O
-side I
+side B
 . O
-<eos> O
+"
+" 
 This O
 will O
-position I
+position B
 their O
 arm O
 for O
 a O
-longer I
+longer B
 and O
 more O
 propulsive B
@@ -4071,46 +4280,48 @@ final I
 upsweep I
 ( O
 see O
-figure I
+figure B
 11 O
 ) O
 . O
-<eos> O
+"
+" 
 The O
-swimmer I
+swimmer B
 ’s O
-palm I
+palm B
 should O
 be O
-facing I
-back I
+facing B
+back B
 and O
 his O
-fingertips I
+fingertips B
 should O
 remain O
-facing I
+facing B
 , O
 away O
 from O
 his O
 or O
 her O
-body I
+body B
 and O
 toward O
 the O
-side I
+side B
 of O
 the O
-pool I
+pool B
 throughout O
 the O
-upsweep I
+upsweep B
 and O
-downsweep I
+downsweep B
 . O
-<eos> O
+"
+" 
 10 O
 J. O
 Swimming B
@@ -4118,63 +4329,69 @@ Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
 ( O
 2014 O
 ) O
-<eos> O
-Catch I
+"
+" 
+Catch B
 Pull/ O
-<eos> O
-Upsweep I
-Final I
+"
+" 
+Upsweep B
+Final B
 /upsweep O
 Push/ O
-Downsweep I
+Downsweep B
 Dwnsweep O
-Figure I
+Figure B
 10 O
 . O
-<eos> O
+"
+" 
 Martin B
 Zubero I
 ’s O
-downsweep I
+downsweep B
 during O
 his O
 left B
 arm I
 stroke I
 . O
-<eos> O
+"
+" 
 These O
-photos I
+photos B
 are O
 not O
 in O
-sequence I
+sequence B
 with O
 the O
 left B
 arm B
 photos I
 in O
-figures I
+figures B
 8 O
 , O
 9 O
 and O
 10 O
 . O
-<eos> O
+"
+" 
 The O
-photos I
+photos B
 in O
 this O
-figure I
+figure B
 are O
 of O
 his O
@@ -4184,20 +4401,21 @@ stroke I
 when O
 he O
 is O
-traveling I
+traveling B
 in O
 the O
 opposite B
 direction I
 . O
-<eos> O
+"
+" 
 This O
 was O
 done O
 because O
 it O
 is O
-easier I
+easier B
 to O
 see O
 what O
@@ -4209,7 +4427,7 @@ his O
 left B
 arm I
 and O
-hand I
+hand B
 during O
 the O
 final B
@@ -4218,9 +4436,10 @@ from O
 this O
 angle O
 . O
-<eos> O
+"
+" 
 Please O
-notice I
+notice B
 , O
 on O
 his O
@@ -4228,48 +4447,49 @@ velocity B
 graph I
 , O
 in O
-figure I
+figure B
 10 O
 , O
 that O
-Zubero I
+Zubero B
 ’s O
-downsweep I
+downsweep B
 is O
 very O
-short I
+short B
 , O
 and O
 , O
 that O
 his O
-body I
+body B
 accelerates O
 only O
-slightly I
+slightly B
 during O
 it O
 ’s O
-execution I
+execution B
 . O
-<eos> O
+"
+" 
 This O
 is O
 probably O
 an O
-attempt I
+attempt B
 on O
 his O
-part I
+part B
 to O
 get O
 his O
 arm O
 in O
-position I
+position B
 for O
 a O
-long I
+long B
 and O
 propulsive B
 final I
@@ -4286,12 +4506,14 @@ he O
 certainly O
 achieves O
 . O
-<eos> O
+"
+" 
 The O
 Final B
 upsweep I
 . O
-<eos> O
+"
+" 
 The O
 final B
 upsweep I
@@ -4306,7 +4528,8 @@ underwater B
 arm I
 stroke I
 . O
-<eos> O
+"
+" 
 Most O
 three-peak O
 backstroke B
@@ -4316,24 +4539,25 @@ learned O
 to O
 do O
 this O
-sweep I
-intuitively I
+sweep B
+intuitively B
 . O
-<eos> O
+"
+" 
 In O
-fact I
+fact B
 , O
 they O
 may O
 not O
 even O
 be O
-aware I
+aware B
 it O
 is O
 propulsive O
 , O
-thinking I
+thinking O
 instead O
 , O
 that O
@@ -4344,59 +4568,61 @@ their O
 arm O
 to O
 the O
-surface I
+surface B
 . O
-<eos> O
-Photos I
+"
+" 
+Photos B
 of O
 the O
 final B
 upsweep I
 of O
-Zubero I
+Zubero B
 ’s O
 left B
 arm I
 in O
-figure I
+figure B
 11 O
-show I
+show B
 otherwise O
 . O
-<eos> O
+"
+" 
 I O
 ca O
 n’t O
-stress I
+stress B
 too O
 much O
 that O
-swimmers I
+swimmers B
 should O
 rotate O
 their O
-palm I
+palm B
 to O
 a O
 fingers-down O
-position I
+position B
 as O
 they O
-complete I
+complete B
 the O
 downward B
 portion I
 of O
 the O
 preceding O
-downsweep I
+downsweep B
 so O
 they O
 can O
-transition I
-smoothly I
+transition B
+smoothly B
 and O
-quickly I
+quickly B
 into O
 the O
 final B
@@ -4408,16 +4634,17 @@ left B
 hand I
 photo I
 in O
-figure I
+figure B
 11 O
 ) O
 . O
-<eos> O
+"
+" 
 From O
 there O
 they O
 should O
-sweep I
+sweep B
 their O
 extended B
 arm I
@@ -4426,96 +4653,100 @@ and O
 in O
 toward O
 their O
-thigh I
+thigh B
 , O
 using O
 their O
-palm I
+palm B
 and O
 the O
-underside I
+underside B
 of O
 their O
-forearm I
+forearm B
 to O
-push I
-back I
+push B
+back B
 against O
 the O
-resistance I
+resistance B
 of O
 the O
-water I
+water B
 as O
 they O
 do O
 so O
 . O
-<eos> O
+"
+" 
 As O
 you O
 can O
 see O
 , O
 these O
-photos I
+photos B
 are O
 not O
 in O
-sequence I
+sequence B
 with O
 the O
-photos I
+photos B
 of O
 his O
 left B
 arm I
 stroke I
 in O
-figures I
+figures B
 8 O
 , O
 9 O
 and O
 10 O
 . O
-<eos> O
+"
+" 
 This O
 is O
 because O
-Zubero I
+Zubero B
 is O
-traveling I
+traveling B
 in O
 the O
-opposite I
+opposite B
 11 O
 Swimming B
 Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
 ( O
 2014 O
 ) O
-direction I
+direction B
 in O
-figure I
+figure B
 11 O
 . O
-<eos> O
+"
+" 
 In O
-figures I
+figures B
 8,9 O
 and O
 10 O
 he O
 is O
-swimming I
+swimming B
 the O
 first O
 50 O
@@ -4524,27 +4755,29 @@ of O
 the O
 100 O
 m O
-backstroke I
+backstroke B
 . O
-<eos> O
+"
+" 
 He O
 is O
-swimming I
+swimming B
 the O
 second O
 50 O
 of O
 that O
-race I
+race B
 in O
-figure I
+figure B
 11 O
 . O
-<eos> O
+"
+" 
 The O
-sequence I
+sequence B
 in O
-figure I
+figure B
 11 O
 was O
 chosen O
@@ -4567,7 +4800,8 @@ from O
 this O
 view O
 . O
-<eos> O
+"
+" 
 He O
 is O
 in O
@@ -4580,18 +4814,19 @@ final B
 upsweep I
 in O
 the O
-photo I
+photo B
 on O
 the O
-left I
+left B
 in O
-figure I
+figure B
 11 O
 . O
-<eos> O
-Catch I
+"
+" 
+Catch B
 Pull/ O
-upsweep I
+upsweep B
 Push/ O
 Down- O
 sweep B
@@ -4600,7 +4835,8 @@ upsweep I
 Figure I
 11 O
 . O
-<eos> O
+"
+" 
 Martin B
 Zubero I
 ’s O
@@ -4612,30 +4848,32 @@ left B
 arm I
 stroke I
 . O
-<eos> O
+"
+" 
 These O
-photos I
+photos B
 are O
 not O
 in O
-sequence I
+sequence B
 with O
 the O
 left B
 arm B
 photos I
 in O
-figures I
+figures B
 8 O
 , O
 9 O
 and O
 10 O
 . O
-<eos> O
+"
+" 
 They O
 are O
-photos I
+photos B
 of O
 his O
 left B
@@ -4644,20 +4882,21 @@ stroke I
 when O
 he O
 is O
-traveling I
+traveling B
 in O
 the O
 opposite B
 direction I
 . O
-<eos> O
+"
+" 
 This O
 was O
 done O
 because O
 it O
 is O
-easier I
+easier B
 to O
 see O
 what O
@@ -4669,7 +4908,7 @@ his O
 left B
 arm I
 and O
-hand I
+hand B
 during O
 the O
 final B
@@ -4678,7 +4917,8 @@ from O
 this O
 angle O
 . O
-<eos> O
+"
+" 
 The O
 final B
 upsweep I
@@ -4694,76 +4934,80 @@ as O
 his O
 left B
 hand I
-approaches I
+approaches B
 his O
-thigh I
+thigh B
 ( O
 see O
 the O
-photo I
+photo B
 on O
 the O
 right O
 in O
-figure I
+figure B
 11 O
 .. O
-<eos> O
+"
+" 
 At O
 that O
-time I
+time B
 , O
 he O
 should O
-turn I
+turn B
 his O
-palm I
+palm B
 in O
 and O
-release I
+release B
 backward B
 pressure I
 on O
 the O
-water I
+water B
 . O
-<eos> O
+"
+" 
 This O
 should O
 be O
 done O
 before O
 his O
-hand I
-passes I
+hand B
+passes B
 his O
-thigh I
+thigh B
 on O
 its O
 way O
 out O
 of O
 the O
-water I
-<eos> O
+water B
+"
+" 
 so O
 it O
 ( O
 his O
-hand I
+hand B
 ) O
 can O
-exit I
+exit B
 the O
-water I
+water B
 on O
-edge I
+edge B
 , O
 with O
-thumb I
-leading I
+thumb B
+leading B
 . O
-<eos> O
+"
+" 
 This O
 will O
 reduce O
@@ -4771,14 +5015,15 @@ water B
 resistance I
 as O
 his O
-hand I
+hand B
 and O
 arm O
 leave O
 the O
-water I
+water B
 . O
-<eos> O
+"
+" 
 Backstrokers O
 should O
 not O
@@ -4788,48 +5033,49 @@ final B
 upsweep I
 to O
 the O
-surface I
+surface B
 of O
 the O
-water I
+water B
 because O
 this O
 will O
-push I
+push B
 their O
-body I
+body B
 down O
 rather O
 than O
 propel O
 it O
-forward I
+forward B
 . O
-<eos> O
+"
+" 
 Thus O
 , O
 they O
 should O
-release I
-pressure I
+release B
+pressure B
 and O
-start I
+start B
 their O
-recovery I
+recovery B
 before O
 their O
-forearm I
+forearm B
 and O
-hand I
+hand B
 begin O
-pushing I
+pushing B
 up O
-excessively I
+excessively B
 against O
 the O
-water I
+water B
 as O
-Zubero I
+Zubero B
 has O
 done O
 in O
@@ -4838,21 +5084,22 @@ right O
 hand B
 photo I
 in O
-figure I
+figure B
 11 O
 . O
-<eos> O
+"
+" 
 A O
 telltale B
 indication I
 that O
 they O
 are O
-pushing I
+pushing B
 up O
 against O
 the O
-water I
+water B
 is O
 that O
 the O
@@ -4862,16 +5109,17 @@ of O
 their O
 arm O
 will O
-push I
+push B
 the O
-shoulder I
+shoulder B
 of O
 their O
 stroking O
 arm O
-underwater I
+underwater B
 . O
-<eos> O
+"
+" 
 Accordingly O
 , O
 as O
@@ -4882,7 +5130,7 @@ point I
 they O
 should O
 be O
-cautioned I
+cautioned B
 to O
 terminate O
 the O
@@ -4897,7 +5145,8 @@ before O
 that O
 happens O
 . O
-<eos> O
+"
+" 
 12 O
 J. O
 Swimming B
@@ -4905,22 +5154,24 @@ Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
 ( O
 2014 O
 ) O
-<eos> O
+"
+" 
 In O
 the O
-past I
+past B
 , O
 many O
-coaches I
+coaches B
 have O
-noted I
+noted B
 that O
 elite O
 backstrokers O
@@ -4933,21 +5184,23 @@ their O
 arms O
 at O
 the O
-elbow I
+elbow B
 . O
-<eos> O
+"
+" 
 This O
 was O
 considered O
 an O
-advantage I
+advantage B
 for O
 performing O
 the O
-recovery I
-correctly I
+recovery B
+correctly B
 . O
-<eos> O
+"
+" 
 It O
 may O
 be O
@@ -4956,7 +5209,7 @@ however O
 , O
 that O
 the O
-ability I
+ability B
 to O
 hyperextend O
 the O
@@ -4973,7 +5226,8 @@ effective B
 final I
 upsweep I
 . O
-<eos> O
+"
+" 
 Three-peak O
 backstroke B
 swimmers I
@@ -4984,34 +5238,34 @@ their O
 arms O
 at O
 the O
-elbows I
+elbows B
 should O
 be O
 able O
 to O
-start I
+start B
 the O
 final B
 upsweep I
-earlier I
+earlier B
 and O
-push I
-back I
+push B
+back B
 against O
 the O
-water I
+water B
 with O
 the O
-underside I
+underside B
 of O
 their O
-forearm I
+forearm B
 and O
 the O
-palm I
+palm B
 of O
 their O
-hand I
+hand B
 for O
 a O
 longer B
@@ -5025,29 +5279,30 @@ Martin I
 Zubero I
 right O
 and O
-left B
+left O
 arm B
 strokes I
 in O
-figures I
+figures B
 4 O
 and O
 11 O
 ) O
 . O
-<eos> O
+"
+" 
 The O
-photos I
+photos B
 in O
-figure I
+figure B
 12 O
-show I
+show B
 several O
 present O
 and O
 former O
 World O
-Record I
+Record B
 Holding O
 backstroke B
 swimmers I
@@ -5060,12 +5315,13 @@ a O
 final B
 upsweep I
 . O
-<eos> O
-Notice I
+"
+" 
+Notice B
 how O
-similar I
+similar B
 the O
-position I
+position B
 of O
 the O
 arm O
@@ -5073,19 +5329,20 @@ is O
 to O
 that O
 of O
-Zubero I
+Zubero B
 at O
 this O
 same O
-point I
+point B
 in O
 his O
 arm B
 stroke I
 . O
-<eos> O
+"
+" 
 The O
-fact I
+fact B
 that O
 their O
 arms O
@@ -5093,25 +5350,25 @@ are O
 extended O
 and O
 quite O
-deep I
+deep B
 at O
 the O
 end O
 of O
 the O
-downsweep I
+downsweep B
 with O
 their O
-wrists I
-hyperextended I
+wrists B
+hyperextended O
 and O
-palms I
-facing I
-back I
+palms B
+facing B
+back B
 suggests O
 they O
 are O
-positioning I
+positioning B
 their O
 arm O
 to O
@@ -5120,20 +5377,21 @@ propulsive B
 force I
 as O
 it O
-travels I
+travels B
 up O
 and O
-back I
+back B
 toward O
 the O
-surface I
+surface B
 . O
-<eos> O
+"
+" 
 You O
 would O
 expect O
 that O
-swimmers I
+swimmers B
 with O
 their O
 skill O
@@ -5142,21 +5400,21 @@ not O
 extend O
 their O
 arm O
-completely I
+completely B
 so O
-early I
+early B
 and O
 so O
-deep I
+deep B
 in O
 the O
-water I
+water B
 at O
 the O
 end O
 of O
 the O
-downsweep I
+downsweep B
 if O
 they O
 were O
@@ -5169,16 +5427,17 @@ propulsive O
 with O
 it O
 . O
-<eos> O
+"
+" 
 It O
 would O
 be O
 more O
-efficient I
+efficient B
 to O
-finish I
+finish B
 the O
-downsweep I
+downsweep B
 later O
 , O
 with O
@@ -5190,20 +5449,20 @@ leg O
 to O
 reduce O
 the O
-time I
+time B
 and O
-effort I
-required I
+effort B
+required O
 to O
 bring O
 it O
 out O
 of O
 the O
-water I
+water B
 for O
 the O
-recovery I
+recovery B
 if O
 they O
 were O
@@ -5213,9 +5472,10 @@ their O
 arm O
 at O
 this O
-time I
+time B
 . O
-<eos> O
+"
+" 
 It O
 is O
 too O
@@ -5229,8 +5489,9 @@ velocity I
 graphs O
 for O
 these O
-swimmers I
-<eos> O
+swimmers B
+"
+" 
 so O
 we O
 would O
@@ -5245,37 +5506,43 @@ their O
 arm B
 strokes I
 . O
-<eos> O
+"
+" 
 13 O
-<eos> O
+"
+" 
 Swimming B
 Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
 ( O
 2014 O
 ) O
-<eos> O
-Elite&backstroke&swimmers&who&may I
+"
+" 
+Elite&backstroke&swimmers&who&may B
 & O
-be&using&a&three5peak&arm&stroke I
+be&using&a&three5peak&arm&stroke B
 & O
-Missy&Franklin I
+Missy&Franklin B
 & O
-Ma9&Grevers I
+Ma9&Grevers B
 & O
-Ryan&Lochte I
+Ryan&Lochte B
 & O
-Aaron&Piersol I
-<eos> O
+Aaron&Piersol B
+"
+" 
 & O
-Figure12 I
-<eos> O
+Figure12 B
+"
+" 
 Photos O
 of O
 present B
@@ -5291,13 +5558,15 @@ a O
 final B
 upsweep I
 . O
-<eos> O
+"
+" 
 Other O
 Three-Peak O
-Backstroke I
+Backstroke B
 Styles O
 . O
-<eos> O
+"
+" 
 Three-peak O
 backstroke B
 swimmers I
@@ -5307,7 +5576,7 @@ observed O
 using O
 several O
 different O
-styles I
+styles B
 , O
 with O
 none O
@@ -5320,23 +5589,24 @@ yet O
 emerging O
 as O
 clearly O
-superior I
+superior B
 to O
 the O
 others O
 . O
-<eos> O
+"
+" 
 In O
-fact I
+fact B
 , O
 some O
-swimmers I
+swimmers B
 appear O
 to O
 use O
 different O
 three-peak O
-styles I
+styles B
 during O
 their O
 right O
@@ -5345,18 +5615,20 @@ left B
 arm I
 strokes I
 . O
-<eos> O
+"
+" 
 This O
 should O
 not O
 come O
 as O
 a O
-surprise I
+surprise B
 . O
-<eos> O
-Great I
-swimmers I
+"
+" 
+Great B
+swimmers B
 probably O
 “ O
 feel O
@@ -5368,18 +5640,19 @@ the O
 end O
 of O
 the O
-downsweep I
+downsweep B
 with O
 one O
 arm O
 and O
 the O
-catch I
+catch B
 with O
 the O
 other O
 . O
-<eos> O
+"
+" 
 Therefore O
 , O
 they O
@@ -5389,28 +5662,29 @@ ways O
 to O
 fill O
 that O
-period I
+period B
 with O
 something O
 propulsive O
 . O
-<eos> O
+"
+" 
 This O
 probably O
 takes O
-place I
-intuitively I
+place B
+intuitively B
 with O
 the O
-swimmers I
-unaware I
+swimmers B
+unaware B
 they O
 have O
 adjusted O
 their O
-strokes I
+strokes B
 to O
-partially I
+partially B
 fill O
 this O
 gap O
@@ -5418,9 +5692,10 @@ with O
 something O
 propulsive O
 . O
-<eos> O
+"
+" 
 My O
-observations I
+observations B
 indicate O
 that O
 modern-day O
@@ -5431,14 +5706,14 @@ and O
 many O
 from O
 the O
-past I
+past B
 ) O
 , O
 are O
-swimming I
+swimming B
 the O
 three-peak O
-stroke I
+stroke B
 in O
 at O
 least O
@@ -5446,21 +5721,22 @@ three O
 different O
 ways O
 . O
-<eos> O
+"
+" 
 The O
 first O
 of O
 these O
 was O
 described O
-earlier I
+earlier B
 and O
 illustrated O
 in O
-figure I
+figure B
 11 O
 with O
-photos I
+photos B
 and O
 a O
 forward B
@@ -5470,10 +5746,11 @@ of I
 Martin I
 Zubero I
 . O
-<eos> O
+"
+" 
 In O
 this O
-method I
+method B
 the O
 upsweep B
 and I
@@ -5491,20 +5768,21 @@ arm I
 stroke I
 and O
 the O
-downsweep I
+downsweep B
 is O
 abbreviated O
 to O
 allow O
 more O
-time I
+time B
 for O
 a O
 substantial B
 final I
 upsweep I
 . O
-<eos> O
+"
+" 
 14 O
 J. O
 Swimming B
@@ -5512,49 +5790,52 @@ Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
 ( O
 2014 O
 ) O
-<eos> O
+"
+" 
 In O
 the O
 second O
-method I
+method B
 , O
-swimmers I
+swimmers B
 execute O
 an O
-upsweep I
+upsweep B
 and O
-downsweep I
+downsweep B
 which O
 are O
-similar I
+similar B
 in O
-length I
+length B
 and O
-propulsion I
+propulsion B
 to O
 the O
 traditional O
 two-peak O
-stroke I
+stroke B
 . O
-<eos> O
+"
+" 
 Then O
 they O
-sweep I
+sweep B
 their O
-hand I
+hand B
 up O
 , O
 in O
 and O
-back I
+back B
 for O
 a O
 short B
@@ -5564,7 +5845,8 @@ the O
 final B
 upsweep I
 . O
-<eos> O
+"
+" 
 When O
 the O
 final B
@@ -5581,17 +5863,17 @@ probably O
 best O
 communicated O
 to O
-swimmers I
+swimmers B
 as O
 an O
 “ O
 inward O
-scull I
+scull B
 ” O
 because O
 of O
 the O
-brevity I
+brevity B
 of O
 its O
 inward O
@@ -5599,7 +5881,8 @@ and O
 upward B
 motions I
 . O
-<eos> O
+"
+" 
 In O
 the O
 few O
@@ -5609,19 +5892,20 @@ graphs O
 available O
 , O
 this O
-method I
+method B
 of O
 executing O
 the O
 final B
 upsweep I
 / O
-<eos> O
+"
+" 
 inward O
-scull I
+scull B
 delivers O
 a O
-short I
+short B
 but O
 very O
 powerful B
@@ -5630,7 +5914,8 @@ of I
 forward I
 velocity I
 . O
-<eos> O
+"
+" 
 Former O
 U.S. O
 Olympic B
@@ -5642,12 +5927,12 @@ Loveless I
 Maurer I
 , O
 is O
-shown I
-completing I
+shown B
+completing B
 the O
-downsweep I
+downsweep B
 and O
-positioning I
+positioning B
 her O
 right O
 arm O
@@ -5658,13 +5943,14 @@ final I
 upsweep I
 / O
 inward O
-scull I
+scull B
 in O
-figure I
+figure B
 13 O
 . O
-<eos> O
-Notice I
+"
+" 
+Notice B
 that O
 her O
 right O
@@ -5675,22 +5961,23 @@ and O
 away O
 from O
 her O
-body I
+body B
 , O
 rather O
 than O
-close I
+close B
 to O
 her O
-thigh I
+thigh B
 at O
 the O
 end O
 of O
 her O
-downsweep I
+downsweep B
 . O
-<eos> O
+"
+" 
 From O
 there O
 , O
@@ -5702,7 +5989,7 @@ final B
 upsweep I
 / O
 inward O
-scull I
+scull B
 by O
 directing O
 her O
@@ -5713,22 +6000,22 @@ in O
 up O
 , O
 and O
-back I
+back B
 while O
-pushing I
-back I
+pushing B
+back B
 against O
 the O
-resistance I
+resistance B
 of O
 the O
-water I
+water B
 with O
 the O
-palm I
+palm B
 of O
 her O
-hand I
+hand B
 , O
 and O
 for O
@@ -5739,24 +6026,26 @@ time I
 , O
 the O
 under O
-side I
+side B
 of O
 her O
-forearm I
+forearm B
 . O
-<eos> O
-Figure I
+"
+" 
+Figure B
 13 O
 . O
-<eos> O
+"
+" 
 Lea B
 Loveless I
 Maurer I
-finishing I
+finishing B
 the O
-downsweep I
+downsweep B
 in O
-backstroke I
+backstroke B
 with O
 her O
 left B
@@ -5769,16 +6058,17 @@ final B
 upsweep I
 ( O
 inward O
-scull I
+scull B
 ) O
 with O
 it O
 . O
-<eos> O
+"
+" 
 Lea O
 was O
 a O
-member I
+member B
 of O
 the O
 1992 O
@@ -5787,10 +6077,10 @@ Olympic B
 swim I
 team I
 , O
-winning I
+winning O
 a O
 good O
-medal I
+medal B
 in O
 the O
 4 O
@@ -5806,15 +6096,16 @@ in O
 the O
 100 O
 m O
-backstroke I
+backstroke B
 . O
-<eos> O
+"
+" 
 A O
 probable B
 stroke I
 pattern I
 for O
-swimmers I
+swimmers B
 who O
 use O
 a O
@@ -5827,29 +6118,31 @@ scull I
 is O
 illustrated O
 in O
-figure I
+figure B
 14 O
 . O
-<eos> O
+"
+" 
 The O
 pattern O
 begins O
 with O
 a O
-short I
+short B
 down O
 and O
 out O
-sweep I
+sweep B
 of O
 the O
 am O
 before O
 making O
 the O
-catch I
+catch B
 . O
-<eos> O
+"
+" 
 This O
 is O
 followed O
@@ -5857,16 +6150,16 @@ by O
 a O
 reasonably O
 substantial O
-upsweep I
+upsweep B
 and O
 a O
 substantial O
 and O
 propulsive O
-downsweep I
+downsweep B
 , O
 before O
-finishing I
+finishing B
 with O
 a O
 short B
@@ -5874,18 +6167,19 @@ final I
 upsweep I
 / O
 inward O
-scull I
+scull B
 . O
-<eos> O
-Notice I
+"
+" 
+Notice B
 that O
 the O
-swimmer I
+swimmer B
 ’s O
-hand I
+hand B
 is O
-moving I
-back I
+moving B
+back B
 , O
 as O
 well O
@@ -5900,9 +6194,10 @@ final B
 upsweep I
 / O
 inward O
-scull I
+scull B
 . O
-<eos> O
+"
+" 
 This O
 backward B
 component I
@@ -5910,10 +6205,10 @@ of I
 motion I
 is O
 a O
-prerequisite I
+prerequisite B
 for O
 generating O
-propulsion I
+propulsion B
 during O
 this O
 phase O
@@ -5923,24 +6218,27 @@ underwater B
 arm I
 stroke I
 . O
-<eos> O
+"
+" 
 15 O
 Swimming B
 Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
 ( O
 2014 O
 ) O
-Figure I
+Figure B
 14 O
 . O
-<eos> O
+"
+" 
 The O
 probable B
 stroke I
@@ -5959,7 +6257,8 @@ or I
 inward I
 scull I
 . O
-<eos> O
+"
+" 
 My O
 best B
 guess I
@@ -5970,21 +6269,22 @@ forward B
 velocity I
 graph I
 this O
-style I
+style B
 might O
 produce O
 is O
-shown I
+shown B
 in O
-figure I
+figure B
 15 O
 . O
-<eos> O
-Swimmers I
+"
+" 
+Swimmers B
 who O
 use O
 this O
-style I
+style B
 will O
 probably O
 exhibit O
@@ -5994,26 +6294,27 @@ forward B
 propulsion I
 during O
 the O
-upsweep I
+upsweep B
 and O
-downsweep I
+downsweep B
 that O
 are O
 very O
-similar I
+similar B
 to O
 those O
 of O
-swimmers I
+swimmers B
 who O
 use O
 a O
 two-peak O
-style I
+style B
 of O
-backstroke I
+backstroke B
 . O
-<eos> O
+"
+" 
 After O
 that O
 , O
@@ -6023,7 +6324,7 @@ they O
 will O
 add O
 a O
-short I
+short B
 , O
 and O
 very O
@@ -6036,29 +6337,31 @@ final B
 upsweep I
 / O
 inward O
-scull I
+scull B
 , O
 before O
-releasing I
-pressure I
+releasing B
+pressure B
 on O
 the O
-water I
+water B
 and O
 recovering O
 their O
 arm O
 to O
 the O
-surface I
+surface B
 . O
-<eos> O
-Figure I
+"
+" 
+Figure B
 15 O
 . O
-<eos> O
+"
+" 
 A O
-hypothetical I
+hypothetical B
 center B
 of I
 mass B
@@ -6067,19 +6370,20 @@ velocity I
 graph I
 for O
 a O
-swimmer I
+swimmer B
 who O
 uses O
 an O
 inward O
-scull I
+scull B
 during O
 the O
 final B
 upsweep I
 . O
-<eos> O
-Hours I
+"
+" 
+Hours B
 of O
 observing O
 video B
@@ -6088,7 +6392,7 @@ elite I
 backstroke I
 swimmers I
 during O
-competition I
+competition B
 suggests O
 to O
 me O
@@ -6099,7 +6403,7 @@ who O
 use O
 a O
 three-peak O
-backstroke I
+backstroke B
 , O
 appear O
 to O
@@ -6110,10 +6414,10 @@ final B
 upsweep I
 / O
 inward O
-scull I
+scull B
 in O
 the O
-manner I
+manner B
 just O
 described O
 and O
@@ -6130,21 +6434,22 @@ Zubero I
 , O
 ( O
 see O
-figures I
+figures B
 4 O
 and O
 11 O
 ) O
 . O
-<eos> O
+"
+" 
 That O
 is O
-understandable I
+understandable B
 considering O
 , O
 as O
 mentioned O
-earlier I
+earlier B
 , O
 they O
 have O
@@ -6155,24 +6460,25 @@ final B
 upsweep I
 / O
 inward O
-scull I
-intuitively I
+scull B
+intuitively B
 and O
-unknowingly I
+unknowingly B
 after O
 they O
 were O
 taught O
 to O
-swim I
-backstroke I
+swim B
+backstroke B
 with O
 a O
 traditional O
 two-peak O
-stroke I
+stroke B
 . O
-<eos> O
+"
+" 
 16 O
 J. O
 Swimming B
@@ -6180,17 +6486,19 @@ Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
 ( O
 2014 O
 ) O
-<eos> O
+"
+" 
 The O
 third O
-method I
+method B
 that O
 some O
 backstrokers O
@@ -6202,11 +6510,11 @@ propel O
 themselves O
 through O
 the O
-water I
+water B
 with O
 a O
 three-peak O
-stroke I
+stroke B
 , O
 is O
 through O
@@ -6215,7 +6523,7 @@ or O
 abbreviating O
 the O
 first O
-upsweep I
+upsweep B
 and O
 executing O
 a O
@@ -6226,9 +6534,10 @@ long B
 final I
 upsweep I
 . O
-<eos> O
+"
+" 
 The O
-hypothetical I
+hypothetical B
 stroke B
 pattern B
 and I
@@ -6236,7 +6545,7 @@ forward I
 velocity I
 graph I
 in O
-figure I
+figure B
 16 O
 , O
 illustrate O
@@ -6251,23 +6560,24 @@ swimmers I
 might O
 propel O
 their O
-bodies I
+bodies B
 through O
 the O
-water I
+water B
 with O
 this O
-method I
+method B
 . O
-<eos> O
+"
+" 
 As O
 mentioned O
 , O
 the O
-upsweep I
+upsweep B
 in O
 the O
-middle I
+middle B
 of O
 the O
 underwater B
@@ -6277,7 +6587,7 @@ may O
 be O
 missing O
 or O
-greatly I
+greatly B
 abbreviated O
 so O
 that O
@@ -6292,32 +6602,33 @@ a O
 long B
 downsweep I
 that O
-starts I
+starts B
 at O
 or O
-shortly I
+shortly B
 after O
 the O
-catch I
+catch B
 and O
 ends O
 when O
 the O
-swimmer I
+swimmer B
 ’s O
 arm O
 is O
 extended O
 below O
 and O
-wide I
+wide B
 of O
 his O
 / O
 her O
 hip O
 . O
-<eos> O
+"
+" 
 In O
 the O
 absence O
@@ -6331,39 +6642,40 @@ telltale B
 indication I
 that O
 a O
-swimmer I
+swimmer B
 is O
 using O
 a O
 two-peak O
-stroke I
+stroke B
 with O
 no O
-upsweep I
+upsweep B
 will O
 be O
 that O
 his O
 / O
 her O
-palm I
+palm B
 will O
 not O
 rotate O
 up O
 after O
 the O
-catch I
+catch B
 . O
-<eos> O
+"
+" 
 Instead O
 , O
 the O
-palm I
+palm B
 will O
 remain O
-facing I
-back I
+facing B
+back B
 , O
 and O
 down O
@@ -6371,14 +6683,15 @@ somewhat O
 , O
 from O
 the O
-catch I
+catch B
 through O
 the O
-downsweep I
+downsweep B
 that O
 follows O
 . O
-<eos> O
+"
+" 
 Of O
 course O
 , O
@@ -6386,8 +6699,8 @@ when O
 they O
 eliminate O
 the O
-upsweep I
-swimmers I
+upsweep B
+swimmers B
 will O
 actually O
 be O
@@ -6398,7 +6711,7 @@ arm B
 stroke I
 ( O
 see O
-figure I
+figure B
 16 O
 ) O
 , O
@@ -6412,25 +6725,27 @@ from O
 the O
 traditional O
 two-peak O
-style I
+style B
 that O
 was O
 described O
-earlier I
+earlier B
 in O
 this O
-paper I
+paper B
 ( O
 see O
-figure I
+figure B
 1 O
 ) O
 . O
-<eos> O
-Figure I
+"
+" 
+Figure B
 16 O
 . O
-<eos> O
+"
+" 
 The O
 probable B
 stroke I
@@ -6446,9 +6761,9 @@ who O
 has O
 combined O
 the O
-upsweep I
+upsweep B
 and O
-downsweep I
+downsweep B
 into O
 one O
 long B
@@ -6463,49 +6778,50 @@ long B
 final I
 upsweep I
 A O
-swimmer I
+swimmer B
 who O
 abbreviates O
 the O
-upsweep I
+upsweep B
 but O
 does O
 not O
 eliminate O
 it O
-completely I
+completely B
 , O
 before O
-starting I
+starting B
 the O
-downsweep I
+downsweep B
 , O
 will O
 exhibit O
 a O
 three-peak O
-stroke I
+stroke B
 , O
 although O
 the O
-upsweep I
+upsweep B
 will O
 have O
 little O
-propulsion I
-associated I
+propulsion B
+associated B
 with O
 it O
 . O
-<eos> O
+"
+" 
 That O
-swimmer I
+swimmer B
 would O
 rotate O
 his O
 / O
 her O
-palm I
+palm B
 up O
 for O
 a O
@@ -6514,40 +6830,41 @@ short B
 time I
 following O
 the O
-catch I
+catch B
 , O
 before O
-quickly I
-turning I
+quickly B
+turning B
 it O
 down O
 again O
 , O
 during O
 the O
-downsweep I
+downsweep B
 . O
-<eos> O
+"
+" 
 The O
-advantage I
+advantage B
 of O
-swimming I
+swimming B
 with O
 an O
 abbreviated O
 or O
 missing O
-upsweep I
+upsweep B
 is O
 that O
 a O
-longer I
+longer B
 propulsive O
-downsweep I
+downsweep B
 can O
 be O
-completed I
-earlier I
+completed B
+earlier B
 during O
 the O
 underwater B
@@ -6555,10 +6872,10 @@ arm I
 stroke I
 , O
 leaving O
-time I
+time B
 for O
 a O
-longer I
+longer B
 and O
 more O
 substantial B
@@ -6573,7 +6890,8 @@ Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
@@ -6582,10 +6900,11 @@ Vol O
 ) O
 used O
 by O
-Zubero I
-<eos> O
+Zubero B
+"
+" 
 The O
-downsweep I
+downsweep B
 will O
 end O
 and O
@@ -6594,30 +6913,32 @@ final B
 upsweep I
 will O
 begin O
-approximately I
+approximately B
 when O
 the O
-swimmer I
+swimmer B
 ’s O
 arm O
 is O
-passing I
+passing B
 his O
 / O
 her O
-chest I
+chest B
 . O
-<eos> O
+"
+" 
 ( O
 See O
 photos B
 of I
 Zubero I
 in O
-figure I
+figure B
 8) O
 . O
-<eos> O
+"
+" 
 As O
 the O
 arm O
@@ -6626,7 +6947,7 @@ full B
 extension I
 during O
 the O
-downsweep I
+downsweep B
 , O
 he O
 / O
@@ -6634,11 +6955,11 @@ she O
 will O
 rotate O
 the O
-palm I
+palm B
 from O
 down O
 to O
-back I
+back B
 , O
 after O
 which O
@@ -6646,36 +6967,37 @@ the O
 upper B
 arm I
 and O
-palm I
+palm B
 will O
 be O
 used O
 to O
-push I
-back I
+push B
+back B
 against O
 the O
-resistance I
+resistance B
 of O
 the O
-water I
+water B
 in O
 a O
 long B
 final I
 upsweep I
 . O
-<eos> O
+"
+" 
 It O
 would O
 be O
-nice I
+nice B
 to O
 know O
 which O
 of O
 these O
-methods I
+methods B
 will O
 generate O
 the O
@@ -6683,7 +7005,8 @@ greatest B
 forward I
 velocity I
 . O
-<eos> O
+"
+" 
 However O
 , O
 there O
@@ -6696,16 +7019,17 @@ available O
 to O
 make O
 that O
-determination I
+determination B
 at O
 the O
 present B
 time I
 . O
-<eos> O
+"
+" 
 Until O
 such O
-time I
+time B
 , O
 as O
 more O
@@ -6718,20 +7042,20 @@ graphs I
 are O
 available O
 for O
-swimmers I
+swimmers B
 who O
 use O
 these O
 various O
 non- O
 traditional O
-styles I
+styles B
 , O
 for O
-swimming I
+swimming B
 a O
 three-peak O
-backstroke I
+backstroke B
 , O
 the O
 exact B
@@ -6745,28 +7069,30 @@ propulsive B
 force I
 and O
 the O
-relative I
-effectiveness I
+relative B
+effectiveness B
 of O
 those O
-methods I
+methods B
 will O
 remain O
-unresolved I
+unresolved B
 . O
-<eos> O
+"
+" 
 Some O
-thoughts I
+thoughts B
 on O
 the O
 three-peak O
-backstroke I
+backstroke B
 . O
-<eos> O
+"
+" 
 I O
 think O
 a O
-backstroke I
+backstroke B
 that O
 is O
 swum O
@@ -6774,16 +7100,17 @@ with O
 three-peaks O
 could O
 be O
-superior I
+superior B
 to O
 a O
 two-peak O
-style I
+style B
 for O
 several O
-reasons I
+reasons B
 . O
-<eos> O
+"
+" 
 These O
 involve O
 the O
@@ -6817,7 +7144,8 @@ the O
 arm B
 stroke I
 . O
-<eos> O
+"
+" 
 Nevertheless O
 , O
 the O
@@ -6828,8 +7156,8 @@ arm B
 stroke I
 and O
 the O
-distance I
-traveled I
+distance B
+traveled B
 are O
 the O
 key B
@@ -6838,15 +7166,16 @@ of I
 fast I
 swimming I
 . O
-<eos> O
+"
+" 
 Any O
-method I
+method B
 , O
 whether O
 it O
 be O
 the O
-addition I
+addition B
 of O
 a O
 third O
@@ -6854,10 +7183,10 @@ propulsive B
 peak I
 , O
 an O
-increase I
+increase B
 in O
 the O
-velocity I
+velocity B
 of O
 one O
 or O
@@ -6871,10 +7200,10 @@ peaks I
 , O
 or O
 an O
-increase I
+increase B
 in O
 the O
-length I
+length B
 of O
 one O
 or O
@@ -6886,18 +7215,19 @@ peaks I
 should O
 improve O
 a O
-swimmer I
+swimmer B
 ’s O
-performance I
-markedly I
+performance B
+markedly B
 . O
-<eos> O
+"
+" 
 That O
 said O
 , O
 it O
 seems O
-probable I
+probable B
 that O
 greater B
 stroke I
@@ -6906,7 +7236,7 @@ and I
 average I
 velocity I
 per O
-stroke I
+stroke B
 are O
 more O
 likely O
@@ -6915,7 +7245,7 @@ be O
 achieved O
 through O
 the O
-addition I
+addition B
 of O
 a O
 third O
@@ -6927,9 +7257,9 @@ one O
 that O
 has O
 the O
-potential I
+potential B
 to O
-increase I
+increase B
 forward B
 velocity I
 to O
@@ -6941,9 +7271,10 @@ the O
 traditional B
 upsweep I
 and O
-downsweep I
+downsweep B
 . O
-<eos> O
+"
+" 
 Let O
 me O
 describe O
@@ -6953,12 +7284,13 @@ advantages I
 of O
 the O
 three-peak O
-backstroke I
+backstroke B
 in O
 greater B
 detail I
 . O
-<eos> O
+"
+" 
 The O
 unique B
 style I
@@ -6967,17 +7299,18 @@ the O
 final B
 upsweep I
 may O
-increase I
-velocity I
+increase B
+velocity B
 more O
 than O
 the O
 traditional B
 upsweep I
 and O
-downsweep I
+downsweep B
 . O
-<eos> O
+"
+" 
 All O
 of O
 the O
@@ -6992,7 +7325,7 @@ three-peak O
 world-class O
 backstrokers O
 during O
-competition I
+competition B
 demonstrate O
 that O
 they O
@@ -7010,30 +7343,31 @@ they O
 do O
 during O
 the O
-preceding B
-upsweep I
+preceding O
+upsweep B
 or O
-downsweep I
+downsweep B
 ( O
 Cappaert O
 & O
-Rushall I
+Rushall B
 , O
 1994 O
 ) O
 . O
-<eos> O
+"
+" 
 For O
 example O
 , O
 Jeff O
-Rouse I
+Rouse B
 achieved O
 a O
 forward B
 velocity I
 in O
-excess I
+excess B
 of O
 2 O
 m O
@@ -7045,7 +7379,7 @@ final B
 upsweep I
 / O
 inward O
-scull I
+scull B
 of O
 his O
 right O
@@ -7055,8 +7389,8 @@ but O
 never O
 reached O
 a O
-velocity I
-greater I
+velocity B
+greater B
 than O
 1.9 O
 m O
@@ -7072,14 +7406,15 @@ with O
 either O
 arm O
 . O
-<eos> O
+"
+" 
 Martin B
 Zubero I
 ’s O
 peak B
 velocity I
 was O
-approximately I
+approximately B
 2.4 O
 m O
 / O
@@ -7090,7 +7425,7 @@ final B
 upsweep I
 / O
 inward O
-scull I
+scull B
 but O
 did O
 not O
@@ -7100,33 +7435,35 @@ m O
 / O
 sec O
 . O
-<eos> O
+"
+" 
 at O
 any O
 other O
-time I
+time B
 . O
-<eos> O
+"
+" 
 Although O
-data I
+data B
 from O
 only O
 two O
-subjects I
+subjects B
 is O
 far O
 from O
-compelling I
+compelling B
 , O
 they O
 suggest O
 the O
-possibility I
+possibility B
 that O
-pushing I
+pushing B
 against O
 the O
-water I
+water B
 with O
 an O
 extended B
@@ -7140,40 +7477,41 @@ inward I
 scull I
 ( O
 see O
-figure I
+figure B
 11 O
 ) O
 may O
 be O
 more O
-effective I
+effective B
 for O
-increasing I
+increasing B
 forward B
 velocity I
 than O
 the O
-upsweep I
+upsweep B
 or O
-downsweep I
+downsweep B
 of O
 the O
 traditional O
 two-peak O
-backstroke I
+backstroke B
 . O
-<eos> O
+"
+" 
 This O
 may O
 be O
 , O
 as O
 mentioned O
-earlier I
+earlier B
 , O
 because O
 the O
-swimmer I
+swimmer B
 can O
 apply O
 18 O
@@ -7183,7 +7521,8 @@ Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
@@ -7191,7 +7530,7 @@ Vol O
 2014 O
 ) O
 more O
-force I
+force B
 with O
 his O
 entire B
@@ -7200,11 +7539,12 @@ when O
 it O
 is O
 extended O
-<eos> O
+"
+" 
 and/or O
 because O
 his O
-hand I
+hand B
 can O
 achieve O
 a O
@@ -7218,7 +7558,8 @@ his O
 extended B
 arm I
 . O
-<eos> O
+"
+" 
 Because O
 of O
 what O
@@ -7228,7 +7569,7 @@ said O
 , O
 a O
 three-peak O
-backstroke I
+backstroke B
 with O
 a O
 long B
@@ -7236,22 +7577,23 @@ final I
 upsweep I
 may O
 be O
-preferable I
+preferable B
 to O
 a O
-shorter I
+shorter B
 , O
 inward O
-scull I
+scull B
 , O
 type B
 of I
 sweep I
 . O
-<eos> O
+"
+" 
 As O
 mentioned O
-earlier I
+earlier B
 , O
 there O
 are O
@@ -7270,21 +7612,21 @@ final I
 upsweep I
 in O
 the O
-manner I
+manner B
 of O
 an O
 inward O
-scull I
+scull B
 than O
 those O
 using O
 a O
-longer I
+longer B
 more O
 substantial B
 final I
 upsweep I
-similar I
+similar B
 to O
 the O
 one O
@@ -7293,7 +7635,7 @@ for O
 Martin B
 Zubero I
 in O
-figures I
+figures B
 4 O
 , O
 8,10 O
@@ -7301,39 +7643,41 @@ figures I
 and O
 11 O
 . O
-<eos> O
+"
+" 
 Regardless O
 , O
 this O
-observation I
+observation B
 should O
 not O
 be O
 considered O
-evidence I
+evidence B
 that O
 a O
-short I
+short B
 inward O
-scull I
+scull B
 is O
 the O
 most O
-effective I
+effective B
 way O
 to O
-swim I
+swim B
 a O
 three-peak O
-backstroke I
+backstroke B
 . O
-<eos> O
+"
+" 
 In O
 my O
-opinion I
+opinion B
 , O
 the O
-fact I
+fact B
 that O
 a O
 smaller B
@@ -7357,20 +7701,21 @@ does O
 not O
 disqualify O
 his O
-style I
+style B
 as O
-potentially I
+potentially B
 the O
 most O
-effective I
+effective B
 way O
 to O
-swim I
+swim B
 a O
 three-peak O
-backstroke I
+backstroke B
 . O
-<eos> O
+"
+" 
 It O
 is O
 very O
@@ -7379,7 +7724,7 @@ that O
 the O
 traditional O
 two-peak O
-style I
+style B
 that O
 most O
 backstrokers O
@@ -7410,7 +7755,8 @@ per O
 stroke B
 cycle I
 . O
-<eos> O
+"
+" 
 Nevertheless O
 , O
 what O
@@ -7419,13 +7765,13 @@ just O
 said O
 is O
 entirely O
-speculation I
+speculation B
 on O
 my O
-part I
+part B
 and O
 not O
-proof I
+proof B
 that O
 a O
 long B
@@ -7442,16 +7788,17 @@ trial I
 and I
 error I
 . O
-<eos> O
+"
+" 
 If O
 you O
 wish O
 to O
-attempt I
-swimming I
+attempt B
+swimming B
 a O
 three-peak O
-backstroke I
+backstroke B
 with O
 a O
 long B
@@ -7463,25 +7810,26 @@ appear O
 to O
 be O
 two O
-general I
+general B
 ways O
 it O
 can O
 be O
 done O
 . O
-<eos> O
+"
+" 
 The O
 first O
-method I
+method B
 , O
 as O
 displayed O
 in O
-Zubero I
+Zubero B
 ’s O
 and O
-Vassallo I
+Vassallo B
 ’s O
 forward B
 velocity I
@@ -7489,33 +7837,34 @@ graphs O
 , O
 ( O
 see O
-figures I
+figures B
 5 O
 and O
 8) O
 is O
 to O
 sacrifice O
-propulsion I
+propulsion B
 during O
 the O
-downsweep I
+downsweep B
 by O
 abbreviating O
 that O
-sweep I
+sweep B
 in O
-favor I
+favor B
 of O
 a O
 longer B
 final I
 upsweep I
 . O
-<eos> O
+"
+" 
 The O
 second O
-method I
+method B
 , O
 that O
 some O
@@ -7530,9 +7879,9 @@ abbreviate O
 or O
 eliminate O
 the O
-upsweep I
+upsweep B
 in O
-favor I
+favor B
 of O
 a O
 longer B
@@ -7543,48 +7892,50 @@ longer B
 final I
 upsweep I
 . O
-<eos> O
+"
+" 
 Both O
 of O
 these O
-methods I
+methods B
 were O
 described O
-earlier I
+earlier B
 . O
-<eos> O
+"
+" 
 Of O
 course O
 , O
 the O
 flip O
-side I
+side B
 to O
 this O
-argument I
+argument B
 would O
 be O
 that O
 a O
-swimmer I
+swimmer B
 who O
 executes O
 the O
 first O
 two O
-sweeps I
+sweeps B
 reasonably O
 well O
 , O
 while O
 using O
 a O
-short I
+short B
 , O
-highly I
+highly B
 propulsive O
 inward O
-scull I
+scull B
 during O
 the O
 third O
@@ -7605,53 +7956,55 @@ greater B
 stroke I
 length I
 and O
-greater I
+greater B
 average B
 velocity I
 per O
-stroke I
+stroke B
 than O
 one O
 who O
 abbreviates O
 the O
-upsweep I
+upsweep B
 or O
-downsweep I
+downsweep B
 in O
-order I
+order B
 to O
-gain I
+gain B
 a O
 longer B
 final I
 upsweep I
 . O
-<eos> O
+"
+" 
 The O
 only O
 way O
 to O
 determine O
 which O
-style I
+style B
 might O
 be O
 more O
-successful I
+successful B
 for O
 a O
 particular O
-swimmer I
+swimmer B
 is O
 through O
-testing I
+testing B
 and O
-trial I
+trial B
 and O
-error I
+error B
 . O
-<eos> O
+"
+" 
 The O
 use O
 of O
@@ -7663,7 +8016,7 @@ inward I
 scull I
 may O
 allow O
-swimmers I
+swimmers B
 to O
 use O
 a O
@@ -7671,15 +8024,16 @@ higher B
 stroke I
 rate I
 in O
-races I
+races B
 . O
-<eos> O
+"
+" 
 The O
 final B
 upsweep I
 / O
 inward O
-scull I
+scull B
 is O
 executed O
 with O
@@ -7691,7 +8045,7 @@ therefore O
 , O
 as O
 indicated O
-earlier I
+earlier B
 , O
 greater B
 hand I
@@ -7711,9 +8065,9 @@ This O
 should O
 , O
 in O
-turn I
+turn B
 , O
-result I
+result B
 in O
 a O
 faster B
@@ -7725,32 +8079,36 @@ greater B
 forward I
 velocity I
 . O
-<eos> O
+"
+" 
 There O
 is O
 some O
 anecdotal B
 evidence I
 to O
-support I
+support B
 this O
-observation I
+observation B
 . O
-<eos> O
+"
+" 
 19 O
 Swimming B
 Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
 ( O
 2014 O
 ) O
-<eos> O
+"
+" 
 The O
 stroke B
 rates I
@@ -7759,7 +8117,7 @@ by O
 modern-day O
 backstrokers O
 have O
-increased I
+increased B
 more O
 than O
 those O
@@ -7773,11 +8131,12 @@ recent B
 years I
 ( O
 see O
-Table I
+Table B
 1 O
 ) O
 . O
-<eos> O
+"
+" 
 Could O
 that O
 be O
@@ -7789,12 +8148,13 @@ are O
 now O
 using O
 three-peak O
-strokes I
+strokes B
 ? O
-<eos> O
-Craig I
+"
+" 
+Craig B
 and O
-Pendergast I
+Pendergast B
 ( O
 1979 O
 ) O
@@ -7802,41 +8162,44 @@ were O
 among O
 the O
 first O
-persons I
+persons B
 to O
-measure I
+measure B
 stroke B
 rates I
 . O
-<eos> O
+"
+" 
 They O
 did O
 so O
 for O
-swimmers I
+swimmers B
 at O
 the O
 1976 O
 U.S. O
-Olympic I
+Olympic B
 Trails O
 . O
-<eos> O
+"
+" 
 Stroke B
 rates I
 for O
 female B
 backstroke I
 participants I
-averaged I
+averaged B
 46 O
-stroke I
+stroke B
 cycles/ O
-minute I
+minute B
 ( O
-range I
+range B
 = O
-<eos> O
+"
+" 
 46 O
 to O
 47 O
@@ -7845,15 +8208,15 @@ in O
 the O
 100 O
 m O
-event I
+event B
 and O
 42 O
 stroke B
 cycles I
 / O
-minute I
+minute B
 ( O
-range I
+range B
 = O
 41 O
 to O
@@ -7863,20 +8226,20 @@ in O
 the O
 200 O
 m O
-event I
+event B
 The O
 strokes B
 rates I
 for O
-males I
-averaged I
+males B
+averaged B
 46 O
 stroke B
 cycles I
 / O
-minute I
+minute B
 ( O
-range I
+range B
 = O
 45 O
 - O
@@ -7888,9 +8251,10 @@ cycle O
 / O
 min O
 . O
-<eos> O
+"
+" 
 ( O
-range I
+range B
 = O
 39 O
 - O
@@ -7905,17 +8269,18 @@ longer I
 backstroke I
 events I
 . O
-<eos> O
-Craig I
+"
+" 
+Craig B
 and O
 others O
 ( O
 1985 O
 ) O
 then O
-repeated I
+repeated B
 this O
-study I
+study B
 for O
 male B
 and I
@@ -7929,10 +8294,11 @@ U.S. O
 Olympic B
 trials I
 . O
-<eos> O
+"
+" 
 Their O
-data I
-showed I
+data B
+showed B
 that O
 the O
 average B
@@ -7950,7 +8316,8 @@ calculated O
 in O
 1976 O
 . O
-<eos> O
+"
+" 
 Stroke B
 rates I
 were O
@@ -7964,17 +8331,18 @@ cycles I
 of O
 the O
 1976 O
-averages I
+averages B
 for O
 both O
-events I
+events B
 and O
 for O
 both O
 sexes O
 . O
-<eos> O
-Apparently I
+"
+" 
+Apparently B
 , O
 not O
 much O
@@ -7982,33 +8350,35 @@ had O
 changed O
 about O
 the O
-backstroke I
+backstroke B
 in O
 the O
 intervening O
-decade I
+decade B
 . O
-<eos> O
+"
+" 
 Something O
 did O
 change O
 in O
 the O
 next O
-decade I
+decade B
 , O
 however O
 . O
-<eos> O
+"
+" 
 An O
-analysis I
+analysis B
 , O
 by O
 the O
-author I
+author B
 , O
 of O
-swimmer I
+swimmer B
 ’s O
 stroke B
 rates B
@@ -8018,15 +8388,15 @@ lengths I
 at O
 the O
 1996 O
-Olympic I
+Olympic B
 Games O
 and O
 the O
 1998 O
 World O
-Swimming I
+Swimming B
 Championships O
-showed I
+showed B
 , O
 that O
 the O
@@ -8038,7 +8408,7 @@ for O
 female B
 backstrokers I
 had O
-increased I
+increased B
 to O
 between O
 48 O
@@ -8047,22 +8417,23 @@ and O
 stroke B
 cycles I
 / O
-minute I
+minute B
 in O
 the O
 100 O
 m O
-event I
+event B
 . O
-<eos> O
+"
+" 
 The O
 stroke B
 rates I
 for O
-female I
+female B
 200 O
 m O
-backstroke I
+backstroke B
 did O
 not O
 demonstrate O
@@ -8073,12 +8444,13 @@ trend I
 , O
 however O
 . O
-<eos> O
+"
+" 
 The O
-range I
+range B
 for O
 that O
-event I
+event B
 was O
 42 O
 to O
@@ -8086,9 +8458,10 @@ to O
 stroke B
 cycles I
 / O
-minute I
+minute B
 . O
-<eos> O
+"
+" 
 The O
 stroke B
 rates I
@@ -8101,9 +8474,10 @@ a O
 similar B
 pattern I
 . O
-<eos> O
+"
+" 
 They O
-increased I
+increased B
 to O
 between O
 48 O
@@ -8112,12 +8486,12 @@ and O
 stroke B
 cycles I
 / O
-minute I
+minute B
 in O
 the O
 100 O
 m O
-event I
+event B
 but O
 remained O
 at O
@@ -8127,49 +8501,50 @@ to O
 stroke B
 cycles I
 / O
-minute I
+minute B
 in O
 the O
 200 O
 m O
-event I
+event B
 during O
 the O
-period I
+period B
 between O
 1985 O
 and O
 1998 O
 ( O
-Maglischo I
+Maglischo B
 , O
 2003 O
 ) O
 . O
-<eos> O
+"
+" 
 The O
 average B
 stroke I
 rates I
 for O
-participants I
+participants B
 at O
 the O
 1976 O
 and O
 1984 O
 U.S. O
-Olympic I
+Olympic B
 Trials O
 ( O
-Craig I
+Craig B
 and O
-Pendergast I
+Pendergast B
 , O
 1979 O
 , O
 and O
-Craig I
+Craig B
 , O
 et O
 al O
@@ -8184,36 +8559,38 @@ of I
 stroke I
 rates I
 for O
-participants I
+participants B
 at O
 the O
 1996 O
-Olympic I
+Olympic B
 Games O
 and O
 1998 O
 World O
 Championships O
 are O
-shown I
+shown B
 in O
-Table I
+Table B
 1 O
 . O
-<eos> O
+"
+" 
 The O
 rates O
 for O
-male I
+male B
 and O
 female B
 backstrokers I
 are O
 in O
-bold I
-print I
+bold B
+print B
 . O
-<eos> O
+"
+" 
 The O
 average B
 stroke I
@@ -8224,18 +8601,19 @@ of I
 stroke I
 rates I
 for O
-swimmers I
+swimmers B
 in O
 other O
-events I
+events B
 are O
 also O
 listed O
 for O
-comparison I
-purposes I
+comparison B
+purposes B
 . O
-<eos> O
+"
+" 
 20 O
 J. O
 Swimming B
@@ -8243,16 +8621,19 @@ Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
 ( O
 2014 O
 ) O
-<eos> O
+"
+" 
 56 O
-<eos> O
+"
+" 
 52 O
 56 O
 52 O
@@ -8265,7 +8646,8 @@ Vol O
 54 O
 51 O
 61 O
-<eos> O
+"
+" 
 52 O
 46 O
 39 O
@@ -8274,15 +8656,18 @@ Vol O
 54 O
 50 O
 57 O
-<eos> O
+"
+" 
 47 O
 47 O
-<eos> O
+"
+" 
 42 O
-Table I
+Table B
 1 O
 . O
-<eos> O
+"
+" 
 Stroke B
 rates I
 for O
@@ -8293,12 +8678,13 @@ in O
 m O
 and O
 200 O
-<eos> O
+"
+" 
 m O
-events I
+events B
 of O
 each O
-stroke I
+stroke B
 in O
 1976 O
 , O
@@ -8307,7 +8693,8 @@ in O
 and O
 1998 O
 . O
-<eos> O
+"
+" 
 _ O
 _ O
 _ O
@@ -8405,7 +8792,7 @@ _ O
 _ O
 _ O
 _ O
-Event I
+Event B
 Women O
 Men O
 1976 O
@@ -8420,12 +8807,14 @@ Men O
 53 O
 - O
 56 O
-<eos> O
+"
+" 
 100 O
 m O
 Fr O
 . O
-<eos> O
+"
+" 
 58 O
 43 O
 - O
@@ -8434,12 +8823,15 @@ Fr O
 - O
 54 O
 200 O
-<eos> O
+"
+" 
 m O
-<eos> O
+"
+" 
 Fr O
 . O
-<eos> O
+"
+" 
 55 O
 52 O
 - O
@@ -8447,7 +8839,8 @@ Fr O
 52 O
 - O
 56 O
-<eos> O
+"
+" 
 55 O
 100 O
 m O
@@ -8458,7 +8851,8 @@ Fly O
 45 O
 - O
 54 O
-<eos> O
+"
+" 
 53 O
 200 O
 m O
@@ -8469,12 +8863,15 @@ Fly O
 47 O
 - O
 53 O
-<eos> O
+"
+" 
 61 O
 100 O
-<eos> O
+"
+" 
 m O
-<eos> O
+"
+" 
 Br O
 38 O
 - O
@@ -8482,7 +8879,8 @@ Br O
 34 O
 - O
 45 O
-<eos> O
+"
+" 
 51 O
 200 O
 m O
@@ -8493,15 +8891,18 @@ Br O
 50 O
 - O
 56 O
-<eos> O
+"
+" 
 46 O
 100 O
 m O
-<eos> O
+"
+" 
 Ba O
 200 O
 m O
-<eos> O
+"
+" 
 Ba O
 42 O
 - O
@@ -8510,42 +8911,45 @@ Ba O
 - O
 44 O
 42 O
-Data I
+Data B
 from O
 : O
-Craig I
+Craig B
 , O
 A.B. O
 Jr. O
 & O
 D.R. O
-Pendergast I
+Pendergast B
 . O
-<eos> O
+"
+" 
 ( O
 1979 O
 ) O
 . O
-<eos> O
-Relationship I
+"
+" 
+Relationship B
 of O
 stroke B
 rate I
 , O
-distance I
+distance B
 per O
-Stroke I
+Stroke B
 , O
 and O
-velocity I
+velocity B
 in O
 competitive B
 swimming I
 . O
-<eos> O
-Medicine I
+"
+" 
+Medicine B
 & O
-Science I
+Science B
 in O
 Sports O
 , O
@@ -8553,8 +8957,9 @@ Sports O
 - O
 283 O
 . O
-<eos> O
-Craig I
+"
+" 
+Craig B
 , O
 A.B. O
 Jr. O
@@ -8567,35 +8972,38 @@ Pawelczyk O
 , O
 and O
 W.L. O
-Boomer I
+Boomer B
 . O
-<eos> O
+"
+" 
 ( O
 1985 O
 ) O
 . O
-<eos> O
-Velocity I
+"
+" 
+Velocity B
 , O
 stroke B
 rate I
 , O
 and O
-distance I
+distance B
 per O
-stroke I
+stroke B
 during O
 elite B
 swimming I
 . O
-<eos> O
-Medicine I
+"
+" 
+Medicine B
 & O
-Science I
+Science B
 in O
 Sports O
 and O
-Exercise I
+Exercise B
 , O
 17(6 O
 ) O
@@ -8604,20 +9012,23 @@ Exercise I
 - O
 634 O
 . O
-<eos> O
-Maglischo I
+"
+" 
+Maglischo B
 , O
 E.W. O
 ( O
 2003 O
 ) O
 . O
-<eos> O
-Swimming I
+"
+" 
+Swimming B
 Fastest O
 . O
-<eos> O
-Champaign I
+"
+" 
+Champaign B
 , O
 IL O
 : O
@@ -8627,7 +9038,8 @@ Kinetics I
 p. O
 701 O
 . O
-<eos> O
+"
+" 
 You O
 can O
 see O
@@ -8640,7 +9052,7 @@ to O
 , O
 stroke B
 rates I
-increased I
+increased B
 noticeably O
 in O
 only O
@@ -8653,40 +9065,41 @@ while O
 in O
 all O
 other O
-events I
+events B
 they O
 tended O
 to O
-stay I
+stay B
 the O
 same O
 or O
 even O
-decrease I
-slightly I
+decrease B
+slightly B
 . O
-<eos> O
+"
+" 
 It O
 is O
 also O
 of O
-interest I
+interest B
 to O
-note I
+note B
 that O
 female B
 backstrokers I
 were O
 able O
 to O
-increase I
+increase B
 their O
 stroke B
 rates I
 with O
 no O
-noticeable I
-decrease I
+noticeable B
+decrease B
 in O
 stroke B
 length I
@@ -8706,19 +9119,20 @@ backstroke I
 swimmers I
 tended O
 to O
-decrease I
+decrease B
 in O
 the O
 100 O
 m O
-event I
+event B
 . O
-<eos> O
+"
+" 
 Average B
 stroke I
 lengths I
 for O
-women I
+women B
 were O
 1.94 O
 m O
@@ -8726,7 +9140,7 @@ m O
 stroke B
 cycle I
 ( O
-range I
+range B
 = O
 1.91 O
 to O
@@ -8736,7 +9150,7 @@ in O
 the O
 100 O
 m O
-event I
+event B
 in O
 1976 O
 while O
@@ -8746,11 +9160,11 @@ of I
 stroke I
 lengths I
 for O
-females I
+females B
 in O
 the O
 1996 O
-Olympic I
+Olympic B
 Games O
 and O
 the O
@@ -8768,19 +9182,20 @@ cycle I
 in O
 that O
 same O
-event I
+event B
 . O
-<eos> O
+"
+" 
 For O
 men O
 , O
-competing I
+competing O
 at O
 the O
 1976 O
 U.S. O
-Olympic I
-Swim I
+Olympic B
+Swim B
 Trials O
 , O
 the O
@@ -8791,7 +9206,7 @@ in O
 the O
 100 O
 m O
-backstroke I
+backstroke B
 was O
 2.24 O
 m O
@@ -8799,27 +9214,28 @@ m O
 stroke B
 cycles I
 ( O
-range I
+range B
 = O
 2.21 O
 to O
 2.27 O
 ) O
 . O
-<eos> O
+"
+" 
 The O
 range B
 of I
 stroke I
 lengths I
 for O
-male I
+male B
 backstrokers O
-competing I
+competing O
 at O
 the O
 1996 O
-Olympic I
+Olympic B
 Games O
 and O
 the O
@@ -8838,9 +9254,10 @@ in O
 the O
 100 O
 m O
-event I
+event B
 . O
-<eos> O
+"
+" 
 Of O
 course O
 , O
@@ -8849,7 +9266,7 @@ could O
 be O
 argued O
 that O
-today I
+today B
 ’s O
 world-class O
 100 O
@@ -8857,24 +9274,24 @@ m O
 backstroke B
 swimmers I
 are O
-stroking I
-faster I
+stroking B
+faster B
 because O
 they O
-catch I
-earlier I
+catch B
+earlier B
 and O
 do O
 not O
-sweep I
+sweep B
 their O
-hand I
+hand B
 up O
 very O
 much O
 during O
 the O
-upsweep I
+upsweep B
 , O
 and O
 , O
@@ -8882,34 +9299,35 @@ because O
 they O
 spend O
 more O
-time I
-kicking I
-underwater I
-and I
-less I
-time I
-swimming I
+time B
+kicking B
+underwater B
+and O
+less O
+time B
+swimming B
 on O
 the O
-surface I
+surface B
 . O
-<eos> O
+"
+" 
 These O
-technique I
+technique B
 changes O
 probably O
 do O
-account I
+account B
 for O
 the O
-fact I
+fact B
 that O
 backstrokers O
 have O
 been O
 able O
 to O
-increase I
+increase B
 their O
 stroke B
 rates I
@@ -8921,7 +9339,8 @@ of I
 stroke I
 length I
 . O
-<eos> O
+"
+" 
 Nevertheless O
 , O
 the O
@@ -8930,17 +9349,17 @@ strokes I
 rates I
 of O
 modern-day O
-swimmers I
+swimmers B
 could O
 also O
 be O
 a O
-result I
+result B
 , O
 at O
 least O
 in O
-part I
+part B
 , O
 of O
 greater B
@@ -8952,9 +9371,10 @@ are O
 using O
 a O
 three-peak O
-stroke I
+stroke B
 . O
-<eos> O
+"
+" 
 What O
 can O
 not O
@@ -8964,9 +9384,9 @@ is O
 why O
 the O
 same O
-trend I
+trend B
 toward O
-increased I
+increased B
 stroke B
 rates I
 was O
@@ -8978,101 +9398,109 @@ m O
 backstroke B
 swimmers I
 . O
-<eos> O
+"
+" 
 21 O
-<eos> O
+"
+" 
 Swimming B
 Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
 ( O
 2014 O
 ) O
-<eos> O
+"
+" 
 The O
 three-peak O
-backstroke I
+backstroke B
 may O
 be O
 more O
-continuous I
+continuous B
 than O
 the O
 two-peak O
-style I
+style B
 . O
-<eos> O
+"
+" 
 Another O
 possible O
-advantage I
+advantage B
 in O
-favor I
+favor B
 of O
 a O
 three-peak O
-backstroke I
+backstroke B
 may O
 be O
 that O
-swimmers I
+swimmers B
 decelerate O
 less O
 between O
 arm B
 strokes I
 . O
-<eos> O
+"
+" 
 In O
 the O
 traditional O
 two-peak O
-backstroke I
+backstroke B
 , O
 the O
-hand I
+hand B
 of O
 the O
-swimmer I
+swimmer B
 ’s O
 recovering O
 arm O
 usually O
 enters O
 the O
-water I
+water B
 when O
 the O
 other O
-hand I
+hand B
 is O
-finishing I
+finishing B
 its O
-downsweep I
+downsweep B
 . O
-<eos> O
+"
+" 
 After O
 that O
 it O
 requires O
-approximately I
+approximately B
 0.25 O
 secs O
 . O
-<eos> O
+"
+" 
 until O
 the O
-swimmer I
+swimmer B
 makes O
 the O
-catch I
+catch B
 with O
 the O
-overhead I
+overhead B
 arm O
 and O
 begins O
@@ -9081,10 +9509,11 @@ accelerate O
 his O
 / O
 her O
-body I
-forward I
+body B
+forward B
 . O
-<eos> O
+"
+" 
 The O
 other O
 arm O
@@ -9094,28 +9523,28 @@ recovering O
 up O
 to O
 the O
-surface I
+surface B
 during O
 most O
 of O
 this O
-period I
+period B
 and O
 , O
 with O
 only O
 the O
-kick I
+kick B
 for O
-propulsion I
+propulsion B
 , O
 the O
-swimmer I
+swimmer B
 ’s O
-body I
+body B
 will O
 decelerate O
-rapidly I
+rapidly B
 so O
 that O
 the O
@@ -9125,7 +9554,7 @@ velocity I
 may O
 be O
 in O
-excess I
+excess B
 of O
 0.6 O
 to O
@@ -9138,7 +9567,7 @@ the O
 “ O
 lag O
 ” O
-period I
+period B
 between O
 the O
 end B
@@ -9149,15 +9578,16 @@ one O
 arm O
 and O
 the O
-beginning I
+beginning B
 of O
 same O
 with O
 the O
 other O
 . O
-<eos> O
-Videos I
+"
+" 
+Videos B
 suggest O
 that O
 both O
@@ -9173,7 +9603,7 @@ loss B
 of I
 velocity I
 between O
-strokes I
+strokes B
 can O
 be O
 shortened O
@@ -9182,10 +9612,11 @@ by O
 using O
 a O
 three-peak O
-backstroke I
+backstroke B
 . O
-<eos> O
-Swimmers I
+"
+" 
+Swimmers B
 who O
 utilize O
 a O
@@ -9194,13 +9625,13 @@ propulsive B
 phase I
 in O
 their O
-backstrokes I
+backstrokes B
 will O
 be O
 accelerating O
 their O
-bodies I
-forward I
+bodies B
+forward B
 with O
 a O
 final B
@@ -9214,15 +9645,15 @@ sizable O
 portion O
 of O
 the O
-time I
+time B
 their O
-hand I
+hand B
 is O
-traveling I
+traveling B
 up O
 through O
 the O
-water I
+water B
 in O
 what O
 otherwise O
@@ -9233,11 +9664,12 @@ a O
 recovery B
 movement I
 . O
-<eos> O
+"
+" 
 Consequently O
 , O
 the O
-addition I
+addition B
 of O
 a O
 propulsive B
@@ -9253,12 +9685,13 @@ between O
 arm B
 strokes I
 . O
-<eos> O
+"
+" 
 In O
 the O
 traditional O
 two-peak O
-backstroke I
+backstroke B
 their O
 forward B
 velocity I
@@ -9267,19 +9700,19 @@ be O
 decelerating O
 from O
 the O
-time I
+time B
 their O
 stroking O
 arm O
 was O
-fully I
+fully B
 extended O
 at O
 the O
 end O
 of O
 the O
-downsweep I
+downsweep B
 until O
 the O
 recovering O
@@ -9300,7 +9733,8 @@ underwater B
 arm I
 stroke I
 . O
-<eos> O
+"
+" 
 Whereas O
 , O
 three-peak O
@@ -9310,24 +9744,25 @@ continue O
 to O
 accelerate O
 their O
-bodies I
-forward I
+bodies B
+forward B
 during O
 a O
 portion O
 of O
 the O
-time I
+time B
 their O
 stroking O
 arm O
 was O
-traveling I
+traveling B
 to O
 the O
-surface I
+surface B
 . O
-<eos> O
+"
+" 
 The O
 , O
 small B
@@ -9338,7 +9773,7 @@ available O
 , O
 only O
 3 O
-subjects I
+subjects B
 , O
 indicates O
 that O
@@ -9363,7 +9798,7 @@ other O
 arm O
 and O
 the O
-catch I
+catch B
 of O
 the O
 stroking O
@@ -9371,14 +9806,15 @@ arm O
 was O
 in O
 a O
-range I
+range B
 between O
 0.10 O
 and O
 0.15 O
 secs O
 . O
-<eos> O
+"
+" 
 for O
 the O
 three-peak O
@@ -9390,17 +9826,18 @@ analyzed O
 ( O
 Cappaert O
 and O
-Rushall I
+Rushall B
 , O
 ( O
 1994 O
 ) O
 . O
-<eos> O
+"
+" 
 On O
 the O
 other O
-hand I
+hand B
 , O
 the O
 period B
@@ -9408,24 +9845,26 @@ of I
 deceleration I
 is O
 usually O
-greater I
+greater B
 than O
 0.2 O
 secs O
 . O
-<eos> O
+"
+" 
 for O
 traditional O
 two-peak O
 backstroke B
 swimmers I
 . O
-<eos> O
+"
+" 
 This O
 suggests O
 that O
 a O
-competent I
+competent B
 three-peak O
 backstroke B
 swimmer I
@@ -9444,24 +9883,24 @@ higher B
 average I
 velocity I
 per O
-stroke I
+stroke B
 due O
 to O
 the O
-combination I
+combination B
 of O
 , O
 ( O
 1 O
 ) O
 a O
-higher I
+higher B
 ending O
 forward B
 velocity I
 for O
 each O
-stroke I
+stroke B
 occasioned O
 by O
 a O
@@ -9470,10 +9909,10 @@ propulsive B
 phase I
 that O
 takes O
-place I
+place B
 during O
 the O
-time I
+time B
 a O
 traditional O
 two-peak O
@@ -9499,44 +9938,46 @@ stroke B
 phase I
 and O
 the O
-catch I
+catch B
 of O
 the O
 other O
 arm O
 . O
-<eos> O
+"
+" 
 A O
 definitive O
-analysis I
+analysis B
 of O
 this O
-possibility I
+possibility B
 would O
 make O
 an O
-excellent I
+excellent B
 research B
 project I
 . O
-<eos> O
+"
+" 
 I O
-hope I
+hope B
 that O
-students I
+students B
 of O
-swimming I
+swimming B
 who O
 are O
-reading I
+reading O
 this O
-paper I
+paper B
 will O
 be O
 motivated O
 to O
-design I
-studies I
+design B
+studies B
 to O
 investigate O
 this O
@@ -9545,22 +9986,23 @@ some O
 of O
 the O
 other O
-possibilities I
+possibilities B
 I O
 have O
 described O
 with O
-regard I
+regard B
 to O
 the O
 three-peak O
-backstroke I
+backstroke B
 . O
-<eos> O
+"
+" 
 To O
-finish I
+finish B
 this O
-paper I
+paper B
 , O
 I O
 have O
@@ -9571,22 +10013,23 @@ video B
 of I
 Martin I
 Zubero I
-swimming I
+swimming B
 a O
 three-peak O
-backstroke I
+backstroke B
 . O
-<eos> O
+"
+" 
 This O
-video I
-shows I
+video B
+shows B
 him O
-competing I
+competing O
 in O
 the O
 100 O
 m O
-backstroke I
+backstroke B
 at O
 22 O
 the O
@@ -9594,11 +10037,12 @@ the O
 Olympic B
 games I
 . O
-<eos> O
-Click I
+"
+" 
+Click B
 on O
 the O
-screen I
+screen B
 and O
 you O
 will O
@@ -9606,7 +10050,7 @@ be O
 taken O
 to O
 the O
-video I
+video B
 so O
 that O
 you O
@@ -9615,31 +10059,34 @@ observe O
 his O
 unique O
 three-peak O
-backstroke I
+backstroke B
 in O
 real-time O
 and O
-slow I
-motion I
+slow B
+motion B
 . O
-<eos> O
+"
+" 
 J. O
 Swimming B
 Research I
 , O
 Vol O
 . O
-<eos> O
+"
+" 
 22 O
 : O
 1 O
 ( O
 2014 O
 ) O
-Figure I
+Figure B
 17 O
 . O
-<eos> O
+"
+" 
 A O
 YouTube B
 video B
@@ -9650,21 +10097,23 @@ Medalist I
 , O
 Martin B
 Zubero I
-swimming I
+swimming B
 the O
 100 O
 m O
-backstroke I
+backstroke B
 at O
 the O
 1992 O
-Olympic I
+Olympic B
 Games O
 . O
-<eos> O
-REFERENCES I
+"
+" 
+REFERENCES B
 : O
-<eos> O
+"
+" 
 Whereas O
 , O
 a O
@@ -9675,88 +10124,97 @@ continue O
 to O
 accelerate O
 their O
-body I
+body B
 during O
 a O
 portion O
 of O
 the O
-time I
+time B
 their O
 stroking O
 arm O
 was O
-traveling I
+traveling B
 to O
 the O
-surface I
+surface B
 . O
-<eos> O
+"
+" 
 Cappaert O
 , O
 J. O
 & O
 B.S. O
-Rushall I
+Rushall B
 . O
-<eos> O
+"
+" 
 ( O
 1994 O
 ) O
 . O
-<eos> O
+"
+" 
 Biomechanical O
 Analyses O
 of O
 Champion O
 Swimmers O
 . O
-<eos> O
+"
+" 
 San B
 Diego I
 , O
 Ca O
 . O
 : O
-<eos> O
+"
+" 
 Sports O
-Science I
+Science B
 Associates O
 . O
-<eos> O
-Craig I
+"
+" 
+Craig B
 , O
 A.B. O
 Jr. O
 & O
 D.R. O
-Pendergast I
+Pendergast B
 . O
-<eos> O
+"
+" 
 ( O
 1979 O
 ) O
 . O
-<eos> O
+"
+" 
 Relationship B
 of I
 stroke I
 rat I
 , O
-distance I
+distance B
 per O
-Stroke I
+Stroke B
 , O
 and O
-velocity I
+velocity B
 in O
 competitive B
 swimming I
 . O
-<eos> O
-Medicine I
+"
+" 
+Medicine B
 & O
-Science I
+Science B
 in O
 Sports O
 , O
@@ -9764,8 +10222,9 @@ Sports O
 - O
 283 O
 . O
-<eos> O
-Craig I
+"
+" 
+Craig B
 , O
 A.B. O
 Jr. O
@@ -9778,35 +10237,38 @@ Pawelczyk O
 , O
 and O
 W.L. O
-Boomer I
+Boomer B
 . O
-<eos> O
+"
+" 
 ( O
 1985 O
 ) O
 . O
-<eos> O
-Velocity I
+"
+" 
+Velocity B
 , O
 stroke B
 rate I
 , O
 and O
-distance I
+distance B
 per O
-stroke I
+stroke B
 during O
 elite B
 swimming I
 . O
-<eos> O
-Medicine I
+"
+" 
+Medicine B
 & O
-Science I
+Science B
 in O
 Sports O
 and O
-Exercise I
+Exercise B
 , O
 17(6 O
 ) O
@@ -9815,20 +10277,23 @@ Exercise I
 - O
 634 O
 . O
-<eos> O
-Maglischo I
+"
+" 
+Maglischo B
 , O
 E.W. O
 ( O
 2003 O
 ) O
 . O
-<eos> O
-Swimming I
+"
+" 
+Swimming B
 Fastest O
 . O
-<eos> O
-Champaign I
+"
+" 
+Champaign B
 , O
 IL O
 : O
@@ -9838,37 +10303,45 @@ Kinetics I
 p. O
 701 O
 . O
-<eos> O
-Mark I
+"
+" 
+Mark B
 , O
 R. O
 ( O
 2013 O
 ) O
 . O
-<eos> O
-Backstroke I
+"
+" 
+Backstroke B
 . O
-<eos> O
+"
+" 
 Online B
 Clinic I
 , O
-Feb. I
+Feb. B
 20 O
 , O
 2013 O
 . O
-<eos> O
+"
+" 
 Colorado O
 Springs O
 , O
-<eos> O
+"
+" 
 Co. O
 : O
-<eos> O
+"
+" 
 USA B
 Swimming I
 . O
-<eos> O
+"
+" 
 23 O
-<eos> O
+"
+" 
