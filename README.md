@@ -11,7 +11,16 @@ The following command installs all necessary packages:
 The project was tested using Python 3.8.0.
 
 ## Dataset
-The dataset can be extracted by running [scraper.py](https://github.com/Dodo-s95/the-term-crawler/blob/main/scraper.py), and converted into usable txt files by running [converter.py](https://github.com/Dodo-s95/the-term-crawler/blob/main/converter.py).
+The dataset can be extracted by running [scraper.py](https://github.com/Dodo-s95/the-term-crawler/blob/main/src/scraper.py), and converted into usable txt files by running [converter.py](https://github.com/Dodo-s95/the-term-crawler/blob/main/src/converter.py).
 
 ## Terms Extraction
-To extract the terms from the corpus we used [TermSuite](http://termsuite.github.io/). We cleaned the first extraction using [term_cleaner.ipynb](https://github.com/Dodo-s95/the-term-crawler/blob/main/term_cleaner.ipynb), and manually validated the outcome. The final extracted list of terms can be found in 
+To extract the terms from the corpus we used [TermSuite](http://termsuite.github.io/). We cleaned the [first extraction](https://github.com/Dodo-s95/the-term-crawler/blob/main/extraction/swimming-terms_spec_top3k.tsv) using [term_cleaner.ipynb](https://github.com/Dodo-s95/the-term-crawler/blob/main/src/term_cleaner.ipynb), and manually validated the outcome, adding and removing some entries. This is the [final list of terms](https://github.com/Dodo-s95/the-term-crawler/blob/main/extraction/swimming-terms_FINAL.tsv).
+
+## Rule-Based Tagging
+The [rule-based tagger](https://github.com/Dodo-s95/the-term-crawler/blob/main/scr/rule_based_tagger.ipynb) will tag the corpus you extracted previously using the BIO notation. It will also split the dataset into train, validation and test sets. These silver tagged data will be used to train the neural sequence tagger.
+
+## Neural Tagging
+The [neural term-tagger](https://github.com/Dodo-s95/the-term-crawler/blob/main/scr/sequence-tagger.ipynb) is based on `flair`. To train the model you will just need a BIO tagged corpus and run the code as it is. The best model will be automatically saved in a folder of your choosing.
+
+## Inspection of Results
+To inspect the results and compare the outputs of the two taggers, we wrapped the [rule-based tagger](https://github.com/Dodo-s95/the-term-crawler/blob/main/scr/rule_based_tagger.py) and created [testing.ipynb](https://github.com/Dodo-s95/the-term-crawler/blob/main/scr/testing.ipynb). In this latter file, it is enough to input a new text, and you will have the output of the two taggers, ready to be compared.
