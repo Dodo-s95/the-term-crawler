@@ -11,7 +11,7 @@ The following command installs all necessary packages:
 The project was tested using Python 3.8.0.
 
 ## Dataset
-The dataset can be extracted by running [scraper.py](https://github.com/Dodo-s95/the-term-crawler/blob/main/scraper.py), and converted into usable txt files by running [converter.py](https://github.com/Dodo-s95/the-term-crawler/blob/main/converter.py).
+The dataset can be extracted by running [scraper.py](https://github.com/Dodo-s95/the-term-crawler/blob/main/src/scraper.py), and converted into usable txt files by running [converter.py](https://github.com/Dodo-s95/the-term-crawler/blob/main/src/converter.py).
 
 ## Terms Extraction
-To extract the terms from the corpus we used [TermSuite](http://termsuite.github.io/). We cleaned the first extraction using [term_cleaner.ipynb](https://github.com/Dodo-s95/the-term-crawler/blob/main/term_cleaner.ipynb), and manually validated the outcome. The final extracted list of terms can be found in 
+To extract the terms from the corpus we used [TermSuite](http://termsuite.github.io/). We cleaned the [first extraction](https://github.com/Dodo-s95/the-term-crawler/blob/main/extraction/swimming-terms_spec_top3k.tsv) using [term_cleaner.ipynb](https://github.com/Dodo-s95/the-term-crawler/blob/main/src/term_cleaner.ipynb), and manually validated the outcome, adding and removing some entries. This is the [final list of terms](https://github.com/Dodo-s95/the-term-crawler/blob/main/extraction/swimming-terms_FINAL.tsv).
