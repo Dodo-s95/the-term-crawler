@@ -133,3 +133,7 @@ dmypy.json
 
 #  flair
 resources/
+
+# corpus
+
+corpora/

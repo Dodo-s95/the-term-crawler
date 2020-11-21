@@ -37,7 +37,7 @@ def rule_based_tagger(sentence):
     infix_re = compile_infix_regex(infixes)
     nlp.tokenizer.infix_finditer = infix_re.finditer
 
-    terms_lexicon = read_tsv("../extraction/swimming-terms_FINAL.tsv")
+    terms_lexicon = read_tsv("../extractions/swimming-terms_FINAL.tsv")
 
     corpus = sentence
 

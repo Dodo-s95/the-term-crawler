@@ -1,6 +1,17 @@
-import requests
+import requests, os, time, random
 from bs4 import BeautifulSoup
 import urllib.request
+
+# create folder stucture for the corpora needed for the whole project
+
+root_path = '../corpora/'
+folders = ['corpus_pdf','corpus_txt','corpus_bio']
+for folder in folders:
+    os.makedirs(os.path.join(root_path, folder), exist_ok=True)
+
+print("Directory structure created.")
+
+# extract PDF files
 
 base_url = "https://swimmingcoach.org/journal/"
 archive = base_url + "archive.php"
@@ -13,6 +24,9 @@ journals = [li.find("a")["href"].split("/")[-1] for div in soup.find_all("div", 
 for journal in journals:
     journal_url = base_url + journal
     try:
-        urllib.request.urlretrieve(journal_url, "../corpus_pdf/{}".format(journal))
+        urllib.request.urlretrieve(journal_url, "../corpora/corpus_pdf/{}".format(journal))
+        time.sleep(random.random.uniform(0.5, 1.5))
     except:
         pass
+
+print("PDF extraction complete.")
