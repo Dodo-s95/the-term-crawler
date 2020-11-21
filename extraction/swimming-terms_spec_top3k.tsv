@@ -1,0 +1,3324 @@
+#	type	key	freq
+1	T	n: asymmetry	409
+2	T	nn: muscle fiber	329
+2	V[s]	nnn: ftx muscle fiber	24
+2	V[s]	ann: st muscle fiber	7
+2	V[s]	nnn: muscle fiber type	18
+2	V[s]	ann: single muscle fiber	13
+3	T	nn: swimming research	590
+4	T	nn: arm stroke	205
+4	V[s]	ann: underwater arm stroke	43
+4	V[s]	nnn: breaststroke arm stroke	22
+4	V[s]	ann: left arm stroke	18
+4	V[s]	nnn: backstroke arm stroke	4
+4	V[s]	nnn: arm stroke pattern	3
+5	T	n: upsweep	201
+6	T	an: final upsweep	115
+6	V[s]	aan: long final upsweep	16
+6	V[s]	aan: propulsive final upsweep	5
+6	V[s]	aan: substantial final upsweep	5
+7	T	nn: swimming performance	110
+7	V[s]	ann: good swim performance	8
+7	V[s]	ann: adolescent swim performance	4
+7	V[s]	ann: collegiate swim performance	3
+7	V[s]	nnn: periodization swimming performance	12
+7	V[s]	ann: anaerobic swimming performance	7
+7	V[s]	nnn: sprint swimming performance	6
+8	T	n: taper	110
+9	T	n: vo2max	103
+10	T	an: aerobic capacity	94
+10	V[s]	aan: aerobic metabolic capacity	7
+10	V[s]	acan: aerobic and anaerobic capacity	4
+11	T	n: downsweep	93
+12	T	an: competitive swimmer	90
+12	V[s]	annn: competitive crawl stroke swimmer	2
+12	V[s]	aan: elite competitive swimmer	7
+12	V[s]	aan: male competitive swimmer	4
+13	T	nn: coaching application	86
+14	T	n: insweep	84
+15	T	annn: fast twitch muscle fiber	83
+16	T	annn: slow twitch muscle fiber	80
+17	T	an: forward velocity	78
+17	V[s]	aan: great forward velocity	7
+18	T	an: propulsive force	76
+18	V[s]	aan: dominant propulsive force	8
+18	V[s]	aan: combined propulsive force	2
+19	T	n: high-intensity	148
+19	V[m]	ann: high - intensity	13
+20	T	nn: training load	71
+21	T	nn: sport medicine	71
+22	T	nn: backstroke swimmer	70
+22	V[s]	nnn: three-peak backstroke swimmer	9
+22	V[s]	ann: elite backstroke swimmer	6
+23	T	nn: training zone	69
+23	V[s]	npnn: zone of endurance training	4
+23	V[s]	ann: anaerobic training zone	6
+23	V[s]	ann: aerobic training zone	3
+24	T	nn: stroke pattern	68
+24	V[s]	nnn: arm stroke pattern	3
+24	V[s]	annn: front view stroke pattern	4
+24	V[s]	nnnn: side view stroke pattern	2
+24	V[s]	ann: probable stroke pattern	3
+25	T	nn: usa swimming	68
+25	V[s]	nnn: usa swimming coach	12
+26	T	nn: overuse injury	67
+26	V[s]	nnn: overuse shoulder injury	10
+26	V[s]+	nnn: overuse injury prevention	6
+26	V[s]	ann: sports-related overuse injury	3
+27	T	an: propulsive phase	66
+27	V[s]	anpn: propulsive phase of insweep	6
+28	T	n: handgrip	65
+29	T	nnn: relay exchange time	65
+29	V[s]	annn: standardized relay exchange time	10
+29	V[s]	annn: short relay exchange time	9
+29	V[s]	annn: average relay exchange time	4
+30	T	n: breaststroke	193
+31	T	n: sfps	64
+32	T	an: anaerobic threshold	62
+32	V[s]	acan: aerobic and anaerobic threshold	6
+33	T	aan: intermittent hypoxic exposure	61
+34	T	n: zubero	60
+35	T	nn: body composition	59
+35	V[s]	nnn: body composition parameter	5
+36	T	n: olympiad	58
+37	T	nn: swim performance	56
+37	V[s]	nnn: periodization swimming performance	12
+37	V[s]	ann: anaerobic swimming performance	7
+37	V[s]	nnn: sprint swimming performance	6
+37	V[s]	ann: collegiate swim performance	3
+37	V[s]	ann: adolescent swim performance	4
+37	V[s]	nnn: swim performance datum	3
+38	T	nn: shoulder pain	55
+38	V[s]	aann: isolated anterior shoulder pain	2
+39	T	nn: intensity training	103
+39	V[s]	ann: low intensity training	23
+39	V[s]	nnn: intensity interval training	8
+39	V[s]	ann: high intensity training	46
+39	V[s]	ann: moderate intensity training	6
+40	T	an: female swimmer	102
+40	V[s]+	aan: female collegiate swimmer	2
+40	V[s]	annn: female division i swimmer	2
+40	V[s]+	aan: collegiate female swimmer	11
+40	V[s]	acan: male and female swimmer	13
+40	V[s]	aan: elite female swimmer	3
+41	T	n: burnout	51
+42	T	nn: breaststroke swimmer	50
+42	V[s]	ann: elite breaststroke swimmer	4
+43	T	n: hiit	50
+44	T	an: competitive swimming	48
+45	T	nn: blood lactate	48
+45	V[s]	nnn: blood lactate concentration	3
+46	T	nn: velocity graph	47
+46	V[s]	ann: forward velocity graph	25
+46	V[s]	aann: mass forward velocity graph	3
+47	T	n: champaign	47
+48	T	an: human kinetics	47
+49	T	ann: high intensity training	46
+50	T	nn: martin zubero	45
+51	T	an: lumbar alignment	44
+51	V[s]	acan: thoracic and lumbar alignment	13
+52	T	n: physiol	44
+53	T	ann: fast twitch fiber	44
+53	V[s]	annn: fast twitch muscle fiber	83
+54	T	ann: underwater arm stroke	43
+55	T	nn: training volume	43
+55	V[s]	ncnpn: volume and intensity of training	6
+56	T	an: aerobic metabolism	43
+56	V[s]	acan: aerobic and anaerobic metabolism	8
+56	V[s]	acan: anaerobic and aerobic metabolism	3
+57	T	n: coordination	41
+58	T	nn: body roll	41
+58	V[s]	ann: considerable body roll	2
+59	T	nn: streamline position	122
+59	V[s]	ann: underwater streamline position	42
+60	T	nn: fiber type	40
+60	V[s]	npnn: type of muscle fiber	9
+60	V[s]	nnn: muscle fiber type	18
+61	T	nn: hand force	40
+61	V[s]	ann: average hand force	12
+61	V[s]	ann: depressed hand force	6
+61	V[s]	nnn: hand force curve	2
+62	T	nn: endurance training	40
+62	V[s]	ann: traditional endurance training	15
+63	T	nn: swimming speed	40
+63	V[s]	npnn: speed of breastroke swimming	4
+64	T	n: adduction	39
+65	T	a: abdominal	39
+66	T	n: kjoc	39
+67	T	ann: slow twitch fiber	38
+67	V[s]	annn: slow twitch muscle fiber	80
+68	T	an: motivational climate	38
+68	V[s]	aan: coach-created motivational climate	3
+68	V[s]	aan: mastery-oriented motivational climate	3
+69	T	n: appl	38
+70	T	nn: body mass	38
+70	V[s]	nnn: body mass index	8
+71	T	an: maturational timing	38
+72	T	ann: lumbar lordosis angle	38
+73	T	nn: stroke cycle	37
+74	T	nn: training effect	37
+74	V[s]	npnn: effect of hiit training	3
+74	V[s]	npnn: effect of altitude training	2
+75	T	n: menarche	37
+76	T	an: upper limb	36
+76	V[s]	acan: upper and low limb	10
+76	V[s]	aan: dominant upper limb	3
+77	T	nn: motor unit	35
+78	T	nn: master swimmer	35
+78	V[s]	ann: competitive master swimmer	3
+79	T	npnn: journal of sport science	35
+80	T	n: mitochondrion	34
+81	T	n: asca	34
+82	T	n: biomechanic	66
+83	T	n: fina	33
+84	T	n: chollet	33
+85	T	nn: stroke length	32
+85	V[s]	ann: average stroke length	4
+86	T	an: collegiate swimmer	32
+86	V[s]+	aan: collegiate female swimmer	11
+86	V[s]+	aan: female collegiate swimmer	2
+87	T	a: horizontal	64
+88	T	acan: aerobic and anaerobic endurance	32
+89	T	nn: stroke rate	62
+89	V[s]	ann: fast stroke rate	4
+89	V[s]	ann: average stroke rate	4
+90	T	an: young swimmer	31
+91	T	nn: shoulder adduction	31
+92	T	an: upper arm	31
+92	V[s]	acan: upper and low arm	2
+93	T	an: elite swimmer	60
+93	V[s]	aan: elite competitive swimmer	7
+93	V[s]	aan: elite female swimmer	3
+93	V[s]	aann: elite front crawl swimmer	3
+93	V[s]	aan: senior elite swimmer	2
+94	T	n: overtraining	60
+95	T	an: present study	30
+96	T	a: online	30
+97	T	an: anaerobic capacity	30
+97	V[s]	annn: anaerobic energy system capacity	2
+97	V[s]	aan: anaerobic metabolic capacity	2
+97	V[s]	acan: aerobic and anaerobic capacity	4
+98	T	n: midline	29
+99	T	npn: resistance of water	29
+99	V[s]	nn: water resistance	8
+100	T	n: ncaa	29
+101	T	an: front crawl	113
+101	V[s]	aan: simulated front crawl	3
+102	T	n: rspg	28
+103	T	aan: personal good time	28
+104	T	nn: oxygen consumption	28
+104	V[s]	ann: maximal oxygen consumption	7
+104	V[s]	ann: resting oxygen consumption	5
+105	T	n: hypoxia	28
+106	T	an: low limb	28
+106	V[s]	acan: upper and low limb	10
+107	T	nn: swimming coach	28
+107	V[s]	nnn: usa swimming coach	12
+107	V[s]	ann: american swim coach	5
+107	V[s]	ann: successful swim coach	4
+108	T	n: variability	27
+109	T	ann: anaerobic threshold velocity	27
+110	T	nn: lactate threshold	27
+110	V[s]	nnn: lactate threshold speed	4
+111	T	ann: polar bear challenge	27
+112	T	nn: swimming stroke	27
+113	T	nn: sport exerc	27
+113	V[s]	nnn: sport exerc psychol	6
+114	T	an: aerobic training	27
+114	V[s]	acan: aerobic and anaerobic training	3
+115	T	nn: sprint training	26
+115	V[s]	ann: repeated sprint training	3
+116	T	nn: stroke technique	26
+117	T	a: nutritional	26
+118	T	a: symmetrical	25
+119	T	n: impingement	25
+120	T	nn: drag force	25
+120	V[s]	ann: active drag force	2
+121	T	an: underwater group	25
+122	T	nn: swim coach	25
+122	V[s]	nnn: usa swimming coach	12
+123	T	ann: forward velocity graph	25
+124	T	nn: high-intensity training	49
+124	V[img]	ann: high intensity training	46
+124	V[s]	nan: high-intensity intermittent training	6
+125	T	n: metabolite	24
+126	T	npan: capacity of slow twitch	24
+127	T	r: bilaterally	24
+128	T	nn: shoulder angle	24
+129	T	an: propulsive sweep	23
+130	T	nn: repeat set	23
+131	T	ann: low intensity training	23
+132	T	npn: journal of physiology	23
+132	V[s]	npan: journal of applied physiology	29
+132	V[s]	anpn: american journal of physiology	18
+133	T	an: late maturers	23
+134	T	a: en-2	23
+135	T	nnn: team exchange time	23
+136	T	n: flexion	23
+137	T	an: competitive season	23
+137	V[s]	aan: competitive collegiate season	2
+138	T	ann: med sci sport	23
+138	V[s]	nan: sci med sport	4
+139	T	nn: crawl stroke	23
+139	V[s]	nnn: crawl stroke swimming	6
+139	V[s]	nnnn: sprint front crawl stroke	3
+140	T	n: acclimatization	23
+141	T	n: velocity	340
+142	T	nn: pain scale	22
+142	V[s]	ann: functional pain scale	9
+142	V[s]	ann: self-reported pain scale	4
+143	T	nn: arm recovery	22
+144	T	an: vertical handgrip	22
+144	V[s]	acan: horizontal or vertical handgrip	3
+145	T	an: anaerobic metabolism	44
+145	V[s]	acan: anaerobic and aerobic metabolism	3
+145	V[s]	acan: aerobic and anaerobic metabolism	8
+146	T	an: spinal alignment	22
+147	T	npn: effect of training	22
+147	V[s]+	nn: training effect	37
+148	T	nnn: trunk muscle activity	22
+149	T	an: athletic performance	22
+150	T	nnn: breaststroke arm stroke	22
+151	T	nn: repeat distance	21
+152	T	n: cond	21
+153	T	n: stager	21
+154	T	a: curvilinear	21
+155	T	nn: recovery time	21
+155	V[s]	ann: adequate recovery time	4
+156	T	n: anova	21
+157	T	nn: performance improvement	21
+158	T	n: yardage	21
+159	T	an: psychological skill	21
+160	T	an: bilateral asymmetry	21
+161	T	nn: dolphin kick	20
+161	V[s]	ann: underwater dolphin kick	3
+162	T	an: previous study	20
+163	T	nn: side view	20
+163	V[s]	nnpn: side view of breaststroke	2
+164	T	n: capparet	20
+165	T	an: aerobic threshold	20
+165	V[s]	acan: aerobic and anaerobic threshold	6
+166	T	an: current study	20
+167	T	n: outsweep	20
+168	T	a: oxidative	19
+169	T	npn: variant with foot	19
+170	T	ann: front crawl swimming	19
+171	T	nn: training strategy	19
+172	T	n: bixler	19
+173	T	n: myoglobin	19
+174	T	nn: hand photo	19
+174	V[s]	ann: left hand photo	4
+174	V[s]	nnpn: hand photo of zubero	2
+175	T	nn: colorado spring	19
+176	T	nn: appl physiol	19
+176	V[s]	nnnn: eur j appl physiol	11
+177	T	nn: swim training	19
+178	T	n: backstroke	415
+178	V[m]+	nn: backstroke stroke	3
+179	T	npn: range of motion	18
+180	T	nn: swimming training	18
+181	T	nn: state university	18
+181	V[s]	nnn: ohio state university	6
+182	T	anpn: american journal of physiology	18
+183	T	nn: sport psychology	18
+183	V[s]	ann: applied sport psychology	6
+184	T	nn: muscle imbalance	18
+185	T	nn: water temperature	18
+186	T	nn: performance datum	18
+186	V[s]	nnn: relay performance datum	4
+186	V[s]	nnn: swim performance datum	3
+187	T	ann: left arm stroke	18
+188	T	nnn: muscle fiber type	18
+189	T	an: active drag	18
+190	T	an: bilateral difference	18
+191	T	n: seifert	18
+192	T	n: swimmer	2211
+193	T	aan: human skeletal muscle	17
+194	T	an: maximum effort	17
+195	T	nn: body shape	17
+195	V[s]	ann: linear body shape	2
+196	T	nn: coaching behavior	17
+197	T	nn: oxygen uptake	17
+197	V[s]	ann: maximal oxygen uptake	5
+198	T	nn: training speed	17
+199	T	a: en-3	17
+200	T	nn: training intensity	17
+200	V[s]	ncnpn: volume and intensity of training	6
+200	V[s]	ncnpn: duration and intensity of training	2
+201	T	n: agonist	17
+202	T	nn: swimming event	17
+202	V[s]	ann: elite swimming event	3
+203	T	an: intrinsic motivation	17
+204	T	nn: training velocity	17
+205	T	an: short rest	17
+206	T	nn: swimming world	17
+207	T	an: competitive stroke	33
+208	T	n: three-peak	66
+209	T	nn: backstroke event	16
+210	T	an: backward force	16
+211	T	annn: med sci sport exerc	16
+212	T	nn: champion swimmer	16
+213	T	a: sideward	16
+214	T	a: downward	16
+215	T	nn: novice swimmer	16
+216	T	npn: mass of water	16
+217	T	an: active recovery	16
+217	V[s]	acan: active and passive recovery	3
+218	T	nn: split time	16
+219	T	n: maglischo	16
+220	T	npn: angle of attack	16
+221	T	nn: standing position	16
+222	T	nn: dolphin club	16
+223	T	n: pendergast	16
+224	T	an: resistive drag	16
+225	T	npn: purpose of study	16
+225	V[s]	npan: purpose of present study	2
+225	V[s]	anpn: primary purpose of study	2
+226	T	an: good alignment	16
+227	T	nn: endurance athlete	16
+227	V[s]	ann: elite endurance athlete	5
+228	T	an: fast speed	16
+229	T	nn: strength cond	16
+230	T	an: en-1 zone	95
+231	T	n: kinematics	31
+232	T	an: competitive level	31
+232	V[s]	anpn: competitive level of swimmer	4
+233	T	npn: side of body	15
+234	T	nnn: swimming world championship	15
+235	T	an: repeated sprint	15
+236	T	ncnn: performance and body composition	15
+237	T	ann: olympic gold medalist	15
+238	T	nn: swimming velocity	15
+238	V[s]	ann: maximum swimming velocity	6
+239	T	nn: breathing problem	15
+239	V[s]	ann: stress-related breathing problem	9
+240	T	ann: traditional endurance training	15
+241	T	nn: backstroke heat	15
+242	T	nn: body fat	15
+243	T	nn: lift force	15
+244	T	an: fat mass	15
+245	T	an: moderate intensity	15
+246	T	an: dynamic warm-up	15
+247	T	an: pulmonary function	15
+248	T	nn: sport sci	15
+249	T	nn: effect size	15
+250	T	n: hollander	15
+251	T	nn: surface group	15
+252	T	n: underside	15
+253	T	npan: journal of applied physiology	29
+254	T	nn: injury risk	14
+254	V[s]	npnn: risk of overuse injury	4
+254	V[s]	nnn: overuse injury risk	5
+255	T	an: physical therapy	14
+256	T	n: scand	14
+257	T	npn: foundation of coaching	14
+258	T	a: ernest	14
+259	T	a: linear	14
+260	T	ann: underwater streamline position	42
+261	T	n: natation	14
+262	T	a: self-reported	14
+263	T	nn: distance runner	14
+264	T	n: vortex	14
+265	T	nn: side dominance	14
+266	T	nn: motor nerve	14
+267	T	an: extended arm	14
+268	T	npn: middle of season	14
+269	T	nn: athlete burnout	14
+270	T	nn: wave drag	14
+271	T	nn: fiber recruitment	14
+272	T	an: individual swimmer	14
+273	T	n: decrement	14
+274	T	n: website	14
+274	V[m]	nn: web site	4
+275	T	a: adaptive	14
+276	T	nn: training distance	14
+277	T	nn: ftx fiber	122
+277	V[s]	nnn: ftx muscle fiber	24
+277	V[s]	nnpn: ftx fiber of human	2
+278	T	n: in-water	27
+279	T	nn: training regimen	27
+280	T	a: aquatic	27
+281	T	an: early adolescence	27
+282	T	a: anthropometric	13
+283	T	n: deceleration	13
+284	T	an: international symposium	13
+284	V[s]	aan: xix international symposium	6
+285	T	n: normoxia	13
+286	T	npn: week of training	13
+286	V[s]	nn: training week	2
+287	T	a: modern-day	13
+288	T	a: core	13
+289	T	nn: swim time	13
+290	T	ncnn: timing and swim performance	13
+291	T	an: propulsive peak	13
+292	T	nnn: erector spinae muscle	13
+293	T	an: european journal	13
+294	T	acan: thoracic and lumbar alignment	13
+295	T	nn: relay team	13
+295	V[s]	nnn: swimming relay team	4
+296	T	nnn: health care provider	13
+297	T	ann: high - intensity	13
+298	T	n: capillary	13
+299	T	n: buchheit	13
+300	T	an: net force	13
+301	T	an: aerobic endurance	13
+301	V[s]	acan: aerobic and anaerobic endurance	32
+302	T	ann: tethered swimming test	13
+303	T	n: %mvc	13
+304	T	an: drag-dominated propulsion	13
+305	T	an: previous research	13
+306	T	an: relative contribution	13
+307	T	an: cold incapacitation	13
+308	T	nn: training adaptation	25
+308	V[s]	ann: optimal training adaptation	3
+308	V[s]	ann: peripheral training adaptation	3
+309	T	aan: high horizontal handgrip	25
+310	T	ann: straight line pull	12
+311	T	ann: thoracic kyphosis angle	24
+312	T	an: beta-2 agonist	12
+313	T	an: red arrow	12
+314	T	nn: taper period	12
+315	T	nn: body wave	12
+316	T	nnn: university park press	12
+317	T	ann: short exchange time	12
+318	T	an: male swimmer	12
+318	V[s]	acan: male and female swimmer	13
+318	V[s]	aan: male competitive swimmer	4
+319	T	an: external rotation	24
+319	V[s]	acan: internal and external rotation	12
+320	T	n: soreness	12
+321	T	an: spinous process	12
+322	T	ann: average hand force	12
+323	T	nnn: nova science publisher	12
+324	T	nn: altitude training	12
+325	T	nnn: periodization swimming performance	12
+326	T	nnpn: world book of swimming	12
+327	T	nn: boat paddle	12
+328	T	an: atrial fibrillation	24
+328	V[s]	aan: lone atrial fibrillation	3
+329	T	n: breaststrokers	24
+330	T	nn: blood flow	12
+330	V[s]	nnn: muscle blood flow	4
+331	T	an: open water	12
+331	V[s]	aan: cold open water	7
+332	T	npn: surface of water	12
+332	V[s]	nn: water surface	4
+333	T	nn: strength training	12
+334	T	an: hypoxic chamber	12
+334	V[s]	aan: normobaric hypoxic chamber	4
+335	T	nnn: training load group	12
+336	T	an: heavy training	12
+337	T	n: t100c	12
+338	T	an: human swimming	12
+339	T	an: mitochondrial density	12
+340	T	an: optimal performance	12
+341	T	nnn: usa swimming coach	12
+342	T	a: higher-performing	12
+343	T	n: omega	12
+344	T	an: weak side	12
+345	T	nn: swimming propulsion	12
+345	V[s]	ann: human swimming propulsion	8
+346	T	nn: muscle fatigue	12
+347	T	n: rotator	12
+348	T	npn: type of training	12
+349	T	an: late adolescence	12
+349	V[s]	acan: middle and late adolescence	3
+350	T	nn: three-peak backstroke	47
+350	V[s]	nnn: three-peak backstroke swimmer	9
+350	V[s]	ann: unique three-peak backstroke	2
+351	T	n: propulsion	150
+352	T	an: internal rotation	23
+352	V[s]	acan: internal and external rotation	12
+353	T	nn: backstroke start	23
+353	V[s]	nnn: backstroke start technique	5
+354	T	nn: swimming club	11
+354	V[s]	ann: norwegian swimming club	4
+355	T	aan: collegiate female swimmer	11
+355	V[s]+	aan: female collegiate swimmer	2
+356	T	nnn: sport science associate	11
+357	T	nnn: pb success rate	11
+358	T	n: streamlining	11
+359	T	an: propulsive action	11
+360	T	nn: sport performance	11
+361	T	n: elite-level	22
+362	T	npn: symptom of overtraining	11
+363	T	an: good swimmer	11
+364	T	r: maximally	11
+365	T	nn: health science	11
+366	T	a: hydrodynamic	22
+367	T	nn: method participant	11
+368	T	an: total load	11
+369	T	an: reverse periodization	11
+370	T	nnnn: team relay exchange time	11
+371	T	ann: short relay exchange	11
+372	T	nn: healthcare provider	11
+372	V[img]	nnn: health care provider	13
+373	T	an: olympic rank	11
+374	T	n: scapula	11
+375	T	npn: degree of narrowness	11
+376	T	nn: swimming competition	11
+377	T	n: vilas-boas	11
+377	V[m]	nn: vilas boa	3
+378	T	nn: distance swimmer	11
+378	V[s]	ann: middle distance swimmer	3
+379	T	n: lemyre	11
+380	T	nnn: lactate removal rate	11
+381	T	an: statistical significance	11
+382	T	nn: butterfly swimmer	11
+382	V[s]	ann: skilled butterfly swimmer	3
+383	T	nn: block configuration	11
+384	T	nn: vo2max velocity	21
+385	T	nn: stroke mechanic	21
+385	V[s]	ann: altered stroke mechanic	4
+386	T	nn: lactate concentration	10
+387	T	n: hickson	10
+388	T	n: inclinometer	10
+389	T	an: standard deviation	10
+390	T	nn: shoulder flexibility	10
+391	T	nnn: overuse shoulder injury	10
+392	T	an: high frequency	10
+393	T	n: laxity	10
+394	T	n: jeul	10
+395	T	nn: training stress	10
+396	T	an: slow speed	10
+397	T	annn: lazy meadow lane prescott	10
+398	T	nn: catch position	10
+399	T	nn: movement pattern	10
+399	V[s]	ann: asymmetrical movement pattern	2
+400	T	an: resistive force	10
+401	T	nn: strength asymmetry	10
+402	T	acan: upper and low limb	10
+403	T	anpnn: american journal of sport medicine	10
+404	T	n: havriluk	10
+405	T	an: elite swimming	10
+406	T	nn: exercise science	10
+407	T	nn: training group	10
+407	V[s]	nnn: training load group	12
+408	T	nn: ncaa division	10
+409	T	ncnn: alignment and trunk muscle	10
+410	T	nn: youth swimmer	10
+411	T	ann: int j sport	10
+412	T	nn: age difference	10
+413	T	nn: pull phase	10
+414	T	a: scapular	20
+415	T	an: circadian rhythm	10
+416	T	nn: likert scale	10
+416	V[s]	ann: 5-point likert scale	5
+416	V[s]	ann: 7-point likert scale	3
+417	T	n: handedness	10
+418	T	nn: sprint swimming	10
+419	T	an: upper extremity	10
+420	T	nnn: power point score	10
+421	T	an: early maturers	10
+422	T	nn: soccer player	10
+423	T	nn: swimming warm-up	10
+424	T	npn: day of competition	10
+425	T	an: lumbar spine	10
+426	T	n: extensor	10
+427	T	nn: shoulder roll	10
+427	V[s]	ann: maximum shoulder roll	2
+428	T	anpnn: international journal of sport medicine	10
+429	T	ncnn: capacity and lactate removal	10
+430	T	nn: strength difference	10
+431	T	n: wetsuit	10
+432	T	an: hard training	10
+433	T	aan: low back pain	10
+434	T	a: anatomical	10
+435	T	nn: sprint performance	10
+435	V[s]	nnn: sprint swimming performance	6
+436	T	nn: freestyle swimming	10
+437	T	npn: majority of swimmer	10
+438	T	n: perfectionism	20
+439	T	nn: pressure drag	10
+440	T	annn: standardized relay exchange time	10
+441	T	an: non-dominant side	10
+441	V[s]	acan: dominant and non-dominant side	6
+442	T	npn: period of training	10
+443	T	an: abdominal muscle	10
+444	T	an: middle season	10
+445	T	n: tabata	10
+446	T	a: three-dimensional	19
+447	T	n: tendonitis	19
+448	T	n: swimming	1712
+449	T	nn: exercise physiology	9
+450	T	nn: race time	9
+451	T	an: st fiber	18
+452	T	an: human performance	9
+453	T	nn: performance time	9
+454	T	npn: magnitude of improvement	9
+455	T	ann: functional pain scale	9
+456	T	n: hyperventilation	9
+457	T	an: lactic acid	9
+458	T	npnn: type of muscle fiber	9
+459	T	an: long tendon	9
+459	V[s]	nan: biceps long tendon	7
+460	T	a: ergogenic	9
+461	T	npn: midline of body	9
+462	T	an: lumbar extension	9
+463	T	an: low frequency	9
+464	T	ann: final upsweep figure	9
+465	T	nn: exercise performance	9
+465	V[s]	ann: intense exercise performance	3
+466	T	an: physiological parameter	9
+467	T	an: underwater swimming	9
+468	T	n: misalignment	9
+469	T	an: future study	9
+470	T	an: elite athlete	18
+471	T	an: total distance	9
+472	T	nn: race speed	9
+473	T	nn: shoulder problem	9
+474	T	npan: rate of aerobic metabolism	9
+475	T	an: cold shock	9
+476	T	an: dominant arm	9
+477	T	nn: motor skill	9
+477	V[s]	ann: gross motor skill	3
+478	T	an: statistical analysis	9
+479	T	an: high elbow	9
+480	T	an: vital capacity	9
+481	T	nn: event entry	9
+482	T	nn: muscle glycogen	9
+483	T	nn: altitude exposure	9
+483	V[s]	ann: simulated altitude exposure	2
+484	T	nn: exercise intensity	9
+485	T	an: similar result	9
+486	T	nn: coaching education	9
+487	T	nn: stroke phase	9
+487	V[s]	npnn: phase of arm stroke	8
+487	V[s]	nnn: stroke phase duration	3
+488	T	npn: effect of asymmetry	9
+488	V[s]	anpn: specific effect of asymmetry	4
+489	T	nn: sport training	9
+490	T	annn: short relay exchange time	9
+491	T	a: out-placed	9
+492	T	nn: warm-up protocol	9
+493	T	nn: two-peak style	9
+494	T	nn: three-peak stroke	9
+495	T	ncan: upsweep or inward scull	9
+496	T	nn: swimming iii	9
+497	T	an: vertical axis	9
+498	T	an: fat-free mass	9
+499	T	nn: training protocol	9
+500	T	nn: threshold speed	9
+500	V[s]	nnn: lactate threshold speed	4
+501	T	npn: group of rat	9
+502	T	ann: stress-related breathing problem	9
+503	T	an: aerobic period	9
+504	T	n: costill	18
+505	T	nn: pain level	9
+506	T	an: non-dominant arm	9
+507	T	ann: traditional two-peak backstroke	9
+508	T	n: laterality	9
+509	T	nnn: view stroke pattern	9
+510	T	nn: performance peak	9
+511	T	nn: swimming race	9
+512	T	an: inverse relationship	9
+513	T	an: observed asymmetry	9
+514	T	nn: send-off time	9
+515	T	ncnn: lift and drag force	9
+516	T	n: maturation	9
+517	T	an: preventive measure	17
+517	V[s]	aan: popular preventive measure	4
+518	T	an: rotational effect	17
+518	V[s]	aan: unbalanced rotational effect	2
+519	T	nn: performance gain	8
+519	V[s]	annn: relative swim performance gain	3
+520	T	a: zigzag	16
+521	T	an: intense training	8
+521	V[s]+	nn: intensity training	103
+522	T	an: athletic environment	8
+523	T	an: modern-day backstroker	8
+524	T	an: straight pull	8
+525	T	ncan: fibrillation and cardiac health	8
+526	T	an: yellow arrow	8
+527	T	ann: short rest period	8
+528	T	aan: aerobic metabolic process	8
+529	T	an: physiological peak	8
+530	T	an: live-high train-low	8
+531	T	r: intuitively	8
+532	T	an: ergogenic aid	8
+533	T	n: terauds	8
+534	T	an: short sprint	8
+535	T	ann: standardized performance score	8
+536	T	ann: san francisco bay	16
+537	T	n: electromyography	16
+538	T	ann: high training volume	8
+539	T	a: quantitative	8
+540	T	n: computation	8
+541	T	nn: buffer capacity	8
+541	V[s]	nnn: muscle buffer capacity	4
+542	T	npn: period of deceleration	8
+543	T	npn: alignment of body	8
+543	V[s]	nn: body alignment	5
+544	T	ann: aerobic threshold velocity	8
+545	T	nn: freestyle time	8
+546	T	an: postural change	8
+547	T	nn: butterfly swimming	8
+548	T	nn: core hypothermia	16
+548	V[s]	ann: true core hypothermia	10
+549	T	npn: front of shoulder	8
+550	T	an: dominant side	8
+550	V[s]	acan: dominant and non-dominant side	6
+551	T	npn: model of factor	8
+552	T	npn: institute of sport	8
+553	T	r: optimally	8
+554	T	an: early -	8
+555	T	nn: sample size	8
+556	T	nn: level swimmer	8
+557	T	nn: training process	8
+558	T	acan: aerobic and anaerobic metabolism	8
+559	T	nn: technique asymmetry	8
+560	T	nn: training stimulus	8
+561	T	n: fitts	8
+562	T	nn: confidence interval	8
+563	T	an: socio-environmental factor	8
+564	T	npn: center of mass	8
+565	T	nn: stroke volume	8
+566	T	npn: surface of body	8
+566	V[s]	anpn: non-propulsive surface of body	3
+567	T	an: subjective well-being	8
+568	T	a: hormonal	8
+569	T	aan: long final upsweep	16
+570	T	n: termin	8
+571	T	nn: freestyle event	8
+571	V[s]	nnn: 50m freestyle event	3
+572	T	n: seiler	8
+573	T	nn: lung volume	8
+574	T	ann: good swim performance	8
+575	T	n: pease	8
+576	T	npnn: phase of arm stroke	8
+577	T	an: middle photo	8
+577	V[s]	acan: middle and right photo	2
+578	T	n: responsiveness	8
+579	T	an: entire arm	8
+580	T	aan: dominant propulsive force	8
+581	T	npncn: physiology of sport and exercise	8
+582	T	n: counsilman	8
+583	T	n: bedingfield	8
+584	T	n: fast-twitch	8
+585	T	nnn: body mass index	8
+586	T	ann: human swimming propulsion	8
+587	T	nn: peak season	8
+588	T	aan: solo english channel	8
+589	T	nn: muscle balance	8
+590	T	n: meta-analysis	8
+591	T	nnn: ftx muscle fiber	24
+592	T	nva: difference be significant	8
+593	T	nn: youth sport	8
+594	T	anpnn: american college of sport medicine	8
+595	T	nn: participant age	8
+596	T	nn: phase duration	8
+596	V[s]	nnn: stroke phase duration	3
+597	T	npn: period of rest	8
+597	V[s]+	nn: rest period	45
+598	T	an: static stretch	8
+599	T	n: scoliosis	8
+600	T	n: arellano	8
+601	T	an: passive recovery	8
+601	V[s]	acan: active and passive recovery	3
+602	T	n: predictor	8
+603	T	n: fmean	16
+604	T	n: tsukuba	8
+605	T	npn: volume of training	8
+605	V[s]+	nn: training volume	43
+606	T	nn: water resistance	8
+607	T	nn: later-maturing group	8
+608	T	n: dolphin-kick	15
+608	V[mg]+	nn: dolphin kick	20
+609	T	nn: american swimmer	15
+609	V[s]	ann: national-level american swimmer	7
+610	T	nn: early-maturing swimmer	15
+611	T	an: contractile velocity	15
+612	T	n: streamline	134
+613	T	n: alignment	151
+614	T	n: holloszy	7
+615	T	nn: weight training	7
+616	T	nn: performance result	7
+617	T	aan: cold open water	7
+618	T	anpnn: portuguese journal of sport science	7
+619	T	nn: swim bench	7
+620	T	a: semi-circular	14
+621	T	nn: impingement syndrome	7
+621	V[s]	ann: subacromial impingement syndrome	2
+621	V[s]	nnn: shoulder impingement syndrome	2
+622	T	acan: fast and slow twitch	7
+623	T	npn: aim of study	7
+624	T	an: severe shingle	7
+625	T	nn: fina rule	7
+625	V[s]	ann: current fina rule	5
+626	T	nn: hand entry	7
+627	T	npncnn: journal of strength and conditioning research	7
+628	T	nn: emg datum	7
+629	T	nn: measurement tool	7
+630	T	an: shallow catch	7
+631	T	npn: level of discipline	7
+632	T	n: regression	7
+633	T	nn: error bar	7
+634	T	an: intermittent exercise	7
+635	T	nn: shoulder joint	7
+636	T	a: isokinetic	7
+637	T	a: laminar	7
+638	T	npn: science of swimming	7
+639	T	aan: great forward velocity	7
+640	T	nnn: sea level performance	7
+641	T	aan: aerobic metabolic capacity	7
+642	T	an: 2d method	7
+643	T	npn: centre of mass	7
+644	T	nn: training hour	7
+645	T	an: nutritional habit	7
+645	V[s]	aan: proper nutritional habit	5
+646	T	an: hypoxic group	7
+647	T	an: adequate rest	7
+648	T	ann: seasonal testing date	7
+649	T	an: significant correlation	14
+649	V[s]	aan: statistical significant correlation	6
+650	T	an: fluid flow	7
+651	T	nn: race distance	7
+652	T	an: long repeat	7
+653	T	nn: training history	7
+654	T	n: increment	7
+655	T	nn: track athlete	7
+656	T	nn: glide phase	7
+657	T	an: informed consent	7
+658	T	nn: swimming technique	7
+659	T	nan: biceps long tendon	7
+660	T	nn: practice time	7
+661	T	nn: endurance performance	7
+662	T	aan: secondary en-1 set	7
+663	T	ann: high-intensive interval training	28
+664	T	nn: data collection	7
+665	T	n: tachycardia	7
+666	T	an: hypoxic stimulus	7
+667	T	an: low pressure	7
+668	T	a: lower-performing	7
+669	T	a: qualitative	7
+670	T	n: deltoid	7
+671	T	nn: threshold training	7
+672	T	nn: fg fiber	7
+673	T	anpnn: biomechanical analysis of champion swimmer	14
+674	T	an: skilled swimmer	7
+675	T	ann: resting heart rate	7
+676	T	nn: increase resistance	7
+677	T	n: silvia	7
+678	T	nn: muscle strength	7
+679	T	an: respiratory muscle	7
+680	T	an: peak performance	14
+681	T	an: descriptive statistic	7
+682	T	ann: st muscle fiber	7
+683	T	aan: significant main effect	7
+684	T	an: primary purpose	7
+685	T	nn: endurance capacity	7
+685	V[s]	nnn: cycle endurance capacity	3
+686	T	an: proper nutrition	7
+687	T	ann: anaerobic swimming performance	7
+688	T	nn: freestyle relay	7
+689	T	ann: tethered swim test	7
+690	T	an: physical training	7
+691	T	ncnn: threshold and vo2max velocity	7
+692	T	n: barrowman	7
+693	T	nn: hand path	7
+694	T	npn: measure of performance	7
+694	V[s]	nn: performance measure	5
+695	T	a: oblique	13
+696	T	an: significant decrease	13
+697	T	acan: male and female swimmer	13
+698	T	ann: single muscle fiber	13
+699	T	nn: aquatics research	13
+700	T	nn: resistance training	13
+701	T	nan: cross sectional area	13
+702	T	an: bronchial hyperresponsiveness	13
+703	T	an: long downsweep	6
+704	T	an: fast swimming	6
+705	T	an: previous finding	6
+706	T	ann: anaerobic training zone	6
+707	T	a: shaded	6
+708	T	nn: sex interaction	6
+709	T	npn: axis of body	6
+709	V[s]	anpn: longitudinal axis of body	4
+710	T	n: trappe	6
+711	T	an: online training	6
+712	T	nn: kjoc score	6
+713	T	a: base	6
+714	T	nn: body posture	6
+715	T	n: pmid	6
+716	T	npnn: effect of training load	6
+717	T	npn: majority of set	6
+718	T	nn: fog fiber	6
+719	T	ann: single arm amputee	6
+720	T	ncnn: exercise and sport science	6
+721	T	n: etiology	6
+722	T	nn: hiit training	6
+723	T	n: bosquet	6
+724	T	nn: performance difference	6
+725	T	nn: missy franklin	6
+726	T	an: deep catch	6
+727	T	an: variant line	6
+728	T	nn: methacholine challenge	6
+729	T	npn: analysis of variance	6
+730	T	annnn: standardized relay exchange time training	6
+731	T	nn: swimming rule	6
+732	T	an: eastern zone	6
+733	T	npn: altitude of 2300m	6
+733	V[s]	anpn: simulated altitude of 2300m	4
+734	T	n: berkoff	6
+735	T	nn: performance deficit	6
+736	T	nn: freestyle swimmer	6
+737	T	nn: practice content	6
+738	T	nn: state swimming	6
+739	T	nnn: sprint swimming performance	6
+740	T	an: intense exercise	6
+741	T	acan: aerobic and anaerobic threshold	6
+742	T	an: positive rspg	6
+743	T	n: fatigability	6
+744	T	an: human movement	6
+745	T	nn: metabolite accumulation	6
+746	T	an: muscular contraction	6
+747	T	npn: faculty of sport	6
+748	T	an: postural alignment	6
+749	T	nn: time swimmer	6
+750	T	nnpn: activation theory of stress	6
+751	T	n: heigenhauser	6
+752	T	nn: time point	6
+753	T	an: late childhood	6
+754	T	ann: propulsive force graph	6
+755	T	nn: coach sample	6
+756	T	npan: clinic of north america	6
+757	T	nan: high-intensity intermittent training	6
+758	T	an: statistical test	6
+759	T	nn: time difference	6
+760	T	nn: datum point	6
+761	T	an: cardiac output	6
+762	T	nn: competition result	12
+763	T	npn: exit of hand	6
+764	T	an: higher-performing swimmer	6
+765	T	n: straight-line	6
+766	T	a: morphological	6
+767	T	n: slow-twitch	6
+768	T	anpnn: propulsive phase of arm stroke	6
+769	T	aan: early environmental factor	6
+770	T	nn: leg kick	6
+771	T	acan: dominant and non-dominant side	6
+772	T	npn: mode of dissemination	6
+773	T	an: great asymmetry	6
+774	T	nnn: ohio state university	6
+775	T	nn: sprint athlete	6
+776	T	nn: sprint race	6
+777	T	an: olympic swimmer	6
+778	T	n: biol	6
+779	T	an: marine animal	6
+780	T	an: cumulative mile	6
+781	T	ncnn: effort and heart rate	6
+782	T	an: future research	6
+783	T	nn: rio olympic	12
+784	T	nn: ramp effect	6
+784	V[s]	nnpn: ramp effect of muscle	4
+785	T	nn: meter race	6
+786	T	npan: journal of athletic training	6
+787	T	n: morphology	6
+788	T	nva: pressure be great	6
+789	T	an: strong force	6
+790	T	nn: wave propulsion	6
+791	T	ann: cognitive activation theory	6
+792	T	nnn: sport exerc psychol	6
+793	T	an: maximal exercise	6
+794	T	n: hydration	6
+795	T	n: dynamometer	6
+796	T	nn: swim team	6
+796	V[s]	ann: olympic swim team	3
+797	T	npn: loss of velocity	6
+798	T	npn: level of swimmer	6
+798	V[s]	anpn: competitive level of swimmer	4
+799	T	ncnpn: volume and intensity of training	6
+800	T	n: siders	6
+801	T	an: physiological capacity	6
+802	T	nn: technique training	6
+803	T	an: biophysical parameter	6
+804	T	nn: glycogen store	6
+804	V[s]	nnn: muscle glycogen store	2
+805	T	ann: final stage preparation	6
+806	T	aann: multiple olympic gold medalist	6
+807	T	r: slow	6
+808	T	nnn: crawl stroke swimming	6
+809	T	npn: finding of study	6
+809	V[s]	nn: study finding	3
+810	T	nn: breathing action	6
+811	T	an: human biology	6
+812	T	n: berthoin	6
+813	T	n: katch	6
+814	T	an: scapular stabilization	6
+815	T	n: push-up	6
+816	T	npn: function of olympiad	6
+817	T	acan: internal and external rotation	12
+818	T	n: train-low	12
+819	T	npnn: rate of energy release	6
+820	T	anpnn: norwegian school of sport science	6
+821	T	ann: depressed hand force	6
+822	T	ann: recreational swimming background	6
+823	T	an: international center	6
+824	T	an: medley relay	6
+825	T	nn: swim group	6
+826	T	ncan: medalist and former world	6
+827	T	n: humerus	6
+828	T	anpn: resting length of muscle	6
+829	T	npn: improvement of vo2max	6
+830	T	an: athletic trainer	6
+831	T	npn: analysis of swimmer	6
+832	T	aan: positive psychological mechanism	6
+833	T	an: mastery-involving climate	12
+834	T	an: direct measurement	6
+835	T	nn: stroke count	6
+836	T	npn: magnitude of force	6
+837	T	an: anaerobic glycolysis	6
+838	T	nn: body position	6
+839	T	n: chatard	6
+840	T	an: anaerobic performance	6
+841	T	ann: elite backstroke swimmer	6
+842	T	n: capillarization	6
+843	T	acan: integrative and comparative physiology	6
+844	T	nn: breathing side	6
+844	V[s]	ann: preferred breathing side	4
+844	V[s]	aann: definite preferred breathing side	2
+845	T	anpn: propulsive phase of insweep	6
+846	T	n: electrolyte	6
+847	T	ann: moderate intensity training	6
+848	T	nn: achievement goal	6
+849	T	n: aujouannet	6
+850	T	n: spriet	6
+851	T	nn: master thesis	6
+851	V[s]	ann: unpublished master thesis	3
+852	T	npan: capacity of fast twitch	6
+853	T	n: phys	6
+854	T	an: repeated measure	6
+855	T	ann: applied sport psychology	6
+856	T	an: adolescent period	6
+857	T	nnn: recovery stress questionnaire	6
+858	T	an: immune function	6
+859	T	an: senior elite	6
+860	T	npn: influence of training	6
+861	T	npn: incidence of af	6
+862	T	an: adolescent swimmer	6
+863	T	nn: work time	6
+864	T	n: saltin	6
+865	T	an: female backstroker	6
+866	T	nnn: overuse injury prevention	6
+866	V[s]	annn: online overuse injury prevention	2
+867	T	npn: result of experiment	6
+868	T	an: 50th percentile	6
+869	T	npn: effect of shape	6
+870	T	a: underwater	199
+871	T	nn: dryland training	23
+872	T	nnnn: eur j appl physiol	11
+873	T	an: average velocity	11
+874	T	aan: computational fluid dynamics	11
+875	T	an: overhead athlete	11
+876	T	an: competitive performance	11
+877	T	nn: volume training	11
+877	V[s]	npnn: optimization of training volume	2
+878	T	n: hyperextension	16
+879	T	an: traditional periodization	5
+880	T	nnn: time trial performance	5
+881	T	npn: effect of force	5
+882	T	nn: race pace	5
+883	T	nn: stress load	5
+884	T	ann: traditional two-peak stroke	10
+884	V[m]	ann: traditional two-peak backstroke	9
+885	T	nn: frequency analysis	5
+886	T	nnn: leg length discrepancy	5
+887	T	ann: high level swimmer	5
+888	T	n: rvo2	5
+889	T	an: previous paper	5
+890	T	n: aagard	5
+891	T	nnn: overuse injury risk	5
+892	T	npn: portion of time	5
+893	T	aan: proper nutritional habit	5
+894	T	an: optimal nutrition	5
+895	T	nn: 50m freestyle	10
+896	T	nnn: shampoo arm syndrome	5
+897	T	an: bilateral symmetry	5
+898	T	nnn: backstroke start technique	5
+899	T	an: preferred side	5
+900	T	an: high prevalence	5
+901	T	nn: pb time	5
+902	T	ann: 5-point likert scale	5
+903	T	r: minimally	5
+904	T	npn: kind of training	5
+905	T	n: latency	5
+906	T	nn: creatine monohydrate	5
+907	T	a: live-high	10
+908	T	nn: swim distance	5
+909	T	an: late season	5
+910	T	npnn: model of performance improvement	5
+911	T	nn: stroke choice	5
+912	T	nn: swimming lesson	5
+913	T	n: occlusion	5
+914	T	n: geyssant	5
+915	T	anpn: backward component of motion	5
+916	T	nn: crawl technique	5
+917	T	nn: sport biomechanic	5
+918	T	an: short swim	5
+919	T	an: upward motion	5
+920	T	npn: effect of high-intensity	5
+920	V[img]	npan: effect of high intensity	5
+921	T	a: adipose	5
+922	T	n: rouard	5
+923	T	an: maximal effort	5
+924	T	an: current research	5
+925	T	nn: performance variable	5
+926	T	nn: rest time	5
+926	V[s]	ann: big rest time	2
+927	T	nn: training frequency	5
+928	T	nn: lactate accumulation	5
+929	T	aan: late teenage year	5
+930	T	an: normal population	5
+931	T	a: 2001b	5
+932	T	an: female athlete	5
+933	T	ann: significant time effect	5
+934	T	nnn: world swimming championship	5
+935	T	an: low bmis	5
+936	T	an: inadequate recovery	5
+937	T	an: competitive athlete	5
+938	T	an: subjective vitality	5
+939	T	npn: model of swimmer	5
+940	T	an: lateral preference	5
+941	T	nn: week training	5
+942	T	an: progressive decrease	5
+943	T	nn: sport health	5
+944	T	npnn: interpretation of training zone	5
+945	T	an: great force	5
+946	T	nn: pressure differential	5
+947	T	nn: sprint exercise	5
+948	T	an: world-class swimmer	5
+949	T	nnn: body composition parameter	5
+950	T	an: collegiate swimming	5
+951	T	nn: datum collection	5
+952	T	an: positive affect	5
+953	T	an: large difference	5
+954	T	an: underwater stroke	5
+955	T	ann: elite endurance athlete	5
+956	T	n: prioux	5
+957	T	npn: level of effort	5
+957	V[s]	anpn: low level of effort	4
+958	T	nn: lactate transporter	5
+959	T	n: calibrator	5
+960	T	npn: end of downsweep	5
+961	T	an: low altitude	5
+962	T	npan: excess of anaerobic threshold	5
+963	T	nn: effort increase	5
+964	T	nann: downsweep final upsweep figure	5
+965	T	an: preferred method	5
+965	V[s]	anpn: preferred method of propulsion	3
+966	T	an: intermittent hypoxia	5
+967	T	ann: national-level swim population	5
+968	T	nan: sport physical therapy	5
+969	T	nnnn: swimming relay exchange time	5
+970	T	an: structural asymmetry	5
+971	T	npan: center of mass velocity	5
+972	T	npn: swimmer with taper	5
+973	T	nn: distance event	5
+974	T	nn: body alignment	5
+975	T	an: soft tissue	5
+976	T	nn: force production	5
+976	V[s]	npan: production of strong force	2
+977	T	an: hypobaric chamber	5
+978	T	an: anthropometrical asymmetry	5
+979	T	nn: sprint time	5
+980	T	an: physical trait	5
+981	T	an: adequate inhalation	5
+982	T	n: groot	5
+983	T	an: competitive distance	5
+984	T	nn: lactate level	5
+985	T	nn: mood disturbance	5
+986	T	an: physical therapist	5
+987	T	nn: method section	5
+988	T	npan: phase of underwater arm	5
+989	T	npn: portion of stroke	5
+990	T	nn: performance measure	5
+991	T	an: long event	5
+992	T	nn: methyl xanthene	10
+993	T	npan: age of national-level american	5
+994	T	n: lemaitre	5
+995	T	nnn: age group swimmer	5
+996	T	ann: long distance runner	5
+997	T	nn: meter event	5
+998	T	nn: in-water start	5
+999	T	an: med sport	5
+999	V[s]	nan: sci med sport	4
+1000	T	npn: effect of hiit	5
+1001	T	n: recovery-stress	20
+1002	T	an: automatic tracking	5
+1003	T	n: issurin	5
+1004	T	an: acute effect	5
+1005	T	acann: aerobic and anaerobic threshold velocity	5
+1006	T	nnn: sea level training	5
+1007	T	nn: kristina egerszegi	5
+1008	T	npan: journal of applied sport	5
+1009	T	nnn: post-intervention time trial	10
+1010	T	n: mauss	5
+1011	T	n: cassas	5
+1012	T	nn: energy contribution	5
+1012	V[s]	nnn: energy system contribution	3
+1013	T	nn: swimming expert	5
+1014	T	nn: sport nutrition	5
+1015	T	an: high velocity	5
+1016	T	ncan: pain and functional status	5
+1017	T	an: turbulent water	5
+1018	T	n: widrick	5
+1019	T	npncn: journal of science and medicine	5
+1020	T	an: ego-involving climate	10
+1021	T	ann: long exchange time	5
+1022	T	an: physiological change	5
+1023	T	n: linossier	5
+1024	T	nn: 50-meter sprint	5
+1024	V[s]	nnn: 50-meter freestyle sprint	3
+1025	T	n: thevenet	5
+1026	T	an: periodized program	5
+1026	V[s]	nn: periodization program	3
+1027	T	ann: maximal oxygen uptake	5
+1028	T	annn: independent sample t test	5
+1029	T	an: laminar flow	5
+1030	T	an: physical performance	5
+1031	T	an: early paper	5
+1032	T	n: behm	5
+1033	T	an: natural tendency	5
+1034	T	n: theorem	5
+1035	T	an: 3d analysis	5
+1036	T	aan: propulsive final upsweep	5
+1037	T	nn: muscle power	5
+1038	T	an: passive drag	5
+1039	T	nn: supraspinatus tendinopathy	5
+1039	V[s]	ann: swim-volume-induced supraspinatus tendinopathy	3
+1040	T	a: competing	5
+1041	T	n: aspenes	5
+1042	T	nn: enzyme activity	5
+1043	T	an: bronchial hyper	5
+1044	T	npn: age of swimmer	5
+1045	T	n: hibberd	5
+1046	T	an: plyometric training	5
+1047	T	nn: land training	5
+1048	T	anpn: american college of sport	10
+1049	T	nn: swimmer training	5
+1050	T	nn: endurance sport	5
+1051	T	n: actin	5
+1052	T	npncnn: journal of sport & exercise psychology	5
+1053	T	npn: effect of body	5
+1054	T	npn: age of participant	5
+1054	V[s]	nn: participant age	8
+1055	T	npn: end of study	5
+1056	T	n: biomech	5
+1057	T	npnpn: resistance of water with palm	5
+1058	T	nn: kjoc category	5
+1059	T	n: sprigings	5
+1060	T	npnn: type of repeat set	5
+1061	T	nn: event distance	5
+1062	T	ann: true core hypothermia	10
+1063	T	an: aquatic park	5
+1064	T	an: prior study	5
+1065	T	n: cossor	5
+1066	T	an: mechanical efficiency	5
+1067	T	ann: american swim coach	5
+1068	T	nn: performance database	5
+1068	V[s]	nnnn: usa swimming performance database	2
+1069	T	npn: ability of body	5
+1070	T	n: cytochrome	10
+1071	T	an: fast swimmer	5
+1072	T	anpn: functional status of shoulder	5
+1073	T	an: traditional training	5
+1074	T	nn: early-maturing girl	5
+1075	T	nn: force output	5
+1076	T	nnpn: glide phase of start	5
+1077	T	nn: mike barrowman	5
+1078	T	nn: shoulder range	5
+1079	T	nn: creatine phosphate	5
+1080	T	n: meyers	5
+1081	T	an: propulsive surface	5
+1082	T	aan: substantial final upsweep	5
+1083	T	nn: strength deficit	5
+1084	T	nn: performance advantage	5
+1085	T	nnn: freestyle time trial	5
+1085	V[s]	annn: 25-metre freestyle time trial	3
+1086	T	nn: foot positioning	5
+1087	T	acann: fast and slow twitch muscle	5
+1088	T	npn: purpose of paper	5
+1089	T	nn: body segment	5
+1090	T	nn: minute rest	5
+1091	T	npan: effect of high intensity	5
+1092	T	an: human swimmer	5
+1093	T	an: mental fortitude	5
+1094	T	npn: biomechanic of swimming	5
+1095	T	an: unique style	5
+1096	T	n: favor	5
+1097	T	npnn: amount of high-intensity training	5
+1098	T	npan: journal of applied biomechanic	5
+1099	T	nn: fatigue level	5
+1100	T	nn: recovery state	5
+1101	T	ncnn: fta and ftx muscle	5
+1102	T	an: biomechanical error	5
+1102	V[s]	nan: freestyle biomechanical error	3
+1103	T	ann: resting oxygen consumption	5
+1104	T	an: total stroke	5
+1105	T	npan: end of propulsive phase	5
+1106	T	npn: source of energy	5
+1107	T	n: perf	5
+1108	T	an: female participant	5
+1109	T	nn: velocity pattern	5
+1109	V[s]	ann: mass velocity pattern	3
+1110	T	an: average force	5
+1111	T	n: hellemans	5
+1112	T	an: adaptive change	5
+1113	T	n: torques	5
+1114	T	ann: current fina rule	5
+1115	T	a: dorsal	5
+1116	T	npnn: amount of muscle activity	5
+1117	T	nnnn: - intervention time trial	5
+1118	T	npn: effect of fatigue	5
+1119	T	nnn: winter swim period	5
+1120	T	ncnn: strength and flexibility imbalance	5
+1121	T	nn: finish time	5
+1122	T	ann: polar bear swimmer	5
+1123	T	n: freestyle	158
+1124	T	nn: muscle metabolism	9
+1125	T	nnn: three-peak backstroke swimmer	9
+1126	T	an: competitive event	9
+1127	T	an: red zone	9
+1128	T	npn: amount of high-intensity	9
+1129	T	an: middle adolescence	9
+1129	V[s]	acan: middle and late adolescence	3
+1130	T	nnn: pre-intervention time trial	9
+1131	T	an: video image	9
+1132	T	a: unilateral	9
+1133	T	a: socio-environmental	9
+1134	T	a: vertical	61
+1135	T	n: swim	298
+1136	T	nn: heart rate	46
+1136	V[s]	ann: resting heart rate	7
+1136	V[s]	nnn: heart rate variability	4
+1137	T	ann: baseline asca training	4
+1138	T	an: online module	4
+1139	T	npnn: relationship of stroke asymmetry	4
+1140	T	npnn: graph of martin zubero	4
+1141	T	nn: rotator cuff	4
+1142	T	ncan: kyphosis and lumbar alignment	4
+1143	T	nn: training season	4
+1144	T	nva: pull be strong	4
+1145	T	nn: swimming skill	4
+1146	T	aan: 7th cervical vertebra	4
+1147	T	an: experimental group	4
+1148	T	npan: magnitude of lumbar lordosis	4
+1149	T	npn: density of water	4
+1150	T	nn: altitude acclimatization	4
+1151	T	npncn: measurement of force and power	4
+1152	T	ncan: promotion & human performance	4
+1153	T	n: ppss	4
+1154	T	an: functional asymmetry	4
+1155	T	nn: performance parameter	4
+1156	T	an: final section	4
+1157	T	a: shoulder-adducting	8
+1158	T	an: vertical plane	4
+1159	T	nn: youth swimming	4
+1160	T	an: physical medicine	4
+1161	T	nn: load cell	4
+1162	T	nnn: muscle blood flow	4
+1163	T	ncnn: graph and stroke pattern	4
+1164	T	nnn: usoc sport science	4
+1165	T	npn: characteristic of technique	4
+1165	V[s]	anpn: asymmetrical characteristic of technique	2
+1166	T	aan: average weekly meter	4
+1167	T	nnn: day post exposure	4
+1168	T	npnn: journal of sport rehabilitation	4
+1169	T	ann: average stroke length	4
+1170	T	nva: pain be chronic	4
+1171	T	ann: eastern michigan university	4
+1172	T	an: successful athlete	4
+1173	T	npn: period of intensity	4
+1173	V[s]	nn: intensity period	3
+1174	T	npn: program of periodization	4
+1174	V[s]+	an: periodized program	5
+1174	V[s]	nn: periodization program	3
+1174	V[s]	anpn: traditional program of periodization	2
+1175	T	an: dependent measure	4
+1176	T	a: favorable	4
+1177	T	nn: hum kinet	4
+1178	T	nn: asca module	4
+1179	T	an: actual path	4
+1180	T	a: 7-point	4
+1181	T	npn: datum with knowledge	4
+1182	T	nn: bicycle ergometer	4
+1183	T	nn: block periodization	4
+1184	T	n: nfhs	4
+1185	T	an: muscular development	4
+1186	T	an: educational training	4
+1187	T	npan: pull of weak side	4
+1188	T	nn: warm-up procedure	4
+1189	T	anpn: longitudinal axis of body	4
+1190	T	anpnn: eastern zone of usa swimming	4
+1191	T	aan: scientific limited publication	4
+1192	T	an: physiological adaptation	8
+1192	V[s]	aan: additional physiological adaptation	2
+1193	T	aan: primary en-1 set	4
+1194	T	an: unintended consequence	4
+1195	T	nn: week period	4
+1196	T	nn: stroke drill	4
+1197	T	npnpn: line of action of force	4
+1198	T	nn: backstroke pull	4
+1199	T	an: mental imagery	4
+1200	T	nnn: asca certification level	4
+1201	T	ncnn: st and fta fiber	4
+1202	T	annn: human muscle force-velocity relationship	4
+1203	T	n: derose	4
+1204	T	an: short set	4
+1205	T	a: asymmetric	4
+1206	T	nn: muscle function	4
+1207	T	an: significant olympiad	4
+1207	V[s]	aan: significant two-way olympiad	2
+1208	T	anpn: competitive level of swimmer	4
+1209	T	an: neuromuscular disease	4
+1210	T	nn: water surface	4
+1211	T	nva: leg be dense	4
+1212	T	an: zigzag pattern	4
+1213	T	ann: adequate recovery time	4
+1214	T	nn: swim strategy	4
+1215	T	n: pyne	4
+1216	T	npn: style of breaststroke	4
+1217	T	ncnn: strength and power activity	4
+1218	T	an: additional study	4
+1219	T	npan: comparison of lumbar lordosis	4
+1220	T	annn: average relay exchange time	4
+1221	T	nva: swimmer be equal	4
+1222	T	n: payton	4
+1223	T	an: open sport	4
+1224	T	npn: law of motion	4
+1225	T	npnn: photo of martin zubero	4
+1226	T	npn: population of swimmer	4
+1227	T	nn: finish place	4
+1228	T	n: soukup	4
+1229	T	a: swimming-based	4
+1230	T	nn: youth athlete	4
+1231	T	n: positon	4
+1232	T	nva: land be good	4
+1233	T	npan: process of fast twitch	4
+1234	T	npn: core of model	4
+1235	T	an: functional activity	4
+1236	T	nn: mastery climate	4
+1237	T	npnn: effect of force symmetry	4
+1238	T	nn: employment physical	4
+1239	T	ncnn: - and later-maturing group	4
+1240	T	an: zigzag movement	4
+1241	T	npnn: zone of endurance training	4
+1242	T	nnn: lactate threshold speed	4
+1243	T	nn: title ix	4
+1244	T	nn: shoulder extension	4
+1245	T	an: adaptive response	4
+1246	T	an: entire season	4
+1247	T	acann: middle and right hand photo	4
+1248	T	nn: effect relationship	4
+1249	T	npan: group of competitive swimmer	4
+1250	T	nva: stroke be asymmetrical	4
+1251	T	nn: water action	4
+1252	T	nn: performance test	4
+1253	T	an: large lung	4
+1254	T	nn: stress questionnaire	8
+1254	V[s]	nnn: recovery stress questionnaire	6
+1255	T	npan: percentage of fast twitch	4
+1256	T	nn: coach marsh	4
+1257	T	ann: high volume training	4
+1258	T	a: pre-event	4
+1259	T	n: hintzy	4
+1260	T	an: athletic career	4
+1261	T	ann: hydrodynamic force coefficient	4
+1262	T	an: postural form	4
+1263	T	ann: average exchange time	4
+1264	T	n: thayer	4
+1265	T	ann: left hand photo	4
+1266	T	nn: block facility	4
+1267	T	n: millet	4
+1268	T	npnn: faculty of sport science	4
+1269	T	anpn: great number of coach	4
+1270	T	npncn: function of olympiad and sex	4
+1271	T	an: limited time	4
+1272	T	nva: muscle be short	4
+1273	T	npn: re-evaluation of force	4
+1274	T	ann: lumbar lordosis alteration	4
+1275	T	annn: front view stroke pattern	4
+1276	T	npnn: range of stroke length	4
+1277	T	nn: recovery period	4
+1278	T	ncnn: training and taper period	4
+1279	T	an: straight arm	4
+1280	T	an: semi-circular sweep	4
+1281	T	an: maximal velocity	4
+1282	T	nn: arm pull	4
+1283	T	ncan: forearm and upper arm	4
+1284	T	ncnn: science & technology committee	4
+1285	T	aan: absolute thoracic kyphosis	4
+1286	T	anpn: simulated altitude of 2300m	4
+1287	T	an: substantial protection	4
+1288	T	ann: altered stroke mechanic	4
+1289	T	nva: season be consistent	4
+1290	T	an: starting variant	8
+1291	T	n: nybo	4
+1292	T	an: scientific approach	4
+1293	T	npn: photo of figure	4
+1294	T	nn: freestyle sprint	8
+1294	V[s]	nnn: 50-meter freestyle sprint	3
+1295	T	n: rmsea	4
+1296	T	nva: imbalance be unique	4
+1297	T	nn: kinesiology department	4
+1298	T	nn: counsilman center	4
+1299	T	an: moderate speed	4
+1300	T	aan: final propulsive phase	4
+1301	T	an: dietary intake	4
+1302	T	nn: surface area	4
+1303	T	n: kinanthropometry	4
+1304	T	a: elevated	4
+1305	T	npn: concept of training	4
+1306	T	nn: breaststroke kick	4
+1307	T	n: naemi	4
+1308	T	npn: combination of experience	4
+1309	T	nn: study design	4
+1310	T	nnn: arm coordination symmetry	4
+1311	T	a: sensory	4
+1312	T	an: non-breathing cycle	4
+1313	T	an: preliminary investigation	4
+1314	T	npn: conception of ability	4
+1315	T	nn: goal setting	4
+1316	T	n: malmö	4
+1317	T	ann: norwegian swimming club	4
+1318	T	an: well-trained athlete	4
+1319	T	n: skinfold	8
+1320	T	nn: form resistance	4
+1321	T	nn: nutrition plan	4
+1321	V[d]	an: nutritional plan	3
+1322	T	npnn: portion of stroke pattern	4
+1323	T	nn: sport administrator	4
+1324	T	ann: actual preparation strategy	4
+1325	T	nva: phenomenon be unclear	4
+1326	T	nn: variant distribution	4
+1327	T	an: evidence-based recommendation	4
+1328	T	an: angular acceleration	4
+1329	T	nn: de jesus	4
+1330	T	n: larsson	4
+1331	T	nn: force variation	4
+1331	V[s]	annn: seasonal hand force variation	2
+1332	T	n: ungerechts	4
+1333	T	npan: endurance of fast twitch	4
+1334	T	nva: explanation be true	4
+1335	T	ncnn: height and body mass	4
+1336	T	nva: finding be consistent	4
+1337	T	nn: sfps questionnaire	4
+1338	T	an: maximum velocity	4
+1339	T	anpnn: low level of asca training	4
+1340	T	n: stroke-cycles	4
+1340	V[m]	nn: stroke cycle	37
+1341	T	an: traditional upsweep	4
+1342	T	nva: season be beneficial	4
+1343	T	an: 3d method	4
+1344	T	an: physiological rationale	4
+1345	T	nva: swimmer be unable	4
+1346	T	an: out-placed team	4
+1347	T	an: metabolic adaptation	4
+1348	T	nva: change be great	4
+1349	T	n: out-placing	4
+1350	T	npnn: range of stroke rate	4
+1351	T	n: diaphragm	4
+1352	T	npnpn: acceleration of centre of mass	4
+1353	T	nnn: usa swimming site	4
+1354	T	nn: training yardage	4
+1355	T	npan: team with average exchange	4
+1356	T	n: collard	4
+1357	T	an: early adulthood	4
+1358	T	nn: sprint test	4
+1359	T	nn: muscle group	4
+1360	T	nnn: age group elite	4
+1361	T	ann: elite master runner	4
+1362	T	nn: breathing pattern	4
+1363	T	annn: fast twitch motor unit	4
+1364	T	ncan: performance and psychological variable	4
+1365	T	npn: evaluation of performance	4
+1366	T	an: clinical inspection	4
+1367	T	npnn: school of health promotion	4
+1368	T	an: great increase	4
+1369	T	nn: race performance	4
+1370	T	annn: traditional two-peak backstroke swimmer	4
+1371	T	npncn: potential of hand and forearm	4
+1372	T	nn: repeat speed	4
+1373	T	npncn: phase of start and turn	4
+1374	T	npn: scoliosis of spine	4
+1375	T	npn: limitation of study	4
+1376	T	npnn: facet of training process	4
+1377	T	npn: etiology of asymmetry	4
+1378	T	nva: improvement be evident	4
+1379	T	npnn: length with rest period	4
+1380	T	an: great progress	4
+1381	T	n: malina	4
+1382	T	npnn: effect of moderate-intensity endurance	4
+1383	T	npncn: journal of medicine and science	4
+1384	T	an: grand fork	4
+1385	T	n: burgonmeister	4
+1386	T	an: top swimmer	4
+1387	T	nann: world short course champion	4
+1388	T	an: postural asymmetry	4
+1389	T	an: physiological response	8
+1390	T	aan: short final upsweep	4
+1391	T	nn: swim-efficiency index	4
+1392	T	an: aforementioned component	4
+1393	T	ncnn: flow and increase resistance	4
+1394	T	an: non-preferred side	4
+1395	T	ncnn: group and competition level	4
+1396	T	nn: muscle soreness	4
+1397	T	annn: periodic hand force testing	4
+1398	T	nn: biceps muscle	4
+1399	T	ann: front crawl technique	4
+1400	T	anpn: high level of competition	4
+1401	T	acan: visual and graphic datum	4
+1402	T	an: general question	4
+1403	T	npan: incidence of joint pain	4
+1404	T	an: adequate quantity	4
+1405	T	ann: self-reported pain scale	4
+1406	T	n: stroke-cycle	4
+1406	V[mg]	nn: stroke cycle	37
+1406	V[g]+	n: stroke-cycles	4
+1407	T	npn: sweep of arm	4
+1408	T	nnn: heart rate variability	4
+1409	T	npan: team with short exchange	4
+1410	T	ncnn: rule and block configuration	4
+1411	T	ncan: group and competitive level	4
+1411	V[g]	ncnn: group and competition level	4
+1412	T	aan: lasting joint pain	4
+1413	T	nn: youtube video	4
+1414	T	anpn: low level of effort	4
+1415	T	nn: body landmark	4
+1416	T	nn: glide factor	4
+1417	T	an: short video	4
+1418	T	ann: present time swimmer	4
+1419	T	nn: high-intensity repeat	4
+1420	T	nn: racing strategy	4
+1421	T	aan: male competitive swimmer	4
+1422	T	an: winning time	4
+1423	T	ann: early relay exchange	4
+1424	T	acann: male and female backstroke swimmer	4
+1425	T	an: physiological variable	4
+1425	V[s]	acan: psychological and physiological variable	2
+1426	T	nva: swimmer be effective	4
+1427	T	an: scientific sport	4
+1428	T	nn: stress biomarkers	4
+1428	V[s]	ann: oxidative stress biomarkers	3
+1429	T	nn: google form	4
+1430	T	nva: shape be abundant	4
+1431	T	nnn: swimming relay team	4
+1432	T	an: significant interaction	4
+1433	T	an: individual athlete	8
+1434	T	an: free swimming	4
+1435	T	nnn: camera view obstruction	4
+1436	T	an: symmetrical stroke	4
+1437	T	npan: result of current study	4
+1438	T	nn: form drag	4
+1439	T	n: anthropometry	4
+1440	T	nn: emg signal	4
+1441	T	an: athletic activity	4
+1442	T	npan: training with substantial workload	4
+1443	T	ann: elite breaststroke swimmer	4
+1444	T	an: normative ability	4
+1445	T	n: palpation	4
+1446	T	npan: knowledge of actual preparation	4
+1447	T	anpnn: international journal of sport biomechanic	4
+1448	T	n: tennodai	4
+1449	T	an: lumbar disorder	4
+1450	T	npn: period of fatigue	4
+1451	T	n: haljand	4
+1452	T	n: barbosa	4
+1453	T	ncan: holder and olympic champion	4
+1454	T	nn: performance record	4
+1455	T	nn: swim belt	4
+1456	T	nnn: relay performance datum	4
+1457	T	n: metab	4
+1458	T	nva: side be great	4
+1459	T	n: barthels	4
+1460	T	nn: aquanex protocol	4
+1461	T	nnn: intensity interval training	8
+1462	T	n: psycharakis	8
+1463	T	n: mohr	4
+1464	T	an: critical speed	4
+1465	T	an: parental criticism	4
+1466	T	nn: web site	4
+1467	T	ncan: abduction and external rotation	4
+1468	T	nn: straight-line pull	4
+1468	V[img]	ann: straight line pull	12
+1469	T	nn: butterfly stroke	4
+1470	T	nnpn: hand angle of attack	4
+1471	T	ann: small sample size	4
+1472	T	nn: vo2max speed	4
+1473	T	an: companion article	4
+1474	T	nn: lipid profile	4
+1475	T	n: haddad	4
+1476	T	npn: possibility of team	4
+1477	T	nn: body temperature	4
+1478	T	an: supine position	4
+1479	T	nn: side preference	4
+1480	T	n: myelin	4
+1481	T	nva: insweep be propulsive	4
+1482	T	npn: timing of ingestion	4
+1483	T	nn: recovery phase	4
+1484	T	npnn: understanding of stroke mechanic	4
+1485	T	ncan: twitch and slow twitch	4
+1486	T	aan: popular preventive measure	4
+1487	T	an: doctoral dissertation	4
+1488	T	ann: great hand velocity	4
+1489	T	nn: week program	4
+1490	T	an: structural damage	4
+1491	T	acan: aerobic and anaerobic capacity	4
+1492	T	an: sagittal plane	4
+1493	T	npnn: journal of sport psychology	4
+1494	T	annnn: competitive swimming relay performance result	4
+1495	T	an: random error	4
+1496	T	ann: joint lever system	4
+1497	T	an: effective taper	4
+1498	T	ann: national caliber swimmer	4
+1499	T	nn: indiana university	4
+1500	T	ann: adolescent swim performance	4
+1501	T	ncnn: rest and recovery time	4
+1502	T	nn: muscle contraction	4
+1503	T	n: bangsbo	4
+1504	T	anpn: specific effect of asymmetry	4
+1505	T	an: forward propulsion	4
+1506	T	npn: goal of training	4
+1507	T	n: ogita	4
+1508	T	n: rhea	4
+1509	T	nn: fast-twitch fiber	4
+1509	V[img]+	ann: fast twitch fiber	44
+1510	T	nnnn: state university po box	4
+1511	T	npn: pitfall of training	4
+1512	T	an: optimal result	4
+1513	T	nn: shoulder strength	4
+1514	T	npn: age of competitor	4
+1515	T	npn: evaluation of athlete	4
+1516	T	an: high force	4
+1517	T	an: interesting finding	4
+1518	T	nnn: muscle buffer capacity	4
+1519	T	ann: fast stroke rate	4
+1520	T	ann: high average velocity	4
+1521	T	n: rasmussen	4
+1522	T	nnn: elite-level female swimmer	8
+1523	T	an: aforementioned variable	4
+1524	T	nn: exercise metabolism	4
+1525	T	nn: sinking leg	4
+1526	T	an: 56-year-old man	4
+1527	T	an: daily activity	4
+1528	T	nn: level 1b	4
+1529	T	a: ventral	4
+1530	T	ncan: output and hydrodynamic force	4
+1531	T	a: haematological	4
+1532	T	nn: bp group	8
+1533	T	nva: information be beneficial	4
+1534	T	an: 7th place	4
+1535	T	npn: movement of hand	4
+1535	V[s]	anpn: zigzag movement of hand	2
+1536	T	n: hamlin	4
+1537	T	n: email	4
+1538	T	npnn: rate of metabolite accumulation	4
+1539	T	n: curnow	4
+1540	T	npn: university of tsukuba	4
+1541	T	npn: model of periodization	4
+1541	V[s]	nn: periodization model	2
+1542	T	npn: effect of injury	4
+1543	T	npn: ability of swimmer	4
+1544	T	an: great quantity	4
+1545	T	nva: effect be considerable	4
+1546	T	an: actual swimming	4
+1547	T	nn: warm-up routine	4
+1548	T	nnpn: velocity graph of martin	4
+1549	T	an: large portion	4
+1550	T	nva: electrode be free	4
+1551	T	npn: sense of accomplishment	4
+1552	T	npn: intention of article	4
+1553	T	nn: ninety-six coach	4
+1554	T	nva: discrepancy be great	4
+1555	T	npan: university of incarnate word	4
+1556	T	nan: sci med sport	4
+1557	T	nva: training be essential	4
+1558	T	an: unsteady flow	4
+1559	T	nan: lea loveless maurer	4
+1560	T	nn: datum analysis	4
+1561	T	nn: hand move	4
+1562	T	ann: olympic silver medalist	4
+1563	T	a: unchanging	4
+1564	T	npan: quantity of moderate -	4
+1565	T	n: wetsuits	4
+1566	T	ann: high stroke rate	4
+1567	T	aan: hierarchical linear regression	4
+1568	T	nn: arcadia university	4
+1569	T	an: forward speed	4
+1570	T	npnn: risk of overuse injury	4
+1571	T	an: primary source	4
+1572	T	npan: team with long exchange	4
+1573	T	an: specific swimmer	4
+1574	T	ann: curvy pull pattern	4
+1575	T	an: long-distance workout	4
+1576	T	nn: cycle ergometer	4
+1577	T	ann: hip roll change	4
+1578	T	a: tate	4
+1579	T	nn: hand position	4
+1579	V[s]	ann: incorrect hand position	2
+1580	T	nva: swimmer be due	4
+1581	T	nn: training swimmer	4
+1582	T	aan: visual analog scale	4
+1583	T	ann: potential risk factor	4
+1584	T	nn: later-maturing swimmer	4
+1585	T	r: identically	4
+1586	T	nn: liverpool john	4
+1587	T	nn: swim area	4
+1588	T	an: forward movement	4
+1589	T	n: durand-bush	4
+1590	T	an: biochemical adaptation	4
+1591	T	an: intense sprint	4
+1592	T	npan: analysis of propulsive potential	4
+1593	T	n: rodeo	4
+1594	T	nn: low-intensity swimming	4
+1595	T	an: dynamical asymmetry	4
+1596	T	nn: freestyle stroke	4
+1597	T	nva: shoulder be noticeable	4
+1598	T	npnn: result of correlation analysis	4
+1599	T	ncnn: front and side view	4
+1600	T	ann: total mood disturbance	4
+1601	T	nnn: backstroke arm stroke	4
+1602	T	anpn: extreme right of figure	4
+1603	T	n: stress-recovery	12
+1604	T	npn: demand of activity	4
+1605	T	nn: stroke biomechanic	4
+1606	T	ann: mechanical power output	4
+1607	T	ann: institutional review board	4
+1608	T	a: fvc1	4
+1609	T	r: aerobically	4
+1610	T	aan: normobaric hypoxic chamber	4
+1611	T	a: preferential	4
+1612	T	n: gmax	4
+1613	T	n: isak	4
+1614	T	nva: fatigue be normal	4
+1615	T	npncnn: computation of lift and drag force	4
+1616	T	an: equivalent strengthening	4
+1617	T	nn: sport drink	4
+1618	T	ann: successful swim coach	4
+1619	T	npan: hyperextension of low back	4
+1620	T	an: delayed menarche	4
+1621	T	ncan: extension and internal rotation	4
+1622	T	nn: surface drag	4
+1623	T	ann: intra-stroke velocity fluctuation	4
+1624	T	ann: preferred breathing side	4
+1625	T	ann: high training load	4
+1626	T	an: muscular strain	4
+1627	T	ann: functional push-up test	4
+1628	T	n: hand-path	8
+1628	V[mg]	nn: hand path	7
+1629	T	npn: time of sample	4
+1630	T	a: prescribed	4
+1631	T	nn: day-of-competition practice	4
+1632	T	nnpn: ramp effect of muscle	4
+1633	T	nva: study be voluntary	4
+1634	T	n: rushall	4
+1635	T	an: written consent	4
+1636	T	nva: recovery be symmetrical	4
+1637	T	n: safdar	4
+1638	T	nva: hypothesis be correct	4
+1639	T	nnpn: exchange time of team	4
+1640	T	nn: strength imbalance	4
+1641	T	n: carpes	4
+1642	T	ann: average stroke rate	4
+1643	T	npn: increase of lordosis	4
+1644	T	n: wilkin	4
+1645	T	n: koszcyc	4
+1646	T	npan: frequency of preventive measure	4
+1647	T	nn: muscle mitochondrion	4
+1647	V[s]	ann: skeletal muscle mitochondrion	3
+1648	T	an: balanced approach	4
+1649	T	aan: high competitive level	4
+1650	T	anpn: propulsive potential of hand	4
+1651	T	n: variant	123
+1652	T	n: forearm	47
+1653	T	aan: elite competitive swimmer	7
+1654	T	ann: front crawl stroke	7
+1655	T	ann: maximal oxygen consumption	7
+1656	T	an: normoxic group	7
+1657	T	nn: federation internationale	7
+1658	T	an: official stroke	7
+1659	T	a: two-dimensional	7
+1660	T	nn: exercise training	7
+1661	T	n: subscales	7
+1662	T	a: glenohumeral	7
+1663	T	a: plyometric	7
+1664	T	an: interactive effect	7
+1665	T	an: male backstroke	7
+1665	V[s]	acan: male and female backstroke	5
+1666	T	nn: rp group	7
+1667	T	aan: fluid dynamic analysis	7
+1668	T	n: paediatrics	7
+1669	T	ncan: shoulder and hip roll	7
+1670	T	n: osborough	7
+1671	T	nn: winter swimming	7
+1672	T	n: antero-posterior	7
+1673	T	nn: recovery-stress state	7
+1674	T	ann: national-level american swimmer	7
+1675	T	npn: quality of sleep	7
+1676	T	an: american swim	7
+1677	T	a: multidisciplinary	7
+1678	T	n: baseline	62
+1679	T	nn: rest period	45
+1679	V[s]	ann: short rest period	8
+1680	T	an: previous pb	3
+1681	T	an: landmark point	3
+1682	T	annn: relative swim performance gain	3
+1683	T	nn: figure 1b	3
+1684	T	nn: coenzyme q10	3
+1685	T	nnnn: sprint interval training increase	3
+1686	T	nnn: arm stroke pattern	3
+1687	T	nn: arm syndrome	6
+1687	V[s]	nnn: shampoo arm syndrome	5
+1688	T	n: febbraio	3
+1689	T	a: simultaneous	3
+1690	T	an: important improvement	3
+1691	T	n: terrados	3
+1692	T	nn: head lift	3
+1693	T	ncan: pattern and forward velocity	3
+1694	T	nn: test protocol	3
+1695	T	n: pushup	3
+1696	T	nn: correlation coefficient	6
+1697	T	n: freshman	3
+1698	T	ncan: duration and bilateral asymmetry	3
+1699	T	aan: similar initial adaptation	3
+1700	T	an: long warm-up	3
+1701	T	acan: aerobic and anaerobic training	3
+1702	T	ncan: motivation and subjective well-being	3
+1703	T	an: main competition	3
+1704	T	nn: baltimore md	3
+1705	T	ncnn: potential and cycle endurance	3
+1706	T	nn: sprint event	3
+1707	T	an: excessive training	6
+1708	T	a: kinetic	3
+1709	T	aan: anaerobic metabolic function	3
+1710	T	npn: group of swimmer	3
+1710	V[s]	npan: group of competitive swimmer	4
+1711	T	ann: intense exercise performance	3
+1712	T	nn: energy cost	3
+1713	T	ann: individual exchange time	3
+1714	T	nn: symmetry index	3
+1715	T	nn: near-maximum speed	6
+1716	T	npn: effect of change	3
+1717	T	aan: dominant upper limb	3
+1718	T	an: physical skill	3
+1719	T	nn: performance group	3
+1720	T	nn: age category	3
+1721	T	nn: muscle physiology	3
+1722	T	nn: leg extension	3
+1723	T	nnn: lactate transport study	3
+1724	T	ncan: bone and joint surgery	3
+1725	T	n: acta	3
+1726	T	a: terrestrial	6
+1727	T	an: total volume	3
+1728	T	ncnn: arm and leg positioning	3
+1729	T	an: deep phase	3
+1730	T	nn: lesson plan	3
+1731	T	npan: year of competitive swimming	3
+1732	T	nn: elbow flexor	3
+1733	T	npan: biology of physical activity	3
+1734	T	nnpn: dynamics analysis of swimmer	3
+1735	T	n: proietto	3
+1736	T	npn: segment of race	3
+1737	T	acan: physiological and psychological recovery	3
+1738	T	npncn: organization of bp and rp	3
+1739	T	npn: rotation of body	3
+1740	T	nn: sub-threshold training	3
+1741	T	nn: in-person training	3
+1742	T	annn: polar bear challenge event	3
+1743	T	nn: work intensity	3
+1744	T	ann: sports-related overuse injury	3
+1745	T	nn: day-of-competition strategy	3
+1746	T	an: high pps	6
+1747	T	n: gleeson	3
+1748	T	acann: resultant and propulsive hand force	3
+1749	T	nn: shoulder flexion	3
+1750	T	npn: accuracy of estimate	3
+1751	T	a: near-maximal	3
+1752	T	an: athletic institute	3
+1753	T	an: pain-free swimming	3
+1754	T	npan: density of fast twitch	3
+1755	T	nn: 50m sprint	3
+1756	T	ncnn: medicine and rehabilitation clinic	3
+1757	T	npn: training with series	3
+1758	T	npn: accuracy of recall	3
+1759	T	nn: vastus lateralis	3
+1760	T	npn: role of taper	3
+1761	T	an: large muscle	3
+1762	T	anpn: sectional area of body	3
+1763	T	ann: short send-off time	3
+1764	T	npn: length of body	3
+1765	T	acan: middle and late adolescence	3
+1766	T	annn: 25-metre freestyle time trial	3
+1767	T	nn: swimming ix	3
+1768	T	n: olecranon	3
+1769	T	n: hirai	3
+1770	T	nn: muscle cell	3
+1771	T	npnn: influence of exercise intensity	3
+1772	T	npn: perception of pain	3
+1773	T	npnn: university of san francisco	3
+1774	T	nn: muscle ph	3
+1775	T	ann: hard training regime	3
+1776	T	an: olympic history	3
+1777	T	npn: effect of taper	3
+1778	T	anpnn: propulsive component of swimming stroke	3
+1779	T	npn: type of stroke	3
+1780	T	an: adipose tissue	3
+1781	T	nn: springboard diving	3
+1782	T	an: bodily technique	3
+1783	T	an: competitive career	3
+1784	T	nn: st counterpart	3
+1785	T	nn: sprint swim	3
+1786	T	an: average swimmer	3
+1787	T	an: spinal angle	6
+1788	T	nn: youth baseball	3
+1789	T	an: popular approach	3
+1790	T	n: mcardle	3
+1791	T	an: fluid force	3
+1792	T	nn: significance level	3
+1793	T	nn: swimming championship	6
+1793	V[s]	nnn: swimming world championship	15
+1794	T	nnpn: threshold concept of training	3
+1795	T	npnnn: session of sprint interval training	3
+1796	T	an: human subject	3
+1797	T	an: biomechanical study	3
+1798	T	ncnn: - and moderate-intensity training	3
+1799	T	npn: purpose of review	3
+1800	T	aann: high upper body action	3
+1801	T	n: pectoralis	3
+1802	T	n: burkett	3
+1803	T	nnn: energy system contribution	3
+1804	T	acan: high or low intensity	3
+1805	T	an: underwater distance	3
+1806	T	nn: shoulder impingement	3
+1806	V[s]	nnn: shoulder impingement syndrome	2
+1807	T	anpn: direct measurement of force	3
+1808	T	n: commonality	3
+1809	T	n: replicators	3
+1810	T	ncnn: freestyle and butterfly swimmer	3
+1811	T	n: nrem	3
+1812	T	nn: performance history	3
+1813	T	ncnn: count or stroke rate	3
+1814	T	ann: heavy chain myosin	3
+1815	T	an: borderline high	3
+1816	T	an: effective warm-up	3
+1817	T	npn: program of sprinter	3
+1818	T	nn: sport context	3
+1819	T	ncan: interval versus traditional endurance	3
+1820	T	an: affected arm	3
+1821	T	nn: coaching sample	3
+1822	T	npan: presence of angiogenic factor	3
+1823	T	an: major finding	3
+1824	T	an: cardiac tissue	3
+1825	T	nn: izumi tabata	3
+1826	T	a: perceptual	3
+1827	T	a: libre	3
+1828	T	an: pre-olympic pb	3
+1829	T	an: time-trial performance	3
+1829	V[img]	nnn: time trial performance	5
+1830	T	a: demographic	6
+1831	T	nn: energy supply	3
+1832	T	nn: backstroke stroke	3
+1832	V[s]	nnn: backstroke arm stroke	4
+1833	T	ann: front crawl swimmer	12
+1834	T	nnan: - level female swimmer	3
+1835	T	aan: bmc musculoskeletal disorder	3
+1836	T	n: vigor	3
+1837	T	ann: english channel attempt	3
+1838	T	npn: effect of warm-up	3
+1838	V[s]	npan: effect of ss warm-up	2
+1839	T	n: triathletes	3
+1840	T	ann: aquatic power performance	3
+1841	T	nn: imbalance ratio	3
+1842	T	ncnn: force and swimming velocity	3
+1843	T	an: sophisticated equipment	3
+1844	T	an: physiological resource	3
+1845	T	an: seasonal variation	3
+1845	V[s]	annn: seasonal hand force variation	2
+1846	T	ncnn: skin and scuba diving	3
+1847	T	an: early season	3
+1848	T	ann: professional baseball pitcher	3
+1849	T	nn: energy production	3
+1850	T	npnn: influence of sprint training	3
+1851	T	a: viscous	3
+1852	T	nn: dalhousie university	3
+1853	T	an: asthmatic swimmer	3
+1854	T	an: intense hyperventilation	3
+1855	T	an: negative side	3
+1856	T	a: 2011b	3
+1857	T	nnn: 50-meter freestyle sprint	3
+1858	T	nn: drag coefficient	3
+1859	T	an: good possibility	3
+1860	T	nn: motor asymmetry	3
+1861	T	n: wilmore	6
+1862	T	an: aerobic speed	3
+1863	T	acan: anaerobic and aerobic metabolism	3
+1864	T	npan: annals of human biology	3
+1865	T	an: postnatal development	3
+1866	T	ann: swim-volume-induced supraspinatus tendinopathy	3
+1867	T	an: additional benefit	3
+1868	T	nn: month season	3
+1869	T	nn: butterfly lc	3
+1870	T	a: situational	3
+1871	T	n: push-off	3
+1872	T	ncnn: drag and lift force	3
+1873	T	nn: increase speed	3
+1874	T	nn: butterfly sc	3
+1875	T	ann: long repeat distance	3
+1876	T	nnn: blood lactate concentration	3
+1877	T	an: hypobaric hypoxia	3
+1878	T	an: online questionnaire	3
+1879	T	aan: scapular upward rotation	3
+1880	T	ann: long-term athlete development	3
+1881	T	an: biomechanical principle	3
+1882	T	nn: vilas boa	3
+1883	T	a: non-contracted	3
+1884	T	an: combined effect	3
+1885	T	npnn: age of gold-medal -	3
+1886	T	ann: total lung capacity	3
+1887	T	n: super-threshold	3
+1888	T	nn: backstroke sc	3
+1889	T	an: 10th week	3
+1890	T	an: human physiology	3
+1891	T	an: good validity	3
+1892	T	ncnn: capacity and lactate tolerance	3
+1893	T	nn: arm coordination	6
+1893	V[s]	nnn: arm coordination symmetry	4
+1894	T	ann: high elbow recovery	3
+1895	T	npn: speed of swimmer	3
+1896	T	aan: simulated front crawl	3
+1897	T	nn: study finding	3
+1898	T	an: underwater video	3
+1899	T	npnn: chance of taper force	3
+1900	T	aannn: specific relative swimming performance gain	3
+1901	T	an: physical examination	3
+1902	T	aan: repeated cold exposure	3
+1903	T	an: proper intensity	3
+1904	T	n: sulcus	3
+1905	T	npn: period of reduction	3
+1906	T	nn: slow-twitch fiber	3
+1906	V[img]+	ann: slow twitch fiber	38
+1907	T	an: core temperature	6
+1908	T	an: standard error	6
+1909	T	nn: motor performance	3
+1910	T	nnn: injury prevention measure	3
+1911	T	npn: beginning of program	3
+1912	T	nn: altitude level	3
+1913	T	nn: emg activity	3
+1914	T	npan: stability of lumbar spine	3
+1915	T	nva: difference be large	3
+1915	V[s]	an: large difference	5
+1916	T	nn: backstroke swimming	3
+1917	T	nn: periodization program	3
+1918	T	npn: disability of arm	3
+1919	T	nn: group training	3
+1920	T	nn: finish placings	6
+1921	T	nva: race be large	3
+1922	T	an: optimal distance	3
+1923	T	nn: college swimming	3
+1924	T	ann: unpublished master thesis	3
+1925	T	an: main weakness	3
+1926	T	an: scapular dyskinesis	3
+1927	T	n: ricardo	3
+1928	T	n: graph	96
+1929	T	an: additional oxygen	3
+1930	T	nn: hand questionnaire	3
+1931	T	nn: hand paddle	3
+1932	T	npn: aim of research	3
+1933	T	n: endocrinology	6
+1934	T	aan: personal good performance	3
+1935	T	n: immunosuppression	3
+1936	T	nn: session rpe	3
+1937	T	an: individual sport	3
+1938	T	nn: reaction torque	3
+1939	T	nva: water be crucial	3
+1940	T	ncnn: muscle and exercise performance	3
+1941	T	n: oscillation	3
+1942	T	nn: surface electromyography	3
+1943	T	n: mester	3
+1944	T	nn: arm photo	3
+1945	T	n: stroke-type	9
+1945	V[m]	npn: type of stroke	3
+1946	T	an: olympic athlete	3
+1947	T	an: top-performing swimmer	3
+1948	T	acann: upper and low limb positioning	3
+1949	T	n: cerin	3
+1950	T	nnn: 50m freestyle event	3
+1951	T	npnnn: effect of muscle fiber recruitment	3
+1952	T	n: nunome	3
+1953	T	an: 30-second sprint	3
+1954	T	an: force-time profile	3
+1955	T	n: sperlich	6
+1956	T	n: bruxelles	3
+1957	T	ann: individual swimming event	3
+1958	T	nn: alignment datum	3
+1959	T	nn: injury pattern	3
+1960	T	nn: englewood cliff	3
+1961	T	r: clarys	3
+1962	T	an: vertical position	3
+1963	T	ann: 2d video approach	3
+1964	T	annn: american swim coach association	3
+1964	V[g]	nnnn: american swimming coach association	3
+1965	T	nn: workout load	3
+1966	T	n: portney	3
+1967	T	ann: 7-point likert scale	3
+1968	T	nn: arm elevation	3
+1969	T	aann: 200-m front crawl swimming	3
+1970	T	an: physiological benefit	3
+1971	T	ncan: angle and lumbar lordosis	3
+1972	T	ncan: recovery and active recovery	3
+1973	T	ann: aerobic training zone	3
+1974	T	npan: pattern of skilled butterfly	3
+1975	T	nnn: muscle fiber structure	3
+1976	T	ncan: hypothermia and cold incapacitation	3
+1977	T	n: arvisais	3
+1978	T	n: srmr	3
+1979	T	an: anatomical landmark	3
+1980	T	an: human propulsion	3
+1981	T	nn: in-person clinic	3
+1982	T	ncan: physiology and occupational physiology	3
+1983	T	an: general guideline	3
+1984	T	n: spearman	3
+1985	T	acan: short and middle distance	3
+1986	T	an: additional purpose	3
+1987	T	an: personal improvement	3
+1988	T	n: pette	3
+1989	T	n: casas	3
+1990	T	npn: month of life	3
+1991	T	an: oxidative potential	3
+1992	T	acan: valid and reliable tool	3
+1993	T	nva: swimmer be fast	3
+1993	V[s]	an: fast swimmer	5
+1994	T	nn: color zone	3
+1995	T	npn: case of tendonitis	3
+1996	T	an: maturational event	3
+1997	T	ann: underwater dolphin kick	3
+1998	T	n: torney-chollet	3
+1999	T	nn: energy expenditure	6
+2000	T	nn: shoulder syndrome	3
+2000	V[s]	nnn: shoulder impingement syndrome	2
+2001	T	n: figueiredo	3
+2002	T	nn: training response	3
+2003	T	nnn: sport science laboratory	3
+2004	T	ann: total exchange time	3
+2005	T	n: ergonomics	3
+2006	T	nn: growth spurt	3
+2007	T	nnn: state swimming press	3
+2008	T	annn: seasonal testing date female	3
+2009	T	an: national-level swimmer	3
+2010	T	an: recommended training	3
+2011	T	n: reinboth	3
+2012	T	nn: leg preference	3
+2013	T	ncnn: incapacitation and swim failure	3
+2014	T	n: t-test	3
+2015	T	n: stepto	3
+2016	T	an: forward motion	3
+2017	T	an: elite group	6
+2017	V[s]	aan: senior elite group	5
+2018	T	an: categorical variable	3
+2019	T	nn: arm action	3
+2020	T	npan: combination with beta-2 agonist	3
+2021	T	anpn: national institutes of health	3
+2022	T	n: prestes	3
+2023	T	nn: periodization training	3
+2024	T	nnn: blood lactate post	3
+2025	T	ann: great stroke length	3
+2026	T	npn: length of pool	3
+2027	T	nn: sport dietitian	3
+2028	T	an: olympic report	3
+2029	T	an: quantitative datum	3
+2030	T	npn: magnitude of difference	3
+2031	T	n: morningness	3
+2032	T	an: glenohumeral instability	3
+2033	T	nn: shoulder motion	3
+2034	T	anpnn: british journal of sport medicine	3
+2035	T	npnnn: college of sport medicine position	3
+2036	T	an: practical implication	3
+2037	T	n: meeuwsen	3
+2038	T	ann: maximum swimming velocity	6
+2039	T	n: chaudhury	3
+2040	T	ann: bilateral arm power	3
+2041	T	npan: importance of psychological skill	3
+2042	T	an: three-dimensional analysis	3
+2043	T	n: zinner	3
+2044	T	nn: shape asymmetry	3
+2045	T	nn: coaching practice	3
+2046	T	an: anthropometric measure	3
+2047	T	npn: proceeding of xix	3
+2048	T	an: traditional program	3
+2048	V[s]	anpn: traditional program of periodization	2
+2049	T	an: mild discomfort	3
+2050	T	n: realization	3
+2051	T	a: observable	3
+2052	T	ann: short-term sprint interval	3
+2053	T	nn: firm conclusion	3
+2054	T	nn: pool swimmer	3
+2055	T	n: hydrofoil	3
+2056	T	nn: muscle mechanic	3
+2057	T	an: nutritional plan	3
+2058	T	n: phelps	3
+2059	T	npan: effect of critical speed	3
+2060	T	an: maximum speed	6
+2061	T	ann: elite swimming event	3
+2062	T	n: psychoneuroendocrinology	3
+2063	T	nann: university institutional review board	3
+2064	T	nnnn: sport medicine position stand	3
+2065	T	ann: collegiate swim performance	3
+2066	T	n: jeukendrup	3
+2067	T	nn: front-crawl swimming	6
+2067	V[img]	ann: front crawl swimming	19
+2068	T	an: metabolic fatigue	3
+2069	T	n: kame	3
+2070	T	npan: alteration of lumbar lordosis	3
+2071	T	nnn: time magazine preview	3
+2072	T	npan: end of tenth rib	3
+2073	T	nn: iowa city	3
+2074	T	aan: statistical significant correlation	6
+2075	T	nn: arm movement	3
+2075	V[s]	ncnpn: movement and use of arm	2
+2076	T	nn: water stunt	3
+2077	T	ann: human arm model	3
+2078	T	an: female shape	3
+2079	T	nn: apprehension test	3
+2080	T	an: brown fat	3
+2081	T	ncnn: exposure plus sea level	3
+2082	T	ann: competitive master swimmer	3
+2083	T	an: comparative analysis	3
+2084	T	nnn: swim performance datum	3
+2085	T	nva: asymmetry be common	3
+2086	T	npn: motion of body	3
+2087	T	n: triathlon	3
+2088	T	n: swim-time	3
+2088	V[mg]	nn: swim time	13
+2089	T	n: semi-circle	3
+2090	T	npan: amount of low intensity	3
+2091	T	an: upper trapezius	3
+2092	T	npnn: photo of kosuke kitajima	3
+2093	T	an: 200m butterfly	3
+2094	T	npan: series of short sprint	3
+2095	T	acan: horizontal or vertical handgrip	3
+2096	T	ncnpn: development and validation of battery	3
+2097	T	nn: ss condition	3
+2098	T	an: 200m backstroke	3
+2099	T	nnn: power performance activity	3
+2100	T	ann: 2sportscotland sport institute	3
+2101	T	anpn: preferred method of propulsion	3
+2102	T	nn: resistance exercise	3
+2103	T	n: phosphocreatine	3
+2104	T	an: contractile unit	3
+2105	T	ann: repeated measure anova	3
+2106	T	aan: lone atrial fibrillation	3
+2107	T	ann: mass velocity pattern	3
+2108	T	an: great utilization	3
+2109	T	nva: pattern be evident	3
+2110	T	nn: backstroke catch	3
+2111	T	nn: athens olympic	3
+2112	T	a: terjung	3
+2113	T	aan: mastery-oriented motivational climate	3
+2114	T	nn: recovery zone	3
+2115	T	a: pelvic	3
+2116	T	an: contractile force	6
+2117	T	npn: role of lift	3
+2118	T	an: good streamlining	3
+2119	T	ann: professional baseball player	6
+2120	T	an: weekly practice	3
+2121	T	an: collegiate season	3
+2121	V[s]	aan: competitive collegiate season	2
+2122	T	an: current datum	3
+2123	T	an: average improvement	3
+2124	T	an: experimental effect	3
+2125	T	an: repeated exposure	3
+2125	V[s]	aan: repeated cold exposure	3
+2126	T	n: vassallo	3
+2127	T	ran: clinically relevant information	3
+2128	T	n: tsujimoto	3
+2129	T	nn: percent improvement	3
+2130	T	npn: intensity of work	3
+2130	V[s]	nn: work intensity	3
+2131	T	naan: twenty-four elite competitive swimmer	3
+2132	T	ann: gross motor skill	3
+2133	T	aan: elite female swimmer	3
+2134	T	ann: repeated sprint training	3
+2135	T	an: joint structure	3
+2136	T	a: lifesaving	3
+2137	T	an: combined force	3
+2137	V[s]	aan: combined propulsive force	2
+2138	T	ann: skilled butterfly swimmer	3
+2139	T	an: bilateral breathing	3
+2140	T	aan: punitive technical instruction	3
+2141	T	ann: large lung volume	3
+2142	T	npn: movement of swimmer	3
+2143	T	nnn: stroke phase duration	3
+2144	T	nn: ultra-short sprint	3
+2145	T	nn: backward-facing position	6
+2146	T	n: snorkel	3
+2147	T	an: strong effect	3
+2148	T	aan: anaerobic metabolic process	3
+2149	T	an: olympic year	3
+2150	T	ann: collegiate swimming sample	3
+2151	T	n: kjendlie	3
+2152	T	npn: velocity of swimmer	3
+2153	T	nn: evh test	3
+2154	T	an: post-collegiate swimming	3
+2155	T	npn: amount of training	3
+2156	T	nnn: blood lactate level	3
+2157	T	an: local condition	3
+2158	T	nn: performance decrement	3
+2159	T	aan: variable large group	3
+2160	T	nn: high-intensity exercise	3
+2161	T	nn: time swimming	3
+2162	T	nn: in-water warm-up	3
+2163	T	n: meisel	3
+2164	T	nn: position statement	3
+2165	T	an: unpublished manuscript	3
+2166	T	a: counter	3
+2167	T	nnnn: sprint front crawl stroke	3
+2168	T	an: pulmonary ventilation	3
+2169	T	aann: elite front crawl swimmer	3
+2170	T	npnn: pool of muscle fiber	3
+2171	T	nn: meter swimming	3
+2172	T	n: vervoorn	3
+2173	T	an: significant gain	3
+2174	T	npan: series of psychological questionnaire	3
+2175	T	npn: periodization of training	3
+2176	T	nn: vilas-boas jp	3
+2177	T	npncn: force of lift and drag	3
+2178	T	an: large force	3
+2179	T	anpn: non-propulsive surface of body	3
+2180	T	nn: group rp	3
+2181	T	nn: alpha level	3
+2182	T	n: ubiquinone	3
+2183	T	npn: percent of coach	3
+2184	T	nnn: sport medicine committee	3
+2185	T	an: 25m repeat	3
+2186	T	n: dolphin-kicking	3
+2186	V[m]+	nn: dolphin kick	20
+2187	T	ann: middle distance swimmer	3
+2188	T	an: average time	3
+2188	V[s]	annn: average relay exchange time	4
+2189	T	npn: purpose of research	3
+2190	T	nn: computation fluid	3
+2191	T	nn: group comparison	3
+2192	T	nnnn: relay team exchange time	3
+2193	T	an: good estimate	3
+2194	T	a: vantorre	3
+2195	T	n: houghton-mifflin	3
+2196	T	an: successful swimmer	3
+2197	T	an: primary focus	3
+2198	T	a: suggested	3
+2199	T	an: intense effort	3
+2200	T	an: full extension	3
+2201	T	nn: recovery scale	3
+2202	T	n: karine	3
+2203	T	nn: data analysis	3
+2204	T	an: self-reported height	3
+2205	T	n: czabañski	6
+2206	T	an: comprehensive warm-up	3
+2207	T	an: relative amount	3
+2208	T	an: late menarche	3
+2209	T	nn: hydrogen ion	3
+2210	T	anpn: scandinavian journal of medicine	6
+2211	T	an: lane bias	3
+2212	T	n: magnussen	3
+2213	T	nn: novice competitor	3
+2214	T	nn: electromyogr kinesiol	3
+2215	T	n: neighborhood	3
+2216	T	an: competitive period	3
+2217	T	nn: swimmer peak	3
+2218	T	an: 800m freestyle	12
+2219	T	an: sufficient recovery	3
+2220	T	n: montpetit	3
+2221	T	an: 200m breaststroke	6
+2222	T	an: ecological validity	3
+2223	T	nn: time shift	3
+2224	T	nn: meter time	3
+2225	T	ann: total stress load	3
+2226	T	aann: computational fluid dynamics analysis	3
+2227	T	ann: 3d analysis technique	3
+2228	T	a: one-half	6
+2229	T	n: co-worker	3
+2230	T	ann: olympic swim team	3
+2231	T	an: terrestrial mammal	3
+2232	T	npn: component of warm-up	3
+2233	T	ann: peripheral training adaptation	3
+2234	T	nnn: world championship athlete	3
+2235	T	an: ventricular remodeling	3
+2236	T	ann: 3-month winter period	3
+2237	T	aann: mass forward velocity graph	3
+2238	T	an: important outcome	3
+2239	T	n: self-talk	3
+2240	T	nn: shoulder laxity	3
+2241	T	npncn: journal of electromyography and kinesiology	3
+2242	T	nn: recovery level	3
+2243	T	n: successfulness	3
+2244	T	nn: reaction effect	3
+2245	T	an: longitudinal study	3
+2246	T	ann: upper limb muscle	3
+2247	T	anpn: intense demand of competition	3
+2248	T	n: cassettari-wayhs	3
+2249	T	npn: analysis of age	3
+2250	T	r: publically	3
+2251	T	an: physiological perspective	3
+2252	T	n: burgonmaster	3
+2253	T	an: solid line	3
+2254	T	aan: xix international symposium	6
+2255	T	n: hermens	3
+2256	T	aaan: national collegiate athletic association	3
+2257	T	n: non-athletes	3
+2258	T	an: hydrodynamic analysis	3
+2259	T	npan: result of tethered swimming	3
+2260	T	aan: coach-created motivational climate	3
+2261	T	a: 30-second	6
+2262	T	nan: freestyle biomechanical error	3
+2263	T	nn: rehabilitation program	3
+2264	T	aann: three-dimensional spatial hand pattern	3
+2265	T	nnn: lactate removal mechanism	3
+2266	T	anpnn: fast rate of energy release	3
+2267	T	an: individual pool	3
+2268	T	nnn: increase oxygen consumption	3
+2269	T	n: hanin	3
+2270	T	nn: 50m repeat	3
+2271	T	an: prolonged stress	3
+2272	T	ncnn: arm and hand acceleration	3
+2273	T	anpn: major purpose of paper	3
+2274	T	an: spinal deformity	3
+2275	T	nn: lift effect	3
+2276	T	an: hydrodynamic drag	3
+2277	T	ann: optimal training adaptation	3
+2278	T	an: severe disability	3
+2279	T	an: 2d analysis	3
+2280	T	npn: increase of myoglobin	3
+2281	T	aan: italian olympic committee	3
+2282	T	nann: sweep final upsweep figure	3
+2283	T	npn: characteristic of st	3
+2284	T	n: courteix	3
+2285	T	nn: acclimatization process	3
+2286	T	npnnn: order of muscle fiber recruitment	3
+2287	T	npn: journal of bone	3
+2288	T	n: stopwatch	3
+2289	T	ann: traditional endurance-training group	3
+2289	V[im]	ann: traditional endurance training	15
+2290	T	an: similar type	3
+2291	T	anpnn: identical program of training reduction	3
+2292	T	n: wibrand	3
+2293	T	an: short-term success	3
+2294	T	nn: swim aid	3
+2295	T	npnn: result of shoulder angle	3
+2296	T	an: downward force	3
+2297	T	nn: glide efficiency	3
+2298	T	nn: mood state	3
+2299	T	npn: category of training	3
+2300	T	an: main finding	3
+2301	T	r: laterally	3
+2302	T	nn: stroke frequency	3
+2303	T	nn: introduction swimming	3
+2304	T	an: horizontal position	3
+2304	V[s]	aan: horizontal straight position	2
+2305	T	aan: abdominal internal pressure	3
+2306	T	an: normal bmi	3
+2307	T	n: raha	3
+2308	T	an: valuable tool	3
+2309	T	npnn: university of castilla-la mancha	3
+2310	T	nn: sport devaluation	3
+2311	T	ann: total recovery-stress state	3
+2312	T	an: small difference	3
+2313	T	n: conductance	3
+2314	T	an: considerable variability	3
+2315	T	an: aerobic enzyme	3
+2316	T	nnnn: american swimming coach association	3
+2317	T	nn: talent development	3
+2318	T	npnn: effect of hiit training	3
+2319	T	acan: active and passive recovery	3
+2320	T	npan: percentage of maximum load	3
+2321	T	nn: glycogen recovery	3
+2322	T	an: potential performance	3
+2323	T	nn: shoulder movement	3
+2324	T	nn: shapiro-wilk test	3
+2325	T	nn: training technique	3
+2326	T	npn: release of energy	3
+2327	T	an: basic swimming	3
+2328	T	npn: width of recovery	3
+2329	T	n: tourney-chollet	9
+2330	T	nn: hand pressure	3
+2331	T	an: muscular fatigue	3
+2332	T	nnn: cross country skier	3
+2333	T	npn: sense of competence	3
+2334	T	nn: muscle lactate	3
+2335	T	n: neurophysiology	3
+2336	T	npn: level of significance	3
+2336	V[s]	nn: significance level	3
+2337	T	an: present result	3
+2338	T	ann: skeletal muscle mitochondrion	3
+2339	T	acan: oceanic and atmospheric administration	3
+2340	T	nn: water swimming	3
+2341	T	nn: swimming program	3
+2342	T	anpn: large amount of sub-threshold	3
+2343	T	nva: level be high	3
+2344	T	nn: race analysis	3
+2345	T	nn: intensity period	3
+2346	T	an: traditional assumption	3
+2347	T	an: coronary artery	3
+2348	T	npn: simplicity of sfps	3
+2349	T	nn: technique drill	3
+2350	T	an: official result	3
+2351	T	an: total time	3
+2352	T	n: tibone	3
+2353	T	anpnn: international journal of sport psychology	3
+2354	T	n: hendrikson	3
+2355	T	an: great percentage	3
+2356	T	nnn: medicine science sport	3
+2357	T	an: hypoxic condition	3
+2358	T	an: ventilatory capacity	3
+2359	T	n: paradigm	3
+2360	T	n: lewillie	3
+2361	T	anpn: total number of stroke	3
+2362	T	n: oxidation	3
+2363	T	annn: int j sport nutr	3
+2364	T	nn: champaign il	3
+2365	T	an: moderate effort	3
+2366	T	nnn: cycle endurance capacity	3
+2367	T	n: salmela	3
+2368	T	aan: sarcolemmal giant vesicle	3
+2369	T	an: dynamic lift	3
+2370	T	nn: spring valley	3
+2371	T	nnpn: part ii of paper	3
+2372	T	npn: pressure of water	3
+2372	V[s]	nn: water pressure	2
+2373	T	nn: observer reliability	3
+2374	T	n: barden	3
+2375	T	nn: maturity status	3
+2376	T	n: thessaloniki	3
+2377	T	nn: participation record	3
+2378	T	an: individual variability	3
+2379	T	ncnn: asymmetry and muscle imbalance	3
+2380	T	ann: oxidative stress biomarkers	3
+2381	T	n: dysfunction	3
+2382	T	nn: swimmer performance	3
+2383	T	annn: underwater arm stroke motion	3
+2384	T	nn: resistance vessel	3
+2385	T	nn: force generation	3
+2386	T	an: cardiac problem	3
+2387	T	an: long jumper	3
+2388	T	npn: photo of zubero	3
+2389	T	aann: national-level female swim population	3
+2390	T	an: lower-performing swimmer	3
+2391	T	nn: image analysis	3
+2392	T	ann: probable stroke pattern	3
+2393	T	n: mid-season	3
+2394	T	n: jurimae	3
+2395	T	nn: endurance benefit	3
+2396	T	aan: anaerobic metabolic system	3
+2397	T	anpn: anterior tip of acromion	3
+2398	T	nn: breaststroke swimming	11
+2399	T	an: elite backstroke	11
+2400	T	nn: intensity interval	11
+2400	V[s]	nnn: intensity interval training	8
+2401	T	n: year-within-olympiad	8
+2402	T	a: respiratory	26
+2403	T	n: endurance	178
+2404	T	an: collegiate athlete	5
+2405	T	nn: overtraining syndrome	5
+2406	T	ncan: sprinter and middle distance	5
+2407	T	nn: research quarterly	5
+2408	T	an: fat percentage	5
+2409	T	nn: peak power	5
+2410	T	an: olympic competition	5
+2411	T	acan: male and female backstroke	5
+2412	T	npn: rate of improvement	5
+2413	T	a: physiologic	5
+2414	T	n: post-testing	5
+2415	T	a: gonzález-ravé	5
+2416	T	an: multidisciplinary approach	5
+2417	T	a: pre-training	5
+2418	T	n: guimares	5
+2419	T	n: short-course	5
+2420	T	nn: american swimming	5
+2421	T	an: 100m crawl	5
+2422	T	nn: cold-water swimmer	5
+2423	T	npn: effect of moderate-intensity	5
+2424	T	a: glycolytic	5
+2425	T	n: hassmén	5
+2426	T	an: propulsive effect	5
+2427	T	n: breastroke	5
+2428	T	n: henrich	5
+2429	T	an: high-volume training	5
+2429	V[img]	ann: high volume training	4
+2430	T	an: diastolic volume	5
+2431	T	aan: senior elite group	5
+2432	T	an: companion piece	5
+2433	T	nn: cold-water swimming	5
+2434	T	aan: national-level female swim	5
+2435	T	nn: time trial	56
+2435	V[s]	nnn: post-intervention time trial	10
+2435	V[s]	nnn: pre-intervention time trial	9
+2435	V[s]	nnnn: - intervention time trial	5
+2435	V[s]+	nnn: freestyle time trial	5
+2436	T	an: left arm	29
+2437	T	nn: stress-recovery state	7
+2438	T	an: upper body	25
+2439	T	ncnn: fta and ftx fiber	9
+2440	T	n: drag	145
+2441	T	nn: reference point	28
+2442	T	n: paddle	77
+2443	T	an: world-class backstroker	6
+2444	T	nva: swimmer be grateful	2
+2445	T	ann: gold medal winner	2
+2446	T	npan: child with cerebral palsy	2
+2447	T	npncn: muscle of deltoid and supraspinatus	2
+2448	T	nn: master athlete	2
+2449	T	nn: elite-level performer	2
+2450	T	ann: san antonio texas	2
+2451	T	n: habituation	2
+2452	T	nn: altitude camp	2
+2453	T	npncn: alignment of spine and body	2
+2454	T	nn: bone growth	2
+2455	T	npan: quality of physical training	2
+2456	T	an: red cone	2
+2457	T	an: essential reference	2
+2458	T	an: standard protocol	2
+2459	T	acann: continuous or short rest swimming	2
+2460	T	an: finishing stroke	2
+2461	T	n: crepitus	2
+2462	T	aan: spinal musculoskeletal injury	2
+2463	T	npan: portion of final upsweep	2
+2464	T	an: acceptable performance	2
+2465	T	nn: jackie buellb	2
+2466	T	nnn: levator scapula muscle	2
+2467	T	aan: optimal streamlined alignment	2
+2468	T	n: sjödin	2
+2469	T	ann: polar bear award	2
+2470	T	n: palapation	2
+2471	T	npn: style of coach	2
+2472	T	an: psychological tool	2
+2473	T	npn: measurement of swimmer	2
+2474	T	npn: repetition of exercise	2
+2475	T	an: aquatic environment	2
+2476	T	npan: stress of lumbar segment	2
+2477	T	an: careful monitoring	2
+2478	T	ncnpn: movement and use of arm	2
+2479	T	npncnn: faculty of health and life science	2
+2480	T	an: preventative approach	2
+2481	T	npan: rate with noticeable decrease	2
+2482	T	nnan: muscle fiber contractile property	2
+2483	T	npnn: beginning of cycle preparation	2
+2484	T	n: baxter-jones	2
+2485	T	nn: backstroke semi-final	2
+2486	T	n: beighton	2
+2487	T	an: slow velocity	2
+2488	T	nnnnn: resistance propulsion shape posture flexibility	2
+2489	T	nnn: block training system	2
+2490	T	an: high reliability	2
+2491	T	n: bogdanis	2
+2492	T	nva: participant be unable	2
+2493	T	npn: series of photo	2
+2494	T	npan: purpose of present study	2
+2495	T	aan: recent technological advance	2
+2496	T	an: visual inspection	2
+2497	T	an: equal amount	2
+2498	T	npan: repeat with adequate recovery	2
+2499	T	npn: beginning of pull	2
+2500	T	annn: polar bear swim champion	2
+2501	T	an: appointed realization	2
+2502	T	nva: female be advantageous	2
+2503	T	ann: human movement science	2
+2504	T	npn: symmetry of activity	2
+2505	T	ncnn: - and post-intervention time	2
+2506	T	aann: annual polar bear challenge	2
+2507	T	npn: water with underside	2
+2508	T	n: outreach	2
+2509	T	nn: start line	2
+2510	T	n: vo2maz	2
+2511	T	npncn: distribution of volume and intensity	2
+2512	T	npan: characteristic of polar bear	2
+2513	T	nn: placebo exposure	2
+2514	T	nn: alexander roorda	2
+2515	T	npnn: water with three-peak stroke	2
+2516	T	n: jansson	2
+2517	T	an: general suggestion	2
+2518	T	an: entire length	2
+2519	T	anpnn: significant loss of stroke length	2
+2520	T	nn: water pressure	2
+2521	T	rann: characteristically different exchange time	2
+2522	T	annnn: short course world champion freestyle	2
+2523	T	ann: linear body shape	2
+2524	T	acan: upper and low arm	2
+2525	T	annn: individual training exchange time	2
+2526	T	a: nagle1	2
+2527	T	ncan: injury and joint pain	2
+2528	T	npn: duration of application	2
+2529	T	an: streamlined shape	2
+2530	T	npan: challenge of san francisco	2
+2531	T	nn: sample procedure	2
+2532	T	ran: increasingly popular approach	2
+2532	V[s]	an: popular approach	3
+2533	T	npn: training of muscle	2
+2534	T	nnnn: usa swimming performance database	2
+2535	T	npncn: position of limb and joint	2
+2536	T	ann: asymmetrical muscle tightness	2
+2537	T	nn: ladder design	2
+2538	T	npn: battery of test	2
+2539	T	npnn: optimization of training volume	2
+2540	T	nn: training week	2
+2541	T	npncnn: frequency of training and training session	2
+2542	T	ncnn: bacon and carl petersen	2
+2543	T	ran: largely horizontal direction	2
+2544	T	npn: period of denial	2
+2545	T	nva: team be fast	2
+2546	T	an: daily well-being	2
+2547	T	npn: disqualification of team	2
+2548	T	n: canepari	2
+2549	T	nn: foot electrode	2
+2550	T	npan: effect of ss warm-up	2
+2551	T	ncnn: activation and antagonist muscle	2
+2552	T	ann: high elbow position	2
+2553	T	nva: loading be great	2
+2554	T	nn: intensity group	2
+2555	T	an: empirical datum	2
+2556	T	n: lateralisation	4
+2557	T	an: psychosocial outcome	2
+2558	T	an: prescribed activity	2
+2559	T	npan: platform of first lane	2
+2560	T	anpn: major effect of training	2
+2561	T	annnn: polar bear challenge swimming event	2
+2562	T	ann: high trunk action	2
+2563	T	nnan: resistance shape most source	2
+2564	T	an: 5th place	2
+2565	T	nn: dolphin-kick group	2
+2566	T	an: experimental procedure	2
+2567	T	an: effective dry-land	2
+2568	T	nn: x-ray beam	2
+2569	T	npn: initiation of training	2
+2570	T	n: whitehead2	2
+2571	T	n: quart	2
+2572	T	nn: drag vector	2
+2573	T	npn: scope of work	2
+2574	T	nnpn: hand photo of zubero	2
+2575	T	npan: swimmer with biomechanical evidence	2
+2576	T	n: panas	2
+2577	T	npan: support of customized suit	2
+2578	T	anpnn: significant number of fta fiber	4
+2579	T	npnnn: content of emg signal change	2
+2580	T	aann: isolated anterior shoulder pain	2
+2581	T	nn: periodization model	2
+2582	T	aan: secondary developmental effect	2
+2583	T	nn: breaststroke event	2
+2584	T	an: specialized training	2
+2585	T	an: minimum training	2
+2586	T	ann: considerable body roll	2
+2587	T	ann: standard test protocol	2
+2588	T	ann: human shoulder muscle	2
+2589	T	nva: variable be indicative	2
+2590	T	ann: high - volume	2
+2591	T	an: 4th week	2
+2592	T	a: markovic	2
+2593	T	ncnpn: attitude and perception of coach	2
+2594	T	an: psychological measurement	2
+2595	T	npncn: combination of science and art	2
+2596	T	npn: lane of pool	2
+2597	T	nnn: muscle glycogen store	2
+2598	T	npnn: severity of shoulder pain	2
+2599	T	an: large paddle	2
+2600	T	an: critical consideration	2
+2601	T	a: fish-like	2
+2602	T	npnpn: cord with increase of agonist	2
+2603	T	ncnn: asymmetry and swimming performance	2
+2604	T	an: depressed group	2
+2605	T	npan: measure of aerobic threshold	2
+2606	T	annn: seasonal hand force variation	2
+2607	T	aan: competitive collegiate season	2
+2608	T	npnpn: duration of phase of stroke	2
+2609	T	anpn: primary purpose of study	2
+2610	T	an: strong influence	2
+2611	T	nn: angle elbow	2
+2612	T	acan: psychological and physiological variable	2
+2613	T	aan: anaerobic metabolic capacity	2
+2614	T	anpn: short period of rest	2
+2615	T	nnnnn: adaptation rod havriluk swimming technology	2
+2616	T	npan: metabolite of anaerobic metabolism	2
+2617	T	n: urabe	2
+2618	T	an: good prevention	2
+2619	T	an: human bioenergetics	2
+2620	T	nn: dolphin log	2
+2621	T	n: preadolescents	2
+2622	T	an: surgical candidate	2
+2623	T	npn: level of control	2
+2624	T	an: kinematic parameter	2
+2625	T	npn: intention of study	2
+2626	T	n: parlebas	2
+2627	T	npan: acceleration of forward velocity	2
+2628	T	n: brammer	2
+2629	T	an: haematological change	2
+2630	T	nn: baseball pitching	2
+2631	T	n: pankey	2
+2632	T	anpn: detailed analysis of body	2
+2633	T	an: preliminary heat	2
+2634	T	nva: finding be similar	2
+2635	T	ann: adaptive step -	2
+2636	T	nnn: usa ncaa championship	2
+2637	T	nnn: hand force curve	2
+2638	T	ann: active drag force	2
+2639	T	nva: interval be december	2
+2640	T	ann: simulated altitude exposure	2
+2641	T	n: cinquième	2
+2642	T	an: streamlined body	2
+2643	T	npn: concurrence of theory	2
+2644	T	n: kasimatis	2
+2645	T	npn: feeling of energy	2
+2646	T	aan: horizontal straight position	2
+2647	T	annnn: fifty-eight usa swimming age group	2
+2648	T	nnpn: increase turbulence of volume	2
+2649	T	npn: start of warm-up	2
+2650	T	npn: surface of object	2
+2651	T	n: vo2peak	2
+2652	T	an: strong relationship	2
+2653	T	ann: important training adaptation	2
+2654	T	an: practical perspective	2
+2655	T	an: long catch	2
+2656	T	ncan: development and preliminary validation	2
+2657	T	an: long layoff	2
+2658	T	acan: anaerobic and aerobic energy	2
+2659	T	ncnn: solstad and pierre-nicolas lemyre	2
+2660	T	an: predictable effect	2
+2661	T	aan: good technical form	2
+2662	T	nn: recording chart	2
+2663	T	anpn: primary aim of taper	2
+2664	T	npn: manifestation of imbalance	2
+2665	T	an: propulsive technique	2
+2666	T	nva: warm-up be static	2
+2667	T	an: maximum force	2
+2668	T	ann: low limb injury	2
+2669	T	nn: upper-arm kinematics	2
+2670	T	n: satkunskiene	2
+2671	T	npnn: effect of wave drag	2
+2672	T	an: muscular imbalance	2
+2673	T	an: optimal workload	2
+2674	T	anpn: total absence of dolphin	2
+2675	T	npn: implementation of taper	2
+2676	T	ann: 3-site skinfold method	2
+2677	T	nn: sulcus sign	2
+2678	T	anpnn: flat portion of acromion process	2
+2679	T	npn: normality of datum	2
+2680	T	n: acidosis	2
+2681	T	anpnn: propulsive phase of breaststrokers insweep	2
+2682	T	ann: zigzag hand pattern	2
+2683	T	npnn: contribution of wave drag	2
+2684	T	nn: knee angle	2
+2685	T	npn: type of fiber	2
+2685	V[s]+	nn: fiber type	40
+2686	T	an: flat style	2
+2687	T	npan: aspect of comprehensive prevention	2
+2688	T	ncnn: strength and flexibility training	2
+2689	T	npan: perception of mastery-involving climate	2
+2690	T	nn: achievement environment	2
+2691	T	npnn: effect of altitude training	2
+2692	T	ann: future training decision	2
+2693	T	n: ep&s	2
+2694	T	an: curvilinear pathway	2
+2695	T	nnn: world championship participant	2
+2696	T	n: precompetition	2
+2697	T	nnn: waist crease asymmetry	2
+2698	T	nn: performance benefit	2
+2699	T	an: postural measurement	2
+2700	T	ann: high interval exercise	2
+2701	T	npn: proportion of respondent	2
+2702	T	n: aasp	2
+2703	T	nn: glide performance	2
+2704	T	npn: line with body	2
+2705	T	an: intraspecific transfer	4
+2706	T	npan: phase of front crawl	2
+2707	T	ncan: flexion and internal rotation	2
+2708	T	ann: popular swimming stroke	2
+2709	T	nann: sum total training time	2
+2710	T	an: pre-olympic swimming	2
+2711	T	nn: biceps tendonitis	2
+2712	T	npn: observation of figure	2
+2713	T	an: noticeable fall-off	2
+2714	T	an: non-dominant shoulder	2
+2715	T	an: unique potential	2
+2716	T	an: scientific explanation	2
+2717	T	an: untrained individual	2
+2718	T	nn: method datum	2
+2719	T	an: sound reasoning	2
+2720	T	an: equal contribution	2
+2721	T	aan: unbalanced rotational effect	2
+2722	T	annn: short-term resistance exercise training	2
+2723	T	aan: habitual bilateral breather	2
+2724	T	an: manual resistance	2
+2725	T	nnn: injury prevention practice	2
+2726	T	n: machtsiras	2
+2727	T	an: small influence	2
+2728	T	npan: theory of fluid movement	2
+2729	T	nnpn: morning workout of week	2
+2730	T	n: mid-way	2
+2731	T	n: aaaa	2
+2732	T	n: phsyiol	2
+2733	T	npnn: demand of training regime	2
+2734	T	nn: water motion	2
+2735	T	npan: strengthening of posterior shoulder	2
+2736	T	npn: palm of swimmer	2
+2737	T	ncan: hip and lumbar extensor	2
+2738	T	an: minimum velocity	2
+2739	T	nnnn: sport nutr exerc metab	2
+2740	T	an: cognitive performance	2
+2741	T	npan: avoidance of regular practice	2
+2742	T	an: considerable drag	2
+2743	T	npnnn: phase of backstroke arm stroke	2
+2744	T	an: non-acclimatized swimmer	2
+2745	T	ann: excessive shoulder revolution	2
+2746	T	nnn: acta physiologica scandanavia	2
+2747	T	n: brocca	2
+2748	T	npn: characteristic of type	2
+2749	T	an: backward inertia	2
+2750	T	ann: asymmetrical movement pattern	2
+2751	T	nn: saint-lô club	2
+2752	T	npn: stage of race	2
+2753	T	nn: improvement level	2
+2754	T	an: skinfold measure	2
+2755	T	nn: timing asymmetry	2
+2756	T	npn: recovery of leg	2
+2757	T	ann: maximum shoulder roll	2
+2758	T	npan: cdepartment of internal medicine	2
+2759	T	npn: history of injury	2
+2760	T	nnnn: side view stroke pattern	2
+2761	T	npn: month of training	2
+2762	T	acann: absolute and relative frequency distribution	2
+2763	T	an: steep angle	2
+2764	T	npn: review of literature	2
+2765	T	npn: intensity of workout	2
+2766	T	nnpn: side view of breaststroke	2
+2767	T	n: biomechanists	2
+2768	T	npnnn: prediction of percent body fat	2
+2769	T	npnpn: rate of decay of velocity	2
+2770	T	npn: variety of sport	2
+2771	T	npan: level of self-regulated motivation	2
+2772	T	an: major asymmetry	2
+2773	T	npn: study with rat	2
+2774	T	an: full workout	2
+2775	T	anpn: zigzag movement of hand	2
+2776	T	nnn: shoulder impingement syndrome	2
+2777	T	npan: importance of anaerobic metabolism	2
+2778	T	an: 8th week	2
+2779	T	ann: usual training programme	2
+2780	T	nn: function change	2
+2781	T	ncan: training and high incidence	2
+2782	T	ncnpn: contrast and interference of image	2
+2783	T	an: demographic datum	2
+2784	T	aan: early vertical forearm	2
+2785	T	an: mechanical stress	2
+2786	T	npn: angle of elbow	2
+2787	T	anan: hypoxic exposure previous research	2
+2788	T	a: ionotropic	4
+2789	T	n: perier	2
+2790	T	nn: pb improvement	2
+2791	T	n: pedersen	2
+2792	T	an: additional detail	2
+2793	T	nn: erin pounders1	2
+2794	T	a: hands-off	2
+2795	T	an: individual measure	2
+2796	T	n: atp-cp	2
+2797	T	an: competitive race	2
+2798	T	a: stager1	2
+2799	T	npan: power of simulated swimming	2
+2800	T	nva: work be intense	2
+2801	T	ann: unique three-peak backstroke	2
+2802	T	an: cognitive restructuring	2
+2803	T	ncnpn: duration and intensity of training	2
+2804	T	ncan: shoulder and slender hip	2
+2805	T	anpnn: international journal of sport science	2
+2806	T	nan: discussion previous investigation	2
+2807	T	n: elbe	2
+2808	T	an: foremost concern	2
+2809	T	aan: autonomic nervous system	2
+2810	T	ann: dry land program	2
+2811	T	a: 3department	2
+2812	T	a: 2peak	2
+2813	T	aan: high low high	2
+2814	T	npn: efficacy of intervention	2
+2815	T	ncnn: asymmetry and movement asymmetry	2
+2816	T	an: single performance	2
+2817	T	npnn: phase of stroke cycle	2
+2818	T	ann: incorrect hand position	2
+2819	T	an: athletic injury	2
+2820	T	nn: lactate metabolism	2
+2821	T	npn: line with team	2
+2822	T	npnn: speed of breastroke swimming	4
+2823	T	acann: male and female track athlete	2
+2824	T	annn: female division i swimmer	2
+2825	T	nn: performance problem	2
+2826	T	npan: battery of kinematic variable	2
+2827	T	ann: abdominal drawing-in maneuver	2
+2828	T	npan: production of strong force	2
+2829	T	an: typical practice	2
+2830	T	npncn: term of volume and intensity	2
+2831	T	annn: online overuse injury prevention	2
+2832	T	an: multidimensional questionnaire	2
+2833	T	an: aquatic milieu	2
+2834	T	an: low ability	2
+2835	T	npan: department of human performance	2
+2836	T	nn: olivos pt	2
+2837	T	ncan: strength and neural development	2
+2838	T	anpn: inequitable contribution of limb	2
+2839	T	aan: excellent overhead view	2
+2840	T	an: mitochondrial messenger	2
+2841	T	n: tipton	2
+2842	T	npn: edge of board	2
+2843	T	an: flat board	2
+2844	T	n: eersel	2
+2845	T	nn: percentage improvement	2
+2846	T	ann: three-dimensional laser scanner	2
+2847	T	nnnn: muscle fiber recruitment result	2
+2848	T	n: millisecond	2
+2849	T	aan: senior elite swimmer	2
+2850	T	n: eveningness	2
+2851	T	npn: time with break	2
+2852	T	ncan: uptake and respiratory enzyme	2
+2853	T	npn: tract of competitor	2
+2854	T	nnpn: ftx fiber of human	2
+2855	T	n: dartfish	2
+2856	T	an: undue emphasis	2
+2857	T	rann: thoughtfully conceived swim training	2
+2858	T	an: strouhal number	2
+2859	T	n: ceas	2
+2860	T	npan: development of active movement	2
+2861	T	nva: question be consistent	2
+2862	T	npn: structure of skeleton	2
+2863	T	nva: kick be symmetrical	2
+2864	T	aan: significant two-way olympiad	2
+2865	T	anpnn: clinical measure of shoulder mobility	2
+2866	T	npn: result of propulsion	2
+2867	T	nn: elbow joint	2
+2868	T	an: late maturation	2
+2869	T	aan: additional physiological adaptation	2
+2870	T	anpn: primary component of improvement	2
+2871	T	npan: segment of individual swimmer	2
+2872	T	ncan: animal and marine vessel	2
+2873	T	n: rahnama	2
+2874	T	ncnn: harm and co worker	2
+2875	T	ann: subacromial impingement syndrome	2
+2876	T	ann: long distance competition	2
+2877	T	acan: middle and right photo	2
+2878	T	nn: methacholine provocation	2
+2879	T	npan: portion of preceding downsweep	2
+2880	T	an: long axis	2
+2881	T	ncan: load and subsequent performance	2
+2882	T	n: greencastle	2
+2883	T	nva: participant be blind	2
+2884	T	npn: resumption of workout	2
+2885	T	n: rampinini	2
+2886	T	anpnn: basic understanding of training stress	2
+2887	T	n: chickenpox	2
+2888	T	nn: ullevål stadion	2
+2889	T	an: realistic opportunity	2
+2890	T	acan: strong and early catch	2
+2891	T	an: mathilde lefranc	2
+2892	T	anpn: traditional program of periodization	2
+2893	T	an: specific exercise	2
+2894	T	ncan: angle or lumbar lordosis	2
+2895	T	an: initial contributor	2
+2896	T	n: sigaut	2
+2897	T	an: joint mobility	2
+2898	T	nn: price tb	2
+2899	T	n: mosby	2
+2900	T	an: low threshold	2
+2901	T	n: lanfranconi	2
+2902	T	an: uneven development	2
+2903	T	aan: major propulsive peak	2
+2904	T	npn: generation of force	2
+2904	V[s]	nn: force generation	3
+2905	T	an: absolute time	2
+2906	T	ann: long rest period	2
+2907	T	an: psychological perspective	2
+2908	T	nn: sport involvement	2
+2909	T	nva: swimming be problematic	2
+2910	T	nva: baseline be consistent	2
+2911	T	nann: swimmer functional pain scale	2
+2912	T	an: absolute swim-time	2
+2913	T	n: viscor	2
+2914	T	n: elsevier	2
+2915	T	npn: section of survey	2
+2916	T	ann: poor practice skill	2
+2917	T	anpn: american academy of paediatrics	2
+2918	T	ncan: entry and incorrect hand	2
+2919	T	annn: competitive crawl stroke swimmer	2
+2920	T	n: familiarization	2
+2921	T	an: 3-month period	2
+2922	T	an: turbulent flow	2
+2923	T	an: competitive time	2
+2924	T	an: postural assessment	2
+2925	T	aann: definite preferred breathing side	2
+2926	T	aan: strong positive correlation	2
+2927	T	nn: race swimming	2
+2928	T	npncn: biomechanic of drag and propulsion	2
+2929	T	an: winning performance	2
+2930	T	an: digital inclinometer	2
+2931	T	n: abrams	2
+2932	T	n: anth	2
+2933	T	nn: surface performance	2
+2934	T	aan: combined propulsive force	2
+2935	T	npncnn: nature of practice and conditioning session	2
+2936	T	npan: location of propulsive phase	2
+2937	T	an: potential pb	2
+2938	T	ran: roughly equal number	2
+2939	T	nva: landmark be problematic	2
+2940	T	ann: simulated swimming action	2
+2941	T	aan: female collegiate swimmer	2
+2941	V[s]+	aan: collegiate female swimmer	11
+2942	T	an: underwater kick	4
+2943	T	aan: excellent underwater kicker	2
+2944	T	nann: conclusion periodic hand force	2
+2945	T	anpn: small number of swimmer	2
+2946	T	ann: positive test result	2
+2947	T	ann: situational motivation scale	2
+2948	T	an: underwater view	2
+2949	T	an: anterior instability	2
+2950	T	ncnn: ss or dw component	2
+2951	T	n: sideraviciüte	2
+2952	T	nnan: intensity training high intensity	2
+2953	T	npan: body with broad chest	2
+2954	T	nn: performance response	2
+2955	T	an: baseline competency	2
+2956	T	anpn: asymmetrical characteristic of technique	2
+2957	T	npn: development of asymmetry	2
+2957	V[s]	npan: development of technical asymmetry	2
+2958	T	nva: training be consistent	2
+2959	T	nn: questionnaire package	2
+2960	T	nnnn: rio olympics christopher bacon	2
+2961	T	n: hilliard	2
+2962	T	aan: major propulsive movement	2
+2963	T	ann: low limb alignment	2
+2964	T	an: test-retest design	2
+2965	T	nann: asymmetry three-dimensional video technique	2
+2966	T	an: international rule	2
+2967	T	anpn: resting position of scapula	2
+2968	T	npncn: duration of catch and pull	2
+2969	T	nn: performance analysis	2
+2970	T	npn: finish of race	2
+2971	T	ann: big rest time	2
+2972	T	npan: age of national-level swim	4
+2973	T	an: competitive routine	2
+2974	T	an: oxidative metabolism	2
+2975	T	nnn: out-of-water training program	2
+2976	T	npnpn: center of mass of body	4
+2977	T	npan: scenario with small number	2
+2978	T	nann: nutrition neuromuscular research laboratory	2
+2979	T	an: great decrease	2
+2980	T	ncan: technique and respective variant	2
+2981	T	npnpn: effect of recovery of arm	2
+2982	T	annn: anaerobic energy system capacity	2
+2983	T	npan: development of technical asymmetry	2
+2984	T	npn: work of osborough	2
+2985	T	n: standardize-time	2
+2986	T	an: high train-low	2
+2987	T	ncnn: in-water and out-of-water training	2
+2988	T	nnn: in-water practice yard	2
+2989	T	npnn: video of martin zubero	4
+2990	T	ncan: timing and adolescent swim	2
+2991	T	npnn: type of coaching behavior	2
+2992	T	npnn: pattern of breaststroke swimmer	2
+2993	T	aaan: 1st lumbar spinous process	2
+2994	T	nn: - stress	2
+2995	T	nn: coombes js	2
+2996	T	npn: sum of reading	2
+2997	T	an: olympic-gold-medal -	2
+2998	T	ran: energetically efficient manner	2
+2999	T	nn: usa cdepartment	2
+3000	T	ann: individual swimming stroke	2
