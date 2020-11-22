@@ -4,14 +4,15 @@ This repository provides the code for two sequence tagging systems, created with
 This code is specifically made to retrieve and tag a corpus and train and test models with the BIO notation on the specific field of swimming.
 
 ## Installation
-After cloning this repository, you should install the required packages: 
+After cloning this repository, you should install the required packages:
+
 `pip install -r requirements.txt`
 
 The project was tested with Python 3.8.0.
 
 ## Running the code
 
-### Dataset extraction
+### Dataset Extraction
 The dataset can be extracted by running [scraper.py](https://github.com/Dodo-s95/the-term-crawler/blob/main/scr/scraper.py), and converted into usable txt files by running [converter.py](https://github.com/Dodo-s95/the-term-crawler/blob/main/scr/converter.py).
 
 ### Terms Extraction
